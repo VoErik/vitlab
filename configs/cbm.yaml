@@ -1,0 +1,28 @@
+# SAE concept-bottleneck classifier.
+mode: separate             # separate | joint
+train_data: cache/dinov2-base/fitzpatrick17k_train.pt   # {"embeddings":(N,T,D),"labels":(N,)}
+test_data:  cache/dinov2-base/fitzpatrick17k_test.pt
+backbone_name: dinov2-base
+site: blocks.11.resid_post
+
+sae_type: TopKSAE
+nb_concepts: 16384
+top_k: 32
+normalize: zscore
+sae_epochs: 50
+sae_lr: 3.0e-4
+sae_batch_size: 4096
+
+aggregation: max           # max | mean | both
+elasticnet_alpha: 1.0e-2
+elasticnet_l1_ratio: 0.5
+classifier_lr: 1.0e-3
+classifier_epochs: 15
+classifier_batchsize: 256
+
+# joint-mode weights:
+sae_lambda: 1.0
+classifier_lambda: 1.0
+
+seeds: [1, 2, 3]
+out: runs/cbm/dinov2_fitz_l11
