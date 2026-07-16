@@ -1,0 +1,27 @@
+figure.figsize        : 6.0, 4.0
+figure.dpi            : 120
+savefig.dpi           : 300
+savefig.bbox          : tight
+savefig.format        : pdf
+
+font.size             : 10
+axes.titlesize        : 11
+axes.labelsize        : 10
+legend.fontsize       : 9
+xtick.labelsize       : 9
+ytick.labelsize       : 9
+
+image.cmap            : viridis
+axes.prop_cycle       : cycler('color', ['440154', '414487', '2a788e', '22a884', '7ad151', 'fde725'])
+
+axes.spines.top       : False
+axes.spines.right     : False
+axes.grid             : True
+grid.alpha            : 0.3
+grid.linewidth        : 0.5
+axes.axisbelow        : True
+
+lines.linewidth       : 1.8
+lines.markersize      : 5
+legend.frameon        : False
+figure.autolayout     : True

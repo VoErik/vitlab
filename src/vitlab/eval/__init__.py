@@ -29,7 +29,7 @@ from .metrics import (
     intrinsic_dimensionality_spectral,
     local_id_mle
 )
-from .run import evaluate_bank_live, evaluate_concepts, evaluate_store
+from .run import evaluate_bank_live, evaluate_concepts, evaluate_store, collect_codes
 from .sae_bank import LayerSAE, Normalizer, SAEBank, fit_normalizer
 
 __all__ = [
@@ -41,5 +41,5 @@ __all__ = [
     "ConceptLabels", "load_concepts", "align_labels_to_loader", "encode_dataset",
     "fms_metrics", "purity_metrics", "linear_probes",
     "evaluate_store", "evaluate_bank_live", "evaluate_concepts", "intrinsic_dimensionality_spectral",
-    "local_id_mle"
+    "local_id_mle", "collect_codes"
 ]

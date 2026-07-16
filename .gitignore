@@ -6,6 +6,8 @@ saes/
 .ipynb_checkpoints
 .ruff_cache/
 README.md
+out/
+notebooks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
