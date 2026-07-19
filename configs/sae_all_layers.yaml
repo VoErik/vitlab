@@ -1,12 +1,12 @@
 # {L} is substituted per layer in acts/site/out.
-acts: acts/dinov2-base/fitzpatrick17k/blocks.{L}.resid_post
+acts: /home/voigt/data/thesis/acts/dinov2-base/fitzpatrick17k/blocks.{L}.resid_post
 site: blocks.{L}.resid_post
 out: saes/dinov2_fitz/blocks.{L}.resid_post
 model_key: dinov2-base
 sae_type: TopKSAE
-nb_concepts: 16384
-top_k: 32
+nb_concepts: 1536
+top_k: 16
 normalize: zscore
-epochs: 50
+epochs: 30
 lr: 3.0e-4
 batch_size: 4096

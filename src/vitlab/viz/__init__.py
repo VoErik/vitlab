@@ -1,5 +1,7 @@
 from .attribution import attribution_grid, attribution_stats, token_group_trajectory
 from .concept_images import concept_evidence_grid, top_activating_patches
+from .circuit_viz import visualize_circuit
+from .circuit_html import save_circuit_html
 from .dictionary import babel_curve, coherence_heatmap, concept_umap, metrics_by_layer
 from .reconstruction import (
     firing_rate_distribution,
@@ -25,5 +27,6 @@ __all__ = [
     "latent_activation_histogram", "firing_rate_distribution", "reconstruction_scatter",
     "token_geometry_figure", "extract_layer_tokens", "alpha_map", "alpha_signature",
     "inter_token_correlation", "activation_strength_vs_firing_rate",
-    "attribution_grid", "attribution_stats", "token_group_trajectory"
+    "attribution_grid", "attribution_stats", "token_group_trajectory", "visualize_circuit",
+    "save_circuit_html"
 ]

@@ -9,7 +9,7 @@ TOKENS="patches"
 N_LAYERS=""
 SPLIT="train"
 BATCH=64
-OUT_ROOT="acts"
+OUT_ROOT="/home/voigt/data/thesis/acts"
 DTYPE="float16"
 EXTRA=()
 

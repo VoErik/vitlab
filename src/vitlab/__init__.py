@@ -22,12 +22,13 @@ from .lora import LoraConfig, apply_lora, trainable_parameter_summary
 from .model import ModelConfig, MultiTaskViT, load_model, save_model
 from .registry import REGISTRY, ModelSpec, get_spec, list_models
 from .utils.runtime import seed_everything, load_dotenv
+from .datasets import get_splits
 
 __all__ = [
     # utilities
     "seed_everything", "load_dotenv",
     # data
-    "DATA_ROOT", "set_data_root", "get_data_root",
+    "DATA_ROOT", "set_data_root", "get_data_root", "get_splits",
     "MultiTaskLoader", "TaskBatch", "make_loader", "collate",
     # models
     "REGISTRY", "ModelSpec", "get_spec", "list_models",
