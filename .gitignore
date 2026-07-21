@@ -8,6 +8,7 @@ saes/
 README.md
 out/
 notebooks
+node_modules/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

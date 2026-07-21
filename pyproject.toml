@@ -18,6 +18,14 @@ dependencies = [
     "overcomplete>=0.3.0",
     "lxt>=2.1",
     "grad-cam>=1.5.5",
+    "fastapi==0.115.6",
+    "starlette<0.42",
+    "uvicorn[standard]>=0.51.0",
+    "python-multipart>=0.0.32",
+    "pillow>=12.3.0",
+    "orjson>=3.11.9",
+    "umap-learn>=0.5.12",
+    "numba>=0.61.0",
 ]
 
 [project.scripts]
