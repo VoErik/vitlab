@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 
 import numpy as np
@@ -9,9 +9,9 @@ import torch
 
 @dataclass
 class ConceptLabels:
-    Y: np.ndarray                 # (N_images, n_concepts) binary
-    names: list[str]              # length n_concepts
-    image_ids: list[str]          # length N_images, aligned to Y rows
+    Y: np.ndarray # (N_images, n_concepts) binary
+    names: list[str]
+    image_ids: list[str]
 
     def __len__(self) -> int:
         return self.Y.shape[0]
@@ -20,7 +20,49 @@ class ConceptLabels:
     def n_concepts(self) -> int:
         return len(self.names)
 
-# TODO: currently depends on concept.csv file existing in dataset dir. ugly
+
+def reconstruct_image_ids(
+    dataset,
+    split: str,
+    *,
+    label_key: str = "label",
+    path_col: str = "filepath",
+) -> list[str]:
+    """
+    Reconstruct the concept-CSV ids for a dataset's rows, in dataset order.
+
+    The concept CSV keys each row as ``{split}/{class}/{filename}`` (e.g.
+    ``train/basal_cell_carcinoma/ba-ce-ca_f3_218_bb3d0878.jpg``):
+
+        split    -- passed in (which split this dataset is)
+        class    -- the `label` column, whitespace joined by "_"
+                    ("basal cell carcinoma" -> "basal_cell_carcinoma")
+        filename -- basename of the `filepath` column (the original-dataset relic
+                    path differs in its directory part but shares the filename)
+
+    Read directly from the raw columns (bypassing the image transform), so pairing
+    with an in-order (shuffle=False) encode gives an exact, unambiguous join.
+    """
+    cols = getattr(dataset, "column_names", [])
+    for c in (path_col, label_key):
+        if c not in cols:
+            raise ValueError(
+                f"dataset has no {c!r} column (needed to rebuild concept ids); "
+                f"columns are {list(cols)[:12]}..."
+            )
+    fmt = dataset.format
+    dataset.set_format(type=None, columns=[path_col, label_key])
+    paths = list(dataset[path_col])
+    labels = list(dataset[label_key])
+    dataset.set_format(**fmt)
+
+    ids = []
+    for p, lab in zip(paths, labels):
+        cls = "_".join(str(lab).split())
+        ids.append(f"{split}/{cls}/{Path(str(p)).name}")
+    return ids
+
+
 def load_concepts(
     dataset_name: str,
     *,
@@ -28,7 +70,13 @@ def load_concepts(
     concept_prefix: str = "has_",
     id_column: str | None = None,
 ) -> ConceptLabels:
-    """Read the concept CSV declared for `dataset_name` in the registry."""
+    """
+    Read the concept CSV declared for `dataset_name` in the registry.
+
+    Concept columns are every column starting with `concept_prefix` (default
+    "has_"). The id column (whatever keys a row to an image filename) is 
+    auto-detected unless you pass `id_column`.
+    """
     import pandas as pd
 
     from ..config import get_data_root
@@ -60,9 +108,8 @@ def load_concepts(
 
 
 def align_labels_to_loader(labels: ConceptLabels, image_ids_in_order: list[str]) -> np.ndarray:
-    """Reorder label rows to match the order a loader yielded images.
-
-    `image_ids_in_order` are the ids emitted alongside the codes (see `encode_dataset(..., return_ids=True)`). Missing ids raise error.
+    """
+    Reorder label rows to match the order a loader yielded images.
     """
     index = {img_id: i for i, img_id in enumerate(labels.image_ids)}
     missing = [i for i in image_ids_in_order if i not in index]
@@ -86,9 +133,8 @@ def encode_dataset(
     id_key: str | None = None,
     return_ids: bool = False,
 ):
-    """Pooled per-image SAE codes over a dataset.
-
-    If `return_ids`, also returns the per-image id list (from batch[id_key], or a running counter if absent) so labels can be aligned exactly.
+    """
+    Mean-pooled per-image SAE codes over a dataset.
     """
     reader.backbone.to(device).eval()
     layer_sae.to(device)
@@ -103,11 +149,11 @@ def encode_dataset(
         px = px.to(device)
         B = px.shape[0]
 
-        acts = reader.read(px, site)               # (B, S, D)
-        patches = acts[:, prefix:, :]              # (B, P, D)
+        acts = reader.read(px, site)
+        patches = acts[:, prefix:, :]
         Bp, P, Dm = patches.shape
-        codes = layer_sae.encode(patches.reshape(Bp * P, Dm))   # (B*P, F)
-        pooled = codes.reshape(Bp, P, -1).mean(1)  # (B, F) # TODO: make mode selectable
+        codes = layer_sae.encode(patches.reshape(Bp * P, Dm))
+        pooled = codes.reshape(Bp, P, -1).mean(1)
         codes_out.append(pooled.cpu().numpy())
 
         if return_ids:

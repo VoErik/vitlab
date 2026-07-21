@@ -16,6 +16,8 @@ dependencies = [
     "matplotlib>=3.8,<3.11",
     "scipy>=1.15.3",
     "overcomplete>=0.3.0",
+    "lxt>=2.1",
+    "grad-cam>=1.5.5",
 ]
 
 [project.scripts]

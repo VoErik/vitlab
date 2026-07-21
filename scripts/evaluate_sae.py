@@ -1,26 +1,3 @@
-"""Evaluate trained SAEs: dictionary quality and/or concept alignment.
-
-    # dictionary + reconstruction metrics from a saved activation store (offline)
-    uv run python scripts/evaluate_sae.py --sae saes/dinov2_fitz_l9 \
-        --acts acts/dinov2-base/fitzpatrick17k/blocks.9.resid_post --aspects dictionary
-
-    # concept metrics: needs the backbone, a dataset, and its concept CSV (live)
-    uv run python scripts/evaluate_sae.py --sae saes/dinov2_fitz_l9 \
-        --backbone runs/full-derm/dinov2-base/best --dataset fitzpatrick17k \
-        --aspects concepts
-
-    # everything, a whole directory tree of SAEs at once
-    uv run python scripts/evaluate_sae.py --bank saes/dinov2_fitz \
-        --acts-root acts/dinov2-base/fitzpatrick17k --aspects dictionary concepts \
-        --backbone runs/.../best --dataset fitzpatrick17k
-
---aspects picks what runs: `dictionary` (reconstruction, rank, coherence, babel,
-connectivity, OOD -- activations only) and `concepts` (FMS, purity, probes --
-needs labels). Results are written to <out>/eval_<site>.json and a summary table
-is printed.
-"""
-# TODO: maybe have this run after SAE training? but concept eval is expensive
-
 from __future__ import annotations
 
 import argparse
@@ -45,7 +22,6 @@ def _acts_dir_for(site: str, acts: Path | None, acts_root: Path | None) -> Path:
         cand = acts_root / site.replace("/", "_")
         if cand.exists():
             return cand
-        # extract_all_layers writes blocks.N.resid_post verbatim
         return acts_root / site
     raise SystemExit(f"need --acts or --acts-root to evaluate dictionary metrics for {site}")
 
@@ -67,13 +43,28 @@ def eval_one(layer_sae, site, args, concepts, backbone_model, log) -> dict:
         from vitlab.activations import ActivationReader
         from vitlab.batching import make_loader
         from vitlab.datasets import get_splits
+        from vitlab.eval import reconstruct_image_ids
 
         reader = ActivationReader(backbone_model.backbone)
-        train, _, _ = get_splits(args.dataset, model_key=backbone_model.spec.key)
-        loader = make_loader(train, args.batch_size, shuffle=False, num_workers=args.workers)
-        log.info(f"[{site}] concept metrics over {len(concepts.names)} concepts")
+
+        split_map = {"train": 0, "val": 1, "validation": 1, "test": 2}
+        split_idx = split_map.get(args.concept_split, 0)
+        split_ds = get_splits(args.dataset, model_key=backbone_model.spec.key,
+                              cast_labels=False)[split_idx]
+
+        ids = reconstruct_image_ids(split_ds, args.concept_split, label_key=args.concept_label_col_override)
+
+        def _concept_collate(rows):
+            return {"pixel_values": torch.stack([r["pixel_values"] for r in rows])}
+
+        loader = make_loader(split_ds, args.batch_size, shuffle=False,
+                             num_workers=args.workers, collate_fn=_concept_collate)
+
+        log.info(f"[{site}] concept metrics over {len(concepts.names)} concepts "
+                 f"(split '{args.concept_split}', {len(ids)} images, exact id match)")
         result["concepts"] = evaluate_concepts(
             layer_sae, reader, loader, site, concepts, device=args.device,
+            image_ids=ids,
         )
     return result
 
@@ -91,7 +82,9 @@ def main() -> int:
     p.add_argument("--backbone", type=Path, default=None, help="trained model dir (concepts)")
     p.add_argument("--dataset", default=None, help="dataset name (concepts)")
     p.add_argument("--concept-csv-id", default=None, help="override concept CSV id column")
-
+    p.add_argument("--concept-split", default="train",
+                   help="split to evaluate concepts on (also prefixes the ids): train/val/test")
+    p.add_argument("--concept_label_col_override", default="disease", help="label column to use for path recon")
     p.add_argument("--k-max", type=int, default=64)
     p.add_argument("--no-connectivity", action="store_true", help="skip the co-activation graph")
     p.add_argument("--batch-size", type=int, default=32)
@@ -106,7 +99,6 @@ def main() -> int:
         vitlab.set_data_root(args.data_root)
     seed_everything(args.seed)
 
-    # collect the SAEs to evaluate
     if args.sae is not None:
         ls = load_layer_sae(args.sae, device=args.device)
         bank = {ls.site or args.sae.name: ls}
@@ -134,7 +126,6 @@ def main() -> int:
         out_file.write_text(json.dumps(res, indent=2, default=float) + "\n")
         log.info(f"[{site}] -> {out_file}")
 
-    # summary table
     print("\n=== summary")
     for site, r in sorted(all_results.items()):
         parts = [site]

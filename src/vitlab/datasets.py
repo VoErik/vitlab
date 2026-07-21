@@ -40,7 +40,7 @@ REGISTRY: dict[str, DatasetSpec] = {
             name="7ptderm",
             images="7ptderm/imgs",
             metadata="7ptderm/metadata2.csv",
-            concepts="7ptderm/metadata2.csv",
+            concepts="7ptderm/concepts.csv",
             num_classes=7,
             augment="dermoscopy",
         ),
@@ -57,16 +57,16 @@ REGISTRY: dict[str, DatasetSpec] = {
             metadata="fitzpatrick/Fitzpatrick17k-C.csv",
             concepts="fitzpatrick/skincon-fitzpatrick-c.csv",
             num_classes=9,
-            augment="standard",
+            augment="dermoscopy",
         ),
         DatasetSpec(
             name="fitzpatrick17k-skincon",
-            images="fitzpatrick/skincon",
+            images="fitzpatrick/skincon/imgs",
             metadata="fitzpatrick/skincon/train/metadata.csv",
-            concepts="fitzpatrick/skincon/train/metadata.csv",
+            concepts="fitzpatrick/skincon/concepts.csv",
             num_classes=114,
             multilabel=True,
-            augment="standard",
+            augment="dermoscopy",
             notes="SkinCon concept annotations: 114 binary concepts, not 114 classes.",
         ),
         DatasetSpec(
@@ -75,7 +75,7 @@ REGISTRY: dict[str, DatasetSpec] = {
             metadata="ddi/ddi_metadata.csv",
             concepts="ddi/skincon-annotations.csv",
             num_classes=24,
-            augment="standard",
+            augment="dermoscopy",
         ),
         DatasetSpec(
             name="mra-midas",
@@ -88,6 +88,7 @@ REGISTRY: dict[str, DatasetSpec] = {
             name="cub200",
             images="CUB_200_2011/imgs",
             metadata="CUB_200_2011/metadata.csv",
+            concepts="CUB_200_2011/concepts.csv",
             num_classes=200,
             augment="standard",
             notes="Natural images: no vertical flips. An upside-down bird is not a bird.",
@@ -103,7 +104,7 @@ REGISTRY: dict[str, DatasetSpec] = {
             notes="40 binary attributes -> multilabel BCE, not 40-way softmax.",
         ),
         DatasetSpec(
-            name="scin", # TODO: removve probably
+            name="scin",
             images="scin/imgs",
             metadata="scin/scin_labels.csv",
             num_classes=0,
@@ -122,6 +123,10 @@ def get_spec(name: str) -> DatasetSpec:
         raise KeyError(f"Unknown dataset {name!r}. Known: {list_datasets()}")
     return REGISTRY[name]
 
+
+# --------------------------------------------------------------------------
+# Raw loading -- no model, no transforms, no training
+# --------------------------------------------------------------------------
 def _load_one(name: str, root: Path):
     """Load a single imagefolder, drop rows with a null label. No casting."""
     from datasets import load_dataset
@@ -145,14 +150,20 @@ def get_dataset(
     data_root: str | Path | None = None,
     cast_labels: bool | None = None,
 ):
-    """Raw HF DatasetDict(s): PIL images under "image", labels under `label_key`."""
+    """Raw HF DatasetDict(s): PIL images under "image", labels under `label_key`.
+
+    cast_labels:
+      * single dataset -> casts the label column to a ClassLabel and checks the
+        count against the registry (a head sized to the wrong number of classes
+        trains happily and scores nonsense).
+      * multiple datasets -> defaults to *not* casting.
+    """
     from datasets import ClassLabel, DatasetDict, concatenate_datasets
 
     names = [name] if isinstance(name, str) else list(name)
     root = get_data_root(data_root)
     multi = len(names) > 1
 
-    # Default: cast for a single dataset, do not cast for a combination.
     if cast_labels is None:
         cast_labels = not multi
 
@@ -189,7 +200,8 @@ def get_dataset(
         if not multi and specs[0].num_classes and len(values) != specs[0].num_classes:
             raise ValueError(
                 f"{names[0]}: registry says {specs[0].num_classes} classes, the data has "
-                f"{len(values)}."
+                f"{len(values)}. Fix one - a head sized to the wrong number of classes "
+                f"trains happily and scores nonsense."
             )
         combined = combined.cast_column(label_key, ClassLabel(names=[str(v) for v in values]))
 
@@ -204,10 +216,8 @@ def get_splits(
     data_root: str | Path | None = None,
     cast_labels: bool | None = None,
 ):
-    """(train, val, test) with transforms attached, ready for a DataLoader.
-
-    Accepts one dataset name or a list to combine. `model_key` decides the
-    normalisation.
+    """
+    (train, val, test) with transforms attached, ready for a DataLoader.
 
     Missing splits come back as None. The transform/augment defaults follow the
     *first* dataset's registry entry when several are combined.
@@ -232,8 +242,11 @@ def get_splits(
 
     return train, val, test
 
+
 def processor_stats(model_key: str) -> tuple[list[float], list[float], int]:
-    """(mean, std, size) taken from the model's *own* image processor."""
+    """
+    (mean, std, size) taken from the model's *own* image processor.
+    """
     from .backbone import load_image_processor
     from .registry import get_spec as get_model_spec
 
@@ -254,9 +267,11 @@ def processor_stats(model_key: str) -> tuple[list[float], list[float], int]:
 
 
 def build_transforms(model_key: str, *, train: bool, augment: Augment = "standard"):
-    """A torchvision v2 pipeline matched to the backbone's preprocessing.
+    """
+    A torchvision v2 pipeline matched to the backbone's preprocessing.
 
-    augment="dermoscopy" adds vertical flips and 90-degree rotations.
+    augment="dermoscopy" adds vertical flips and 90-degree rotations: label-preserving
+    for skin lesions (there is no canonical "up") and wrong for natural images.
     """
     from torchvision.transforms import v2
 
@@ -287,7 +302,8 @@ def build_transforms(model_key: str, *, train: bool, augment: Augment = "standar
 
 
 def attach_transform(dataset, transform, *, image_key: str = "image", label_key: str = "label"):
-    """Lazily map an HF dataset to {"pixel_values", "labels"}."""
+    """
+    Lazily map an HF dataset to {"pixel_values", "labels"}."""
 
     def apply(batch):
         return {
@@ -300,6 +316,7 @@ def attach_transform(dataset, transform, *, image_key: str = "image", label_key:
 
 
 def denormalize(pixel_values: torch.Tensor, model_key: str) -> torch.Tensor:
+    """Undo the normalisation so you can actually look at a tensor. (C,H,W) or (B,C,H,W)."""
     mean, std, _ = processor_stats(model_key)
     m = torch.tensor(mean).view(-1, 1, 1)
     s = torch.tensor(std).view(-1, 1, 1)
@@ -309,7 +326,11 @@ def denormalize(pixel_values: torch.Tensor, model_key: str) -> torch.Tensor:
     return (x * s + m).clamp(0, 1)
 
 def class_balanced_sampler(dataset, label_key: str = "label") -> WeightedRandomSampler:
-    """Inverse-frequency sampling *within* one task."""
+    """
+    Inverse-frequency sampling *within* one task.
+
+    Orthogonal to MultiTaskLoader's strategy, which balances tasks *against each other*.
+    """
     import numpy as np
 
     labels = np.asarray(dataset.with_format("numpy")[label_key])
