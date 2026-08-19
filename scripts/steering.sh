@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-export HF_TOKEN=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
 RUN=runs/dinov3-watermarked-full/best
 BANK=saes/dinov3_dermamnist_corrupt_full
 ACTS=data/acts_wm
