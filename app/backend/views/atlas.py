@@ -1,10 +1,3 @@
-"""Feature Atlas: serves precomputed atlas artifacts (see scripts/app_precompute_atlas.py).
-
-The heavy lifting (top-k images, UMAP, per-feature stats) happens offline. This router
-reads those artifacts and serves feature tables, detail, and thumbnail/heatmap PNGs.
-Dataset thumbnails are rendered live (denormalized so they match the model input).
-"""
-
 from __future__ import annotations
 
 import io
@@ -17,11 +10,13 @@ import torch
 import torch.nn.functional as F
 from fastapi import APIRouter, HTTPException, Query
 from PIL import Image
+from pydantic import BaseModel
 
 from vitlab.datasets import denormalize, get_splits
 
 from .. import config
 from .._common import png_response
+from .._atlas_labels import load_labels, save_label
 
 router = APIRouter()
 
@@ -55,7 +50,7 @@ def _atlas_split(atlas_id: str):
     meta = _atlas_meta(atlas_id)["summary"]
     dataset, model_key, split = meta["dataset"], meta["model_key"], meta.get("split", "train")
     idx = {"train": 0, "val": 1, "validation": 1, "test": 2}[split]
-    split_ds = get_splits(dataset, model_key=model_key, cast_labels=False)[idx]
+    split_ds = get_splits(dataset, model_key=model_key, cast_labels=False, augment="none")[idx]
     return split_ds, model_key
 
 
@@ -73,16 +68,22 @@ def atlas_list():
 @router.get("/atlas/{atlas_id:path}/features")
 def atlas_features(atlas_id: str,
                    filter: str | None = Query(None),
-                   search: int | None = Query(None),
+                   search: str | None = Query(None),
                    sort: str = Query("feature"),
                    scatter: str = Query("umap"),
                    offset: int = 0, limit: int = 5000):
     feats = _atlas_features(atlas_id)
-    n = len(feats["feature"])
-    idx = np.arange(n)
-    if search is not None:
-        idx = idx[feats["feature"][idx] == search]
-    if filter == "dead":
+    labels = load_labels(atlas_id)                     # {id: {"name","note"}}
+    n = len(feats["feature"]); idx = np.arange(n)
+
+    if search:
+        s = search.strip().lower(); fid = feats["feature"]
+        def _match(i):
+            lab = labels.get(str(int(fid[i])), {})
+            return (s in lab.get("name", "").lower() or s in lab.get("note", "").lower()
+                    or (s.isdigit() and int(s) == int(fid[i])))
+        idx = np.array([i for i in idx if _match(i)], dtype=int)
+    elif filter == "dead":
         idx = idx[feats["dead"][idx]]
     elif filter == "alive":
         idx = idx[~feats["dead"][idx]]
@@ -95,7 +96,7 @@ def atlas_features(atlas_id: str,
         thr = np.quantile(feats["mean_act"][alive], 0.9) if alive.any() else 0.0
         idx = idx[feats["mean_act"][idx] >= thr]
 
-    if sort in feats:
+    if sort in feats and len(idx):
         idx = idx[np.argsort(-feats[sort][idx])]
 
     xy = feats["umap"] if scatter == "umap" else np.stack(
@@ -104,6 +105,7 @@ def atlas_features(atlas_id: str,
     page = idx[offset:offset + limit]
     rows = [{
         "feature": int(feats["feature"][i]),
+        "label": labels.get(str(int(feats["feature"][i])), {}).get("name", ""),
         "firing_rate": float(feats["firing_rate"][i]),
         "mean_act": float(feats["mean_act"][i]),
         "max_act": float(feats["max_act"][i]),
@@ -121,8 +123,11 @@ def atlas_feature(atlas_id: str, f: int):
         raise HTTPException(404, f"feature {f} not in atlas")
     i = int(where[0])
     top = _atlas_top(atlas_id).get(str(f), [])
+    lab = load_labels(atlas_id).get(str(f), {})
     return {
         "feature": f,
+        "name": lab.get("name", ""),
+        "note": lab.get("note", ""),
         "stats": {
             "firing_rate": float(feats["firing_rate"][i]),
             "mean_act": float(feats["mean_act"][i]),
@@ -130,8 +135,47 @@ def atlas_feature(atlas_id: str, f: int):
             "dead": bool(feats["dead"][i]),
         },
         "top_images": top,          # [{image_index, patch_index, score}]
+        #"label": load_labels(atlas_id).get(str(f), ""),
     }
 
+class LabelRequest(BaseModel):
+    feature: int
+    name: str = ""
+    note: str = ""
+
+
+@router.get("/atlas/{atlas_id:path}/labels")
+def atlas_labels(atlas_id: str):
+    _atlas_path(atlas_id)
+    return {"labels": load_labels(atlas_id)}
+
+
+@router.post("/atlas/{atlas_id:path}/label")
+def atlas_set_label(atlas_id: str, req: LabelRequest):
+    _atlas_path(atlas_id)
+    return {"labels": save_label(atlas_id, req.feature, req.name, req.note)}
+
+
+@router.get("/atlas/{atlas_id:path}/notebook")
+def atlas_notebook(atlas_id: str):
+    _atlas_path(atlas_id)
+    labels = load_labels(atlas_id)
+    feats = _atlas_features(atlas_id)
+    top = _atlas_top(atlas_id)
+    fmap = {int(fid): k for k, fid in enumerate(feats["feature"])}
+    entries = []
+    for fid_str, lab in labels.items():
+        fid = int(fid_str); i = fmap.get(fid); imgs = top.get(fid_str, [])
+        entries.append({
+            "feature": fid, "name": lab.get("name", ""), "note": lab.get("note", ""),
+            "firing_rate": float(feats["firing_rate"][i]) if i is not None else None,
+            "mean_act": float(feats["mean_act"][i]) if i is not None else None,
+            "max_act": float(feats["max_act"][i]) if i is not None else None,
+            "dead": bool(feats["dead"][i]) if i is not None else None,
+            "top_image_index": imgs[0]["image_index"] if imgs else None,
+        })
+    entries.sort(key=lambda e: e["feature"])
+    return {"atlas": atlas_id, "count": len(entries), "entries": entries}
 
 @router.get("/atlas/{atlas_id:path}/image/{image_index}")
 def atlas_image(atlas_id: str, image_index: int, heatmap_feature: int | None = None,
@@ -158,7 +202,6 @@ def atlas_image(atlas_id: str, image_index: int, heatmap_feature: int | None = N
     return png_response(_pil_png(overlay))
 
 
-# ---- helpers -------------------------------------------------------------
 def _to_pil(chw: torch.Tensor, size: int) -> Image.Image:
     arr = (chw.clamp(0, 1).mul(255).byte().permute(1, 2, 0).cpu().numpy())
     return Image.fromarray(arr).convert("RGB").resize((size, size))
@@ -171,7 +214,6 @@ def _pil_png(img: Image.Image) -> bytes:
 def _feature_map_for_image(meta: dict, px: torch.Tensor, feature: int, size: int) -> np.ndarray:
     """(size,size) upsampled activation map of `feature` on one image."""
     from .. import state
-    # the atlas id encodes model+site; meta carries them
     model = _model_for_meta(meta)
     bank = _bank_for_meta(meta)
     site = meta["site"]

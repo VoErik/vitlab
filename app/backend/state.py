@@ -1,12 +1,3 @@
-"""Process-global caches and the image-token registry.
-
-Single local user -> plain module-level dicts, no locking. Loading a backbone or a
-bank is expensive, so cache them keyed by path. Uploaded images are preprocessed once,
-cached with the exact tensor the model sees + a denormalized PNG for display, and
-referenced by an opaque token everywhere downstream. This is what guarantees "the
-image shown to the user is identical to the image fed to the model".
-"""
-
 from __future__ import annotations
 
 import io
@@ -32,7 +23,6 @@ def resolve_device() -> str:
 
 DEVICE = resolve_device()
 
-# ---- model / bank caches -------------------------------------------------
 _models: dict[str, "vitlab.MultiTaskViT"] = {}
 _banks: dict[str, object] = {}
 _processors: dict[str, object] = {}
@@ -64,12 +54,11 @@ def _is_abs(p: str) -> bool:
     return Path(p).is_absolute()
 
 
-# ---- image-token registry ------------------------------------------------
 @dataclass
 class CachedImage:
-    pixel_values: torch.Tensor           # (1,3,H,W) EXACTLY what the model sees
+    pixel_values: torch.Tensor
     model_key: str
-    shown_png: bytes                     # denormalized PNG (what the user sees)
+    shown_png: bytes
     meta: dict = field(default_factory=dict)
 
 
@@ -79,8 +68,8 @@ _images: dict[str, CachedImage] = {}
 def cache_upload(pil_image: Image.Image, model_key: str) -> str:
     """Preprocess a PIL upload for `model_key`, cache tensor + denormalized PNG, return a token."""
     proc = get_processor(model_key)
-    px = proc(pil_image.convert("RGB"), return_tensors="pt")["pixel_values"]  # (1,3,H,W)
-    shown = denormalize(px[0], model_key)                                     # (3,H,W) in [0,1]
+    px = proc(pil_image.convert("RGB"), return_tensors="pt")["pixel_values"]
+    shown = denormalize(px[0], model_key)
     png = _tensor_to_png(shown)
     token = uuid.uuid4().hex
     _images[token] = CachedImage(pixel_values=px, model_key=model_key, shown_png=png)

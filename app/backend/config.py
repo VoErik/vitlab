@@ -1,20 +1,14 @@
-"""App configuration. No env vars -- edit these (mirrors vitlab's config.py stance).
-
-Paths resolve lazily so the app boots and reports a clear error rather than crashing
-on import if DATA_ROOT isn't set yet.
-"""
-
 from __future__ import annotations
 
 from pathlib import Path
 
 from vitlab.config import get_data_root
 
-DEVICE: str = "cuda"          # resolved to cpu at runtime if cuda unavailable (state.py)
+DEVICE: str = "cuda"
 
-_CHECKPOINTS = "runs/dinov2-base_full_epochs30"          # fine-tuned model dirs (config.json + heads)
-_BANKS = "saes"                # SAE bank trees (per-layer SAE dirs)
-_ATLAS = "atlas"               # precomputed atlas artifacts
+_CHECKPOINTS = "runs/dinov2-base_full_epochs30" 
+_BANKS = "saes"
+_ATLAS = "atlas"
 _UPLOAD_CACHE = ".app_cache"
 _ARTEFACT_DIR = "thesis"
 

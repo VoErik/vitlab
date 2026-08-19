@@ -1,8 +1,8 @@
 # {L} is substituted per layer in acts/site/out.
-acts: /home/voigt/data/thesis/acts/dinov2-base/fitzpatrick17k/blocks.{L}.resid_post
+acts: data/acts_wm/dinov3-base/dermamnist/blocks.{L}.resid_post
 site: blocks.{L}.resid_post
-out: saes/dinov2_fitz/blocks.{L}.resid_post
-model_key: dinov2-base
+out: saes/dinov3_dermamnist_corrupt_full/blocks.{L}.resid_post
+model_key: dinov3-base
 sae_type: TopKSAE
 nb_concepts: 1536
 top_k: 16

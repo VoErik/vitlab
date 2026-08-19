@@ -6,6 +6,9 @@ import { useSetup } from "../lib/useSetup";
 import { SetupPanel } from "../components/SetupPanel";
 import { PatchGrid } from "../components/PatchGrid";
 
+// Same hue mapping the overlay uses, so the legend swatches match the patches.
+const classHue = (c: number) => (c * 47) % 360;
+
 export function LogitLensView() {
   const s = useSetup();
   const [mode, setMode] = useState<"cls" | "per_patch">("cls");
@@ -26,10 +29,11 @@ export function LogitLensView() {
   useEffect(() => {
     if (mode !== "cls" || !res?.trajectory || !chart.current) return;
     const traj: number[][] = res.trajectory;       // (n_layers, n_classes)
+    const names: string[] | undefined = res.class_names;
     const nC = traj[0].length;
     const traces = Array.from({ length: nC }, (_, c) => ({
       x: traj.map((_, l) => l), y: traj.map((row) => row[c]),
-      mode: "lines+markers", name: `class ${c}`, type: "scatter",
+      mode: "lines+markers", name: names?.[c] ?? `class ${c}`, type: "scatter",
     }));
     Plotly.react(chart.current, traces, {
       margin: { l: 40, r: 10, t: 10, b: 40 },
@@ -38,8 +42,13 @@ export function LogitLensView() {
   }, [res, mode]);
 
   const overlay = mode === "per_patch" && res?.argmax
-    ? (i: number) => `hsla(${(res.argmax[i] * 47) % 360},70%,50%,${0.2 + 0.55 * res.confidence[i]})`
+    ? (i: number) => `hsla(${classHue(res.argmax[i])},70%,50%,${0.2 + 0.55 * res.confidence[i]})`
     : undefined;
+
+  // Distinct classes present in the per-patch overlay, for a small legend.
+  const patchClasses: number[] = res?.argmax
+    ? Array.from(new Set<number>(res.argmax)).sort((a, b) => a - b)
+    : [];
 
   return (
     <div className="cols">
@@ -68,7 +77,24 @@ export function LogitLensView() {
         {mode === "per_patch" && result &&
           <PatchGrid src={`/api/image/${result.image_token}`} side={s.side}
             selected={new Set()} onChange={() => {}} overlay={overlay} />}
-        {mode === "per_patch" && res && <p className="note">Each patch colored by argmax class · opacity = confidence.</p>}
+        {mode === "per_patch" && res && (
+          <>
+            <p className="note">Each patch colored by argmax class · opacity = confidence.</p>
+            {patchClasses.length > 0 && (
+              <div style={{ display: "flex", flexWrap: "wrap", gap: 10, marginTop: 8 }}>
+                {patchClasses.map((c) => (
+                  <span key={c} style={{ display: "inline-flex", alignItems: "center", gap: 5, fontSize: 12 }}>
+                    <span style={{
+                      width: 12, height: 12, borderRadius: 3, display: "inline-block",
+                      background: `hsl(${classHue(c)},70%,50%)`,
+                    }} />
+                    {res.class_names?.[c] ?? `class ${c}`}
+                  </span>
+                ))}
+              </div>
+            )}
+          </>
+        )}
       </div>
     </div>
   );

@@ -1,9 +1,3 @@
-"""vitlab Explorer -- FastAPI backend entry point.
-
-Run:  uvicorn app.backend.main:app --reload --port 8000
-(or use ../run_app.sh which also starts the frontend dev server)
-"""
-
 from __future__ import annotations
 
 from fastapi import FastAPI

@@ -11,16 +11,6 @@ Usage:
         --bank saes/dinov2_fitz \
         --dataset fitzpatrick17k-skincon --split train \
         --site blocks.9.resid_post --top-k 12 [--force]
-
-Design notes
-------------
-* Single streaming pass computes BOTH per-feature stats AND per-feature top-k images,
-  so cost is O(dataset), not O(dataset * n_features). We keep a small top-k heap per
-  feature of (max-activation-on-image, image_index, patch_index).
-* image_index is the row position in the split loaded with shuffle=False -- the backend
-  reloads the same split the same way, so image_index maps back to a row for rendering.
-* UMAP is fit on the SAE decoder dictionary (F x D) -> (F, 2): feature geometry in
-  dictionary space. (Swap to code-profile UMAP if you prefer; documented tradeoff.)
 """
 
 from __future__ import annotations
@@ -39,11 +29,10 @@ from vitlab.batching import make_loader
 from vitlab.datasets import get_splits
 from vitlab.sae import load_layer_sae
 
-# app config for the output dir (import works when run from repo root)
 try:
     from app.backend import config as app_config
     ATLAS_DIR = app_config.atlas_dir()
-except Exception:  # fallback: DATA_ROOT/atlas
+except Exception:
     from vitlab.config import get_data_root
     ATLAS_DIR = get_data_root() / "atlas"
 
@@ -83,15 +72,14 @@ def main() -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     idx = {"train": 0, "val": 1, "validation": 1, "test": 2}[args.split]
-    ds = get_splits(args.dataset, model_key=spec.key, cast_labels=False)[idx]
+    ds = get_splits(args.dataset, model_key=spec.key, cast_labels=False, augment="none")[idx]
 
     def _collate(rows):
         return {"pixel_values": torch.stack([r["pixel_values"] for r in rows])}
     loader = make_loader(ds, args.batch_size, shuffle=False, num_workers=4, collate_fn=_collate)
 
-    # ---- single streaming pass: stats + per-feature top-k heaps ----
     fire = torch.zeros(Fn); act_sum = torch.zeros(Fn); act_max = torch.zeros(Fn)
-    heaps: list[list] = [[] for _ in range(Fn)]     # per feature: heap of (score, img_idx, patch_idx)
+    heaps: list[list] = [[] for _ in range(Fn)]
     n_tokens = 0
     img_counter = 0
     K = args.top_k
@@ -101,22 +89,20 @@ def main() -> int:
     with torch.no_grad():
         for batch in loader:
             px = batch["pixel_values"].to(device)
-            acts = reader.read(px, args.site)[:, prefix:, :]          # (B,P,D)
+            acts = reader.read(px, args.site)[:, prefix:, :]
             B, P, _ = acts.shape
-            codes = sae.encode(acts.reshape(B * P, D)).reshape(B, P, Fn)  # (B,P,F)
+            codes = sae.encode(acts.reshape(B * P, D)).reshape(B, P, Fn)
             active = codes > 1e-6
             fire += active.any(0).sum(0).cpu().float() if False else active.reshape(-1, Fn).sum(0).cpu().float()
             act_sum += (codes * active).reshape(-1, Fn).sum(0).cpu()
             act_max = torch.maximum(act_max, codes.reshape(-1, Fn).max(0).values.cpu())
             n_tokens += B * P
 
-            # per-image best activation + patch for every feature (vectorised)
-            best_val, best_patch = codes.max(dim=1)                   # (B,F),(B,F)
+            best_val, best_patch = codes.max(dim=1)
             bv = best_val.cpu(); bp = best_patch.cpu()
             for b in range(B):
                 gi = img_counter + b
                 row_vals = bv[b]; row_patch = bp[b]
-                # only push features that actually fire on this image (row_vals>eps)
                 nz = torch.nonzero(row_vals > 1e-6, as_tuple=False).flatten().tolist()
                 for f in nz:
                     entry = (float(row_vals[f]), gi, int(row_patch[f]))
@@ -132,7 +118,6 @@ def main() -> int:
     max_act = act_max.numpy()
     dead = fire.numpy() == 0
 
-    # ---- UMAP on the decoder dictionary ----
     try:
         import umap
         xy = umap.UMAP(n_components=2, metric="cosine", random_state=0).fit_transform(

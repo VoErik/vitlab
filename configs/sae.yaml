@@ -1,9 +1,9 @@
 acts: /home/voigt/data/thesis/acts/dinov2-base/fitzpatrick17k/blocks.9.resid_post
 site: blocks.9.resid_post
-model_key: dinov2-base
+model_key: dinov3-base
 
 sae_type: TopKSAE          # TopKSAE | BatchTopKSAE | JumpSAE | GatedSAE | SAE | MpSAE ...
-nb_concepts: 3072
+nb_concepts: 1536
 top_k: 16
 
 normalize: zscore          # zscore | scale | global_rms | global_quantile | l2norm | instance_norm | none

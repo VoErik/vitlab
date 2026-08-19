@@ -1,6 +1,6 @@
 """
 Train an SAE concept-bottleneck classifier.
-# TODO: make this work!
+# TODO: make this new version work!
 """
 
 from __future__ import annotations

@@ -37,3 +37,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+out/
+data/
+*/node_modules/
