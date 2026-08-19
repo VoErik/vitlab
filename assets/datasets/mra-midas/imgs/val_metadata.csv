@@ -1,0 +1,152 @@
+file_name,midas_location,old_label,midas_gender,midas_age,midas_fitzpatrick,midas_melanoma,midas_ethnicity,midas_race,ISIC_label,malignancy,label,CLIP_caption
+nan/s-prd-444577743.jpg,r forehead,,male,72,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+malignant-_scc/s-prd-401871998.jpg,r dorsal hand ,malignant- scc,male,72,"ii fair skin, blue eyes",no,no,white,SCC,Malignant,squamous cell carcinoma,Diagnosed squamous cell carcinoma.
+malignant-_scc/s-prd-401871914.jpg,r dorsal hand ,malignant- scc,male,72,"ii fair skin, blue eyes",no,no,white,SCC,Malignant,squamous cell carcinoma,Diagnosed squamous cell carcinoma.
+malignant-_scc/s-prd-401872340.jpg,r dorsal hand ,malignant- scc,male,72,"ii fair skin, blue eyes",no,no,white,SCC,Malignant,squamous cell carcinoma,Cutaneous lesion identified as squamous cell carcinoma.
+malignant-_ak/s-prd-401872672.jpg,nasal bridge,malignant- ak,male,72,"ii fair skin, blue eyes",no,no,white,AK,Potentially Malignant,actinic keratosis,Pathology present: actinic keratosis (potentially malignant).
+malignant-_ak/s-prd-401873031.jpg,nasal bridge,malignant- ak,male,72,"ii fair skin, blue eyes",no,no,white,AK,Potentially Malignant,actinic keratosis,Pathology present: actinic keratosis (potentially malignant).
+nan/s-prd-401874188.jpg,l dorsal hand ,,male,72,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,skin lesion.
+nan/s-prd-401874100.jpg,l dorsal hand ,,male,72,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Skin lesion: skin lesion.
+nan/s-prd-401874606.jpg,l dorsal hand ,,male,72,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,An image of skin lesion.
+benign-seborrheic_keratosis/s-prd-450517026.jpg,r forehead,benign-seborrheic keratosis,male,72,"ii fair skin, blue eyes",no,no,white,BKL,Benign,seborrheic keratosis,"An image of seborrheic keratosis, a benign skin condition."
+malignant-_bcc/s-prd-450517240.jpg,r posterior shoulder,malignant- bcc,male,72,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,"An image of basal cell carcinoma, a malignant skin condition."
+benign-seborrheic_keratosis/s-prd-450517158.jpg,r forehead,benign-seborrheic keratosis,male,72,"ii fair skin, blue eyes",no,no,white,BKL,Benign,seborrheic keratosis,Condition: seborrheic keratosis.
+malignant-_bcc/s-prd-450517489.jpg,r posterior shoulder,malignant- bcc,male,72,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,A close-up view of basal cell carcinoma.
+benign-seborrheic_keratosis/s-prd-450517756.jpg,r forehead,benign-seborrheic keratosis,male,72,"ii fair skin, blue eyes",no,no,white,BKL,Benign,seborrheic keratosis,Cutaneous lesion identified as seborrheic keratosis.
+malignant-_bcc/s-prd-450517936.jpg,r posterior shoulder,malignant- bcc,male,72,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,basal cell carcinoma (malignant).
+benign-other/s-prd-416828739.jpg,r index finger,benign-other,female,49,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+benign-other/s-prd-416828806.jpg,r index finger,benign-other,female,49,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,Texture and color details of benign keratosis.
+benign-other/s-prd-416829246.jpg,r index finger,benign-other,female,49,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,benign keratosis.
+malignant-_bcc/s-prd-421323312.jpg,l mandible,malignant- bcc,female,78,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,basal cell carcinoma (malignant).
+malignant-_bcc/s-prd-421312740.jpg,nasal tip,malignant- bcc,female,78,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,basal cell carcinoma.
+malignant-_bcc/s-prd-421314248.jpg,nasal tip,malignant- bcc,female,78,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,basal cell carcinoma.
+malignant-_bcc/s-prd-421323211.jpg,l mandible,malignant- bcc,female,78,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Pathology present: basal cell carcinoma (malignant).
+malignant-_bcc/s-prd-421323692.jpg,l mandible,malignant- bcc,female,78,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Visual presentation of basal cell carcinoma.
+nan/s-prd-451905580.jpg,l ribcage,,male,74,"ii fair skin, blue eyes",no,no,unknown,UNK,Unknown,skin lesion,Skin lesion: skin lesion.
+nan/s-prd-451905579.jpg,neck,,male,74,"ii fair skin, blue eyes",no,no,unknown,UNK,Unknown,skin lesion,A view of skin lesion.
+malignant-_melanoma/s-prd-460192767.jpg,left heel,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,no,white,MEL,Malignant,melanoma,"An image of melanoma, a malignant skin condition."
+malignant-_melanoma/s-prd-460193483.jpg,left heel,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,no,white,MEL,Malignant,melanoma,melanoma.
+malignant-_melanoma/s-prd-460193494.jpg,left heel,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,no,white,MEL,Malignant,melanoma,melanoma.
+malignant-_sccis/s-prd-582451194.jpg,right thigh,malignant- sccis,male,69,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Cutaneous lesion identified as squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-582451161.jpg,right thigh,malignant- sccis,male,69,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,A potentially malignant lesion on the skin.
+malignant-_sccis/s-prd-582451172.jpg,right thigh,malignant- sccis,male,69,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Pathology present: squamous cell carcinoma in situ (potentially malignant).
+malignant-_melanoma/s-prd-700808899.jpg,l lower back,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,no,white,MEL,Malignant,melanoma,Diagnosed melanoma.
+malignant-_melanoma/s-prd-700808926.jpg,l lower back,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,no,white,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.
+malignant-_melanoma/s-prd-700808927.jpg,l lower back,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,no,white,MEL,Malignant,melanoma,A malignant lesion on the skin.
+benign-melanocytic_nevus/s-prd-547639053.jpg,mid back,benign-melanocytic nevus,male,55,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+benign-seborrheic_keratosis/s-prd-460859223.jpg,r lower leg,benign-seborrheic keratosis,male,55,"ii fair skin, blue eyes",yes,no,white,BKL,Benign,seborrheic keratosis,A medical image showing a benign seborrheic keratosis.
+benign-seborrheic_keratosis/s-prd-460859261.jpg,r lower leg,benign-seborrheic keratosis,male,55,"ii fair skin, blue eyes",yes,no,white,BKL,Benign,seborrheic keratosis,A close-up view of seborrheic keratosis.
+benign-seborrheic_keratosis/s-prd-460859431.jpg,r lower leg,benign-seborrheic keratosis,male,55,"ii fair skin, blue eyes",yes,no,white,BKL,Benign,seborrheic keratosis,Visual presentation of seborrheic keratosis.
+benign-melanocytic_nevus/s-prd-460859655.jpg,l back,benign-melanocytic nevus,male,55,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,A benign lesion on the skin.
+benign-melanocytic_nevus/s-prd-460859707.jpg,l back,benign-melanocytic nevus,male,55,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+benign-melanocytic_nevus/s-prd-460859781.jpg,l back,benign-melanocytic nevus,male,55,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+benign-melanocytic_nevus/s-prd-547637664.jpg,mid back,benign-melanocytic nevus,male,55,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,melanocytic nevus.
+benign-melanocytic_nevus/s-prd-547640507.jpg,mid back,benign-melanocytic nevus,male,55,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+malignant-_ak/s-prd-488058614.jpg,central upper back ,malignant- ak,male,72,"ii fair skin, blue eyes",yes,no,white,AK,Potentially Malignant,actinic keratosis,A close-up view of actinic keratosis.
+malignant-_ak/s-prd-488056239.jpg,central upper back ,malignant- ak,male,72,"ii fair skin, blue eyes",yes,no,white,AK,Potentially Malignant,actinic keratosis,Diagnosed actinic keratosis.
+malignant-_ak/s-prd-488055886.jpg,central upper back ,malignant- ak,female,72,"ii fair skin, blue eyes",yes,no,white,AK,Potentially Malignant,actinic keratosis,actinic keratosis (potentially malignant).
+malignant-_bcc/s-prd-494911344.jpg,r posterior shoulder ,malignant- bcc,male,69,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Skin surface showing basal cell carcinoma.
+malignant-_bcc/s-prd-494911362.jpg,r posterior shoulder ,malignant- bcc,male,69,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,A medical image showing a malignant basal cell carcinoma.
+malignant-_bcc/s-prd-494911386.jpg,r posterior shoulder ,malignant- bcc,male,69,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Diagnosed basal cell carcinoma.
+nan/s-prd-559560599.jpg,back,,male,69,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Medical image: skin lesion.
+nan/s-prd-645439689.jpg,r sideburn,,male,69,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+nan/s-prd-645439688.jpg,r sideburn,,male,69,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+benign-other/s-prd-505218882.jpg,left cheek ,benign-other,male,63,"ii fair skin, blue eyes",yes,no,white,BKL,Benign,benign keratosis,Visual presentation of benign keratosis.
+benign-other/s-prd-505218880.jpg,left cheek ,benign-other,male,63,"ii fair skin, blue eyes",yes,no,white,BKL,Benign,benign keratosis,A benign lesion on the skin.
+benign-other/s-prd-505218890.jpg,left cheek ,benign-other,male,63,"ii fair skin, blue eyes",yes,no,white,BKL,Benign,benign keratosis,benign keratosis.
+malignant-_sccis/s-prd-509610225.jpg,right lateral lower leg ,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Pathology present: squamous cell carcinoma in situ (potentially malignant).
+malignant-_sccis/s-prd-509610626.jpg,right lateral lower leg ,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,squamous cell carcinoma in situ (potentially malignant).
+malignant-_sccis/s-prd-509611226.jpg,right lateral lower leg ,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Cutaneous lesion identified as squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-509611689.jpg,r lower leg inferior,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Skin surface showing squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-509611843.jpg,r lower leg inferior,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Pathology present: squamous cell carcinoma in situ (potentially malignant).
+malignant-_sccis/s-prd-509612180.jpg,r lower leg inferior,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,A medical image showing a potentially malignant squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-509612706.jpg,left lower leg,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-509612545.jpg,left lower leg,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,"An image of squamous cell carcinoma in situ, a potentially malignant skin condition."
+malignant-_sccis/s-prd-509613064.jpg,left lower leg,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Pathology present: squamous cell carcinoma in situ (potentially malignant).
+malignant-_sccis/s-prd-509613349.jpg,right elbow ,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,A medical image showing a potentially malignant squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-509613419.jpg,right elbow ,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Pathology present: squamous cell carcinoma in situ (potentially malignant).
+malignant-_sccis/s-prd-509613622.jpg,right elbow ,malignant- sccis,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Diagnosed squamous cell carcinoma in situ.
+malignant-_scc/s-prd-509613737.jpg,left shoulder,malignant- scc,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Malignant,squamous cell carcinoma,Pathology present: squamous cell carcinoma (malignant).
+malignant-_scc/s-prd-509613884.jpg,left shoulder,malignant- scc,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Malignant,squamous cell carcinoma,Visual presentation of squamous cell carcinoma.
+malignant-_scc/s-prd-509614042.jpg,left shoulder,malignant- scc,male,89,"ii fair skin, blue eyes",no,no,white,SCC,Malignant,squamous cell carcinoma,"An image of squamous cell carcinoma, a malignant skin condition."
+benign-hemangioma/s-prd-522456528.jpg,l mid back ,benign-hemangioma,male,53,"ii fair skin, blue eyes",no,no,white,VASC,Benign,hemangioma,Texture and color details of hemangioma.
+benign-hemangioma/s-prd-522456716.jpg,l mid back ,benign-hemangioma,male,53,"ii fair skin, blue eyes",no,no,white,VASC,Benign,hemangioma,Cutaneous lesion identified as hemangioma.
+benign-hemangioma/s-prd-522456782.jpg,l mid back ,benign-hemangioma,male,53,"ii fair skin, blue eyes",no,no,white,VASC,Benign,hemangioma,hemangioma.
+benign-dermatofibroma/s-prd-523444103.jpg,right back,benign-dermatofibroma,male,55,"ii fair skin, blue eyes",no,no,other,DF,Benign,dermatofibroma,Visual presentation of dermatofibroma.
+benign-dermatofibroma/s-prd-523444268.jpg,right back,benign-dermatofibroma,male,55,"ii fair skin, blue eyes",no,no,other,DF,Benign,dermatofibroma,dermatofibroma.
+benign-dermatofibroma/s-prd-523444831.jpg,right back,benign-dermatofibroma,male,55,"ii fair skin, blue eyes",no,no,other,DF,Benign,dermatofibroma,"An image of dermatofibroma, a benign skin condition."
+malignant-_ak/s-prd-629967414.jpg,l cheek,malignant- ak,male,66,"ii fair skin, blue eyes",no,no,white,AK,Potentially Malignant,actinic keratosis,actinic keratosis.
+malignant-_ak/s-prd-629967824.jpg,l cheek,malignant- ak,male,66,"ii fair skin, blue eyes",no,no,white,AK,Potentially Malignant,actinic keratosis,A potentially malignant lesion on the skin.
+malignant-_melanoma/s-prd-632469095.jpg,mid upper cutaneous lip,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,unknown,white,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.
+malignant-_melanoma/s-prd-632469223.jpg,mid upper cutaneous lip,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,unknown,white,MEL,Malignant,melanoma,Pathology present: melanoma (malignant).
+malignant-_melanoma/s-prd-632469524.jpg,mid upper cutaneous lip,malignant- melanoma,male,69,"ii fair skin, blue eyes",no,unknown,white,MEL,Malignant,melanoma,A malignant lesion on the skin.
+malignant-_bcc/s-prd-635949925.jpg,r temple,malignant- bcc,female,66,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Cutaneous lesion identified as basal cell carcinoma.
+malignant-_bcc/s-prd-635950116.jpg,r temple,malignant- bcc,male,66,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Visual presentation of basal cell carcinoma.
+malignant-_bcc/s-prd-635950589.jpg,r temple,malignant- bcc,male,66,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Pathology present: basal cell carcinoma (malignant).
+malignant-_bcc/s-prd-651165608.jpg,l temple,malignant- bcc,male,47,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,basal cell carcinoma (malignant).
+malignant-_bcc/s-prd-651165393.jpg,l temple,malignant- bcc,male,47,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Cutaneous lesion identified as basal cell carcinoma.
+malignant-_bcc/s-prd-651166022.jpg,l temple,malignant- bcc,male,47,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Visual presentation of basal cell carcinoma.
+malignant-_melanoma/s-prd-667125848.jpg,right chest,malignant- melanoma,female,53,"ii fair skin, blue eyes",yes,no,white,MEL,Malignant,melanoma,Skin surface showing melanoma.
+malignant-_melanoma/s-prd-667126088.jpg,right chest,malignant- melanoma,female,53,"ii fair skin, blue eyes",yes,no,white,MEL,Malignant,melanoma,melanoma (malignant).
+malignant-_melanoma/s-prd-667126358.jpg,right chest,malignant- melanoma,female,53,"ii fair skin, blue eyes",yes,no,white,MEL,Malignant,melanoma,Pathology present: melanoma (malignant).
+benign-seborrheic_keratosis/s-prd-677395170.jpg,frontal scalp,benign-seborrheic keratosis,male,73,iv light brown skin,no,no,other,BKL,Benign,seborrheic keratosis,Diagnosed seborrheic keratosis.
+benign-seborrheic_keratosis/s-prd-677395448.jpg,frontal scalp,benign-seborrheic keratosis,male,73,iv light brown skin,no,no,other,BKL,Benign,seborrheic keratosis,Pathology present: seborrheic keratosis (benign).
+benign-seborrheic_keratosis/s-prd-677395855.jpg,frontal scalp,benign-seborrheic keratosis,male,73,iv light brown skin,no,no,other,BKL,Benign,seborrheic keratosis,A benign lesion on the skin.
+benign-melanocytic_nevus/s-prd-683623618.jpg,l mid back,benign-melanocytic nevus,female,36,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+benign-melanocytic_nevus/s-prd-683623525.jpg,l mid back,benign-melanocytic nevus,female,36,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+benign-melanocytic_nevus/s-prd-683624027.jpg,l mid back,benign-melanocytic nevus,male,36,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+benign-melanocytic_nevus/s-prd-687206997.jpg,right upper abdomen,benign-melanocytic nevus,male,29,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+benign-melanocytic_nevus/s-prd-687207144.jpg,right upper abdomen,benign-melanocytic nevus,male,29,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+benign-melanocytic_nevus/s-prd-687207512.jpg,right upper abdomen,benign-melanocytic nevus,male,29,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+nan/s-prd-688078757.jpg,r flank,,male,58,"ii fair skin, blue eyes",no,no,unknown,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+malignant-_bcc/s-prd-693337322.jpg,r forehead,malignant- bcc,female,46,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Cutaneous lesion identified as basal cell carcinoma.
+malignant-_bcc/s-prd-693336962.jpg,r forehead,malignant- bcc,male,46,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Cutaneous lesion identified as basal cell carcinoma.
+malignant-_bcc/s-prd-693336907.jpg,r forehead,malignant- bcc,male,46,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Diagnosed basal cell carcinoma.
+malignant-_bcc/s-prd-693338673.jpg,mid nasal dorsum,malignant- bcc,male,46,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Skin lesion: basal cell carcinoma.
+malignant-_bcc/s-prd-693338574.jpg,mid nasal dorsum,malignant- bcc,female,46,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Diagnosed basal cell carcinoma.
+malignant-_bcc/s-prd-693339151.jpg,mid nasal dorsum,malignant- bcc,female,46,"ii fair skin, blue eyes",no,no,white,BCC,Malignant,basal cell carcinoma,Texture and color details of basal cell carcinoma.
+nan/s-prd-661993505.jpg,right leg,,male,28,"ii fair skin, blue eyes",no,no,other,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+nan/s-prd-661993506.jpg,left leg,,male,28,"ii fair skin, blue eyes",no,no,other,UNK,Unknown,skin lesion,A view of skin lesion.
+nan/s-prd-661993504.jpg,right leg,,male,28,"ii fair skin, blue eyes",no,no,other,UNK,Unknown,skin lesion,Medical image: skin lesion.
+benign-melanocytic_nevus/s-prd-700229416.jpg,left forearm,benign-melanocytic nevus,female,37,"ii fair skin, blue eyes",no,no,other,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+benign-melanocytic_nevus/s-prd-700229294.jpg,left forearm,benign-melanocytic nevus,female,37,"ii fair skin, blue eyes",no,no,other,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+benign-melanocytic_nevus/s-prd-700233322.jpg,left forearm,benign-melanocytic nevus,female,37,"ii fair skin, blue eyes",no,no,other,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nan/s-prd-695429052.jpg,left forearm,,female,37,"ii fair skin, blue eyes",no,no,other,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+benign-melanocytic_nevus/s-prd-700626235.jpg,left lower back,benign-melanocytic nevus,female,64,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+benign-melanocytic_nevus/s-prd-700626216.jpg,left lower back,benign-melanocytic nevus,female,64,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+benign-melanocytic_nevus/s-prd-700626265.jpg,left lower back,benign-melanocytic nevus,female,64,"ii fair skin, blue eyes",no,no,white,NV,Benign,melanocytic nevus,melanocytic nevus.
+benign-melanocytic_nevus/s-prd-700711525.jpg,left posterior thigh,benign-melanocytic nevus,female,57,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,melanocytic nevus.
+benign-melanocytic_nevus/s-prd-700711512.jpg,left posterior thigh,benign-melanocytic nevus,female,57,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+benign-melanocytic_nevus/s-prd-700711514.jpg,left posterior thigh,benign-melanocytic nevus,female,57,"ii fair skin, blue eyes",yes,no,white,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+malignant-_bcc/s-prd-722388237.jpg,mid nasal dorsum,malignant- bcc,female,62,"i pale white skin, blue/green eyes, blond/red hair",no,no,white,BCC,Malignant,basal cell carcinoma,basal cell carcinoma (malignant).
+malignant-_bcc/s-prd-722388247.jpg,mid nasal dorsum,malignant- bcc,female,62,"i pale white skin, blue/green eyes, blond/red hair",no,no,white,BCC,Malignant,basal cell carcinoma,A close-up view of basal cell carcinoma.
+malignant-_bcc/s-prd-722388243.jpg,mid nasal dorsum,malignant- bcc,female,62,"i pale white skin, blue/green eyes, blond/red hair",no,no,white,BCC,Malignant,basal cell carcinoma,A medical image showing a malignant basal cell carcinoma.
+benign-seborrheic_keratosis/s-prd-725902948.jpg,r neck,benign-seborrheic keratosis,female,78,"ii fair skin, blue eyes",no,no,white,BKL,Benign,seborrheic keratosis,A benign lesion on the skin.
+benign-seborrheic_keratosis/s-prd-725903016.jpg,r neck,benign-seborrheic keratosis,female,78,"ii fair skin, blue eyes",no,no,white,BKL,Benign,seborrheic keratosis,Condition: seborrheic keratosis.
+benign-seborrheic_keratosis/s-prd-725903164.jpg,r neck,benign-seborrheic keratosis,female,78,"ii fair skin, blue eyes",no,no,white,BKL,Benign,seborrheic keratosis,Cutaneous lesion identified as seborrheic keratosis.
+benign-other/s-prd-725903381.jpg,l mid back,benign-other,female,78,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,A close-up view of benign keratosis.
+benign-other/s-prd-725903252.jpg,l mid back,benign-other,female,78,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+benign-other/s-prd-725903842.jpg,l mid back,benign-other,female,78,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+nan/s-prd-696265332.jpg,nasal bridge,,female,67,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Medical image: skin lesion.
+nan/s-prd-716765881.jpg,back,,female,61,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+nan/s-prd-716765882.jpg,back,,female,61,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,A view of skin lesion.
+benign-other/s-prd-818055709.jpg,l forearm,benign-other,female,61,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,Pathology present: benign keratosis (benign).
+benign-other/s-prd-818055863.jpg,l forearm,benign-other,female,61,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,A benign lesion on the skin.
+benign-other/s-prd-818055411.jpg,l forearm,benign-other,female,61,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,Skin lesion: benign keratosis.
+"other-_melanocytic_lesion,_possible_re-excision_(severe,_spitz,_aimp)/s-prd-728334312.jpg",r abdomen,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",female,28,"ii fair skin, blue eyes",no,no,white,UNK,Indeterminate,atypical melanocytic proliferation,Medical image: atypical melanocytic proliferation.
+"other-_melanocytic_lesion,_possible_re-excision_(severe,_spitz,_aimp)/s-prd-728334388.jpg",r abdomen,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",male,28,"ii fair skin, blue eyes",no,no,white,UNK,Indeterminate,atypical melanocytic proliferation,atypical melanocytic proliferation.
+"other-_melanocytic_lesion,_possible_re-excision_(severe,_spitz,_aimp)/s-prd-728334702.jpg",r abdomen,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",male,28,"ii fair skin, blue eyes",no,no,white,UNK,Indeterminate,atypical melanocytic proliferation,Medical image: atypical melanocytic proliferation.
+nan/s-prd-723481886.jpg,left inner thigh,,male,60,iv light brown skin,no,no,asian,UNK,Unknown,skin lesion,A view of skin lesion.
+nan/s-prd-723481888.jpg,left inner thigh,,male,60,iv light brown skin,no,no,asian,UNK,Unknown,skin lesion,Close-up of skin lesion on skin.
+nan/s-prd-723481887.jpg,left inner thigh,,male,60,iv light brown skin,no,no,asian,UNK,Unknown,skin lesion,Medical image: skin lesion.
+nan/s-prd-733693733.jpg,back,,female,72,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,A view of skin lesion.
+nan/s-prd-733701798.jpg,back,,female,72,"ii fair skin, blue eyes",no,no,white,UNK,Unknown,skin lesion,skin lesion.
+benign-other/s-prd-741476942.jpg,l hip,benign-other,female,66,iv light brown skin,no,unknown,unknown,BKL,Benign,benign keratosis,benign keratosis.
+benign-other/s-prd-741477060.jpg,l hip,benign-other,female,66,iv light brown skin,no,unknown,unknown,BKL,Benign,benign keratosis,Condition: benign keratosis.
+benign-other/s-prd-741477305.jpg,l hip,benign-other,male,66,iv light brown skin,no,unknown,unknown,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+benign-other/s-prd-745184902.jpg,l abdomen,benign-other,male,50,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,benign keratosis (benign).
+benign-other/s-prd-745184995.jpg,l abdomen,benign-other,female,50,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,Pathology present: benign keratosis (benign).
+benign-other/s-prd-745185292.jpg,l abdomen,benign-other,female,50,"ii fair skin, blue eyes",no,no,white,BKL,Benign,benign keratosis,A benign lesion on the skin.
+malignant-_sccis/s-prd-767494988.jpg,l lower leg,malignant- sccis,female,59,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,Diagnosed squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-767495841.jpg,l lower leg,malignant- sccis,female,59,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,squamous cell carcinoma in situ.
+malignant-_sccis/s-prd-767495370.jpg,l lower leg,malignant- sccis,female,59,"ii fair skin, blue eyes",no,no,white,SCC,Potentially Malignant,squamous cell carcinoma in situ,A potentially malignant lesion on the skin.

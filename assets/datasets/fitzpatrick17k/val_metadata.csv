@@ -1,0 +1,1140 @@
+file_name,old_label,ISIC_label,malignancy,disease_label,CLIP_caption,label,three_partition_label,fst
+acanthosis_nigricans/ac-ni_f1_23_d7736d20.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,Medical image: acanthosis_nigricans.,inflammatory,non-neoplastic,1
+acanthosis_nigricans/ac-ni_f2_2_4cb610a8.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,Medical image: acanthosis_nigricans.,inflammatory,non-neoplastic,2
+acanthosis_nigricans/ac-ni_f2_51_faf05b41.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,Medical image: acanthosis_nigricans.,inflammatory,non-neoplastic,2
+acanthosis_nigricans/ac-ni_f3_58_9e786fc0.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,A view of acanthosis_nigricans.,inflammatory,non-neoplastic,3
+acanthosis_nigricans/ac-ni_f3_82_0f06d322.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,Close-up of acanthosis_nigricans on skin.,inflammatory,non-neoplastic,3
+acanthosis_nigricans/ac-ni_f4_15_bebaf507.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,Close-up of acanthosis_nigricans on skin.,inflammatory,non-neoplastic,4
+acanthosis_nigricans/ac-ni_f5_65_236f35ed.jpg,acanthosis_nigricans,Unknown,Unknown,acanthosis_nigricans,A view of acanthosis_nigricans.,inflammatory,non-neoplastic,5
+acne/ac_f1_138_92d3eaf9.jpg,acne,UNK,Benign,acne vulgaris,A benign lesion on the skin.,inflammatory,non-neoplastic,1
+acne/ac_f1_3_945c7b1a.jpg,acne,UNK,Benign,acne vulgaris,A benign lesion on the skin.,inflammatory,non-neoplastic,1
+acne/ac_f2_113_9ed9d719.jpg,acne,UNK,Benign,acne vulgaris,Skin lesion: acne vulgaris.,inflammatory,non-neoplastic,2
+acne/ac_f2_129_62ff0258.jpg,acne,UNK,Benign,acne vulgaris,Cutaneous lesion identified as acne vulgaris.,inflammatory,non-neoplastic,2
+acne/ac_f2_44_d08d2ffc.jpg,acne,UNK,Benign,acne vulgaris,acne vulgaris.,inflammatory,non-neoplastic,2
+acne/ac_f2_48_f5d90ff7.jpg,acne,UNK,Benign,acne vulgaris,Cutaneous lesion identified as acne vulgaris.,inflammatory,non-neoplastic,2
+acne/ac_f3_101_faf0a786.jpg,acne,UNK,Benign,acne vulgaris,Texture and color details of acne vulgaris.,inflammatory,non-neoplastic,3
+acne/ac_f3_119_5e39496a.jpg,acne,UNK,Benign,acne vulgaris,acne vulgaris (benign).,inflammatory,non-neoplastic,3
+acne/ac_f3_27_aabd3637.jpg,acne,UNK,Benign,acne vulgaris,Skin surface showing acne vulgaris.,inflammatory,non-neoplastic,3
+acne/ac_f3_49_27b90df8.jpg,acne,UNK,Benign,acne vulgaris,Visual presentation of acne vulgaris.,inflammatory,non-neoplastic,3
+acne/ac_f3_4_a3cb5d0e.jpg,acne,UNK,Benign,acne vulgaris,Texture and color details of acne vulgaris.,inflammatory,non-neoplastic,3
+acne/ac_f4_158_87bbc915.jpg,acne,UNK,Benign,acne vulgaris,Texture and color details of acne vulgaris.,inflammatory,non-neoplastic,4
+acne_vulgaris/ac-vu_f1_111_d09fabea.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,acne_vulgaris.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f1_141_6994c19f.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f1_164_e09f83c8.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f1_186_0b008499.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,A view of acne_vulgaris.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f1_1_204f57f5.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f1_208_e1432f0b.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,An image of acne_vulgaris.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f1_270_a267188f.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Medical image: acne_vulgaris.,inflammatory,non-neoplastic,1
+acne_vulgaris/ac-vu_f2_109_74df53d1.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Skin lesion: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_142_0376a6f5.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Skin lesion: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_14_a9ec397c.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_182_f78b8cea.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Skin lesion: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_190_eeb21ba9.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,A view of acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_204_5544b56b.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_207_e84edfc2.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_23_5cd8e8c8.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Skin lesion: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_264_0538c14b.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Medical image: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_291_2e048fd5.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_308_993dbe0a.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_330_0b53f0be.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,An image of acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_56_e05c59f6.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,An image of acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_61_ea17f0c0.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,An image of acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_66_d06e3171.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Medical image: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f2_89_5820ef6b.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Skin lesion: acne_vulgaris.,inflammatory,non-neoplastic,2
+acne_vulgaris/ac-vu_f3_324_73d80855.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Medical image: acne_vulgaris.,inflammatory,non-neoplastic,3
+acne_vulgaris/ac-vu_f3_332_f05814b1.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,A view of acne_vulgaris.,inflammatory,non-neoplastic,3
+acne_vulgaris/ac-vu_f4_209_9fa0afba.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Skin lesion: acne_vulgaris.,inflammatory,non-neoplastic,4
+acne_vulgaris/ac-vu_f4_224_a981721b.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,Close-up of acne_vulgaris on skin.,inflammatory,non-neoplastic,4
+acne_vulgaris/ac-vu_f4_252_2dbfc654.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,acne_vulgaris.,inflammatory,non-neoplastic,4
+acne_vulgaris/ac-vu_f5_271_89cc61ce.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,A view of acne_vulgaris.,inflammatory,non-neoplastic,5
+acne_vulgaris/ac-vu_f5_90_d320e062.jpg,acne_vulgaris,Unknown,Unknown,acne_vulgaris,A view of acne_vulgaris.,inflammatory,non-neoplastic,5
+acquired_autoimmune_bullous_diseaseherpes_gestationis/ac-au-bu-di-ge_f1_13_0d8a8465.jpg,acquired_autoimmune_bullous_diseaseherpes_gestationis,Unknown,Unknown,acquired_autoimmune_bullous_diseaseherpes_gestationis,An image of acquired_autoimmune_bullous_diseaseherpes_gestationis.,inflammatory,non-neoplastic,1
+acquired_autoimmune_bullous_diseaseherpes_gestationis/ac-au-bu-di-ge_f2_12_c28a8c3b.jpg,acquired_autoimmune_bullous_diseaseherpes_gestationis,Unknown,Unknown,acquired_autoimmune_bullous_diseaseherpes_gestationis,Medical image: acquired_autoimmune_bullous_diseaseherpes_gestationis.,inflammatory,non-neoplastic,2
+acquired_autoimmune_bullous_diseaseherpes_gestationis/ac-au-bu-di-ge_f2_16_ced8afb9.jpg,acquired_autoimmune_bullous_diseaseherpes_gestationis,Unknown,Unknown,acquired_autoimmune_bullous_diseaseherpes_gestationis,A view of acquired_autoimmune_bullous_diseaseherpes_gestationis.,inflammatory,non-neoplastic,2
+acquired_autoimmune_bullous_diseaseherpes_gestationis/ac-au-bu-di-ge_f2_17_7b189a30.jpg,acquired_autoimmune_bullous_diseaseherpes_gestationis,Unknown,Unknown,acquired_autoimmune_bullous_diseaseherpes_gestationis,Close-up of acquired_autoimmune_bullous_diseaseherpes_gestationis on skin.,inflammatory,non-neoplastic,2
+acquired_autoimmune_bullous_diseaseherpes_gestationis/ac-au-bu-di-ge_f2_33_a8c08380.jpg,acquired_autoimmune_bullous_diseaseherpes_gestationis,Unknown,Unknown,acquired_autoimmune_bullous_diseaseherpes_gestationis,acquired_autoimmune_bullous_diseaseherpes_gestationis.,inflammatory,non-neoplastic,2
+acquired_autoimmune_bullous_diseaseherpes_gestationis/ac-au-bu-di-ge_f3_32_42cb7a40.jpg,acquired_autoimmune_bullous_diseaseherpes_gestationis,Unknown,Unknown,acquired_autoimmune_bullous_diseaseherpes_gestationis,A view of acquired_autoimmune_bullous_diseaseherpes_gestationis.,inflammatory,non-neoplastic,3
+acrodermatitis_enteropathica/ac-en_f2_15_f5ac6862.jpg,acrodermatitis_enteropathica,Unknown,Unknown,acrodermatitis_enteropathica,Close-up of acrodermatitis_enteropathica on skin.,genodermatoses,non-neoplastic,2
+acrodermatitis_enteropathica/ac-en_f2_76_798a9518.jpg,acrodermatitis_enteropathica,Unknown,Unknown,acrodermatitis_enteropathica,Medical image: acrodermatitis_enteropathica.,genodermatoses,non-neoplastic,2
+acrodermatitis_enteropathica/ac-en_f3_53_41d9d3b8.jpg,acrodermatitis_enteropathica,Unknown,Unknown,acrodermatitis_enteropathica,Skin lesion: acrodermatitis_enteropathica.,genodermatoses,non-neoplastic,3
+acrodermatitis_enteropathica/ac-en_f4_55_a159c4f8.jpg,acrodermatitis_enteropathica,Unknown,Unknown,acrodermatitis_enteropathica,Skin lesion: acrodermatitis_enteropathica.,genodermatoses,non-neoplastic,4
+acrodermatitis_enteropathica/ac-en_f5_13_668a347a.jpg,acrodermatitis_enteropathica,Unknown,Unknown,acrodermatitis_enteropathica,Skin lesion: acrodermatitis_enteropathica.,genodermatoses,non-neoplastic,5
+actinic_keratosis/ac-ke_f0_168_a95a1fdf.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,Close-up of actinic_keratosis on skin.,malignant epidermal,malignant,0
+actinic_keratosis/ac-ke_f0_52_97b6fbc9.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,Close-up of actinic_keratosis on skin.,malignant epidermal,malignant,0
+actinic_keratosis/ac-ke_f1_81_84993623.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,Medical image: actinic_keratosis.,malignant epidermal,malignant,1
+actinic_keratosis/ac-ke_f2_125_3120a03a.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,Medical image: actinic_keratosis.,malignant epidermal,malignant,2
+actinic_keratosis/ac-ke_f2_130_daa62b84.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,Close-up of actinic_keratosis on skin.,malignant epidermal,malignant,2
+actinic_keratosis/ac-ke_f2_38_32e185d2.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,A view of actinic_keratosis.,malignant epidermal,malignant,2
+actinic_keratosis/ac-ke_f2_55_8cb31aa8.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,actinic_keratosis.,malignant epidermal,malignant,2
+actinic_keratosis/ac-ke_f2_80_6b8ac39e.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,actinic_keratosis.,malignant epidermal,malignant,2
+actinic_keratosis/ac-ke_f2_96_00c67e6f.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,An image of actinic_keratosis.,malignant epidermal,malignant,2
+actinic_keratosis/ac-ke_f3_100_6e2da28f.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,An image of actinic_keratosis.,malignant epidermal,malignant,3
+actinic_keratosis/ac-ke_f3_24_0bb99b2f.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,A view of actinic_keratosis.,malignant epidermal,malignant,3
+actinic_keratosis/ac-ke_f4_136_7dabc981.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,An image of actinic_keratosis.,malignant epidermal,malignant,4
+actinic_keratosis/ac-ke_f4_64_95189ee0.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,actinic_keratosis.,malignant epidermal,malignant,4
+actinic_keratosis/ac-ke_f5_35_2bad4c85.jpg,actinic_keratosis,Unknown,Unknown,actinic_keratosis,An image of actinic_keratosis.,malignant epidermal,malignant,5
+allergic_contact_dermatitis/al-co-de_f1_172_7ab27dd8.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Close-up of allergic_contact_dermatitis on skin.,inflammatory,non-neoplastic,1
+allergic_contact_dermatitis/al-co-de_f1_182_06ba85a9.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Skin lesion: allergic_contact_dermatitis.,inflammatory,non-neoplastic,1
+allergic_contact_dermatitis/al-co-de_f1_1_890cf5d7.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Medical image: allergic_contact_dermatitis.,inflammatory,non-neoplastic,1
+allergic_contact_dermatitis/al-co-de_f1_256_168829ab.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,1
+allergic_contact_dermatitis/al-co-de_f1_312_f0ef32fb.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Medical image: allergic_contact_dermatitis.,inflammatory,non-neoplastic,1
+allergic_contact_dermatitis/al-co-de_f1_42_1c01c53e.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Close-up of allergic_contact_dermatitis on skin.,inflammatory,non-neoplastic,1
+allergic_contact_dermatitis/al-co-de_f2_103_d3d5cfff.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Close-up of allergic_contact_dermatitis on skin.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_106_40ff3b3b.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Skin lesion: allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_135_96fb3278.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_136_41069e76.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_168_99ba2c8a.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,An image of allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_205_bb0c7512.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,A view of allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_225_55702d32.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_285_bb50db00.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Skin lesion: allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_34_ba54c4b5.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Medical image: allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_350_e078907f.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Skin lesion: allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_37_40ee2bdd.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,A view of allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_389_621bcf6b.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_57_380ae9b2.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_61_12b43527.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,A view of allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_72_0d609c54.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,A view of allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_77_a95bbbee.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Medical image: allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f2_99_672e3fb9.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,An image of allergic_contact_dermatitis.,inflammatory,non-neoplastic,2
+allergic_contact_dermatitis/al-co-de_f3_274_60163178.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Medical image: allergic_contact_dermatitis.,inflammatory,non-neoplastic,3
+allergic_contact_dermatitis/al-co-de_f3_289_63a123ca.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Close-up of allergic_contact_dermatitis on skin.,inflammatory,non-neoplastic,3
+allergic_contact_dermatitis/al-co-de_f3_30_61f9b1dd.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,An image of allergic_contact_dermatitis.,inflammatory,non-neoplastic,3
+allergic_contact_dermatitis/al-co-de_f3_94_6da1799d.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Medical image: allergic_contact_dermatitis.,inflammatory,non-neoplastic,3
+allergic_contact_dermatitis/al-co-de_f4_109_f5131b17.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,A view of allergic_contact_dermatitis.,inflammatory,non-neoplastic,4
+allergic_contact_dermatitis/al-co-de_f4_179_45e5c24c.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,allergic_contact_dermatitis.,inflammatory,non-neoplastic,4
+allergic_contact_dermatitis/al-co-de_f4_271_0ff01331.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,Close-up of allergic_contact_dermatitis on skin.,inflammatory,non-neoplastic,4
+allergic_contact_dermatitis/al-co-de_f5_425_94310bc2.jpg,allergic_contact_dermatitis,Unknown,Unknown,allergic_contact_dermatitis,A view of allergic_contact_dermatitis.,inflammatory,non-neoplastic,5
+aplasia_cutis/ap-cu_f0_7_ff9d9256.jpg,aplasia_cutis,Unknown,Unknown,aplasia_cutis,aplasia_cutis.,inflammatory,non-neoplastic,0
+aplasia_cutis/ap-cu_f1_45_998150ba.jpg,aplasia_cutis,Unknown,Unknown,aplasia_cutis,aplasia_cutis.,inflammatory,non-neoplastic,1
+aplasia_cutis/ap-cu_f2_37_73fc5d4e.jpg,aplasia_cutis,Unknown,Unknown,aplasia_cutis,Close-up of aplasia_cutis on skin.,inflammatory,non-neoplastic,2
+aplasia_cutis/ap-cu_f3_34_b7c9c9e7.jpg,aplasia_cutis,Unknown,Unknown,aplasia_cutis,An image of aplasia_cutis.,inflammatory,non-neoplastic,3
+aplasia_cutis/ap-cu_f5_29_e40a7afe.jpg,aplasia_cutis,Unknown,Unknown,aplasia_cutis,A view of aplasia_cutis.,inflammatory,non-neoplastic,5
+basal_cell_carcinoma/ba-ce-ca_f0_330_b6efb8e7.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,0
+basal_cell_carcinoma/ba-ce-ca_f0_73_3875c968.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,0
+basal_cell_carcinoma/ba-ce-ca_f1_110_eb8fc90c.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,basal_cell_carcinoma.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f1_132_b1ef8944.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Close-up of basal_cell_carcinoma on skin.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f1_168_375fb0b6.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f1_211_6eab9709.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f1_232_5b80aba1.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f1_448_4442aec6.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f1_49_ddae49c6.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,1
+basal_cell_carcinoma/ba-ce-ca_f2_128_1f8ce7c9.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_155_4aba0456.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Close-up of basal_cell_carcinoma on skin.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_16_7b2417dd.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_173_09df2304.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Close-up of basal_cell_carcinoma on skin.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_182_4d43d8ea.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_226_bf50a7b1.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_290_a607cc07.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_314_1695bd10.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_35_fb7c974e.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_397_45119bcf.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Close-up of basal_cell_carcinoma on skin.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_417_c6b6b5cd.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_445_8c2d0eae.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f2_55_94937a8a.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,2
+basal_cell_carcinoma/ba-ce-ca_f3_148_73614371.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f3_21_0ef0d6fa.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f3_257_524aaebd.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f3_258_190822f2.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f3_332_32f9baf1.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f3_446_fb11cc09.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f3_47_63a6b113.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,3
+basal_cell_carcinoma/ba-ce-ca_f4_117_98c8c173.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_152_ff27aa2f.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_281_db871411.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_362_c7807277.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Medical image: basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_366_79457217.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_404_998ab155.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_430_f563de4c.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_442_4981320e.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_53_e1673c9d.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Close-up of basal_cell_carcinoma on skin.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f4_66_3486bb9f.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,A view of basal_cell_carcinoma.,malignant epidermal,malignant,4
+basal_cell_carcinoma/ba-ce-ca_f5_236_9209a4be.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,Skin lesion: basal_cell_carcinoma.,malignant epidermal,malignant,5
+basal_cell_carcinoma/ba-ce-ca_f5_98_70b99a10.jpg,basal_cell_carcinoma,Unknown,Unknown,basal_cell_carcinoma,An image of basal_cell_carcinoma.,malignant epidermal,malignant,5
+basal_cell_carcinoma_morpheiform/ba-ce-ca-mo_f1_19_b7bef6a7.jpg,basal_cell_carcinoma_morpheiform,Unknown,Unknown,basal_cell_carcinoma_morpheiform,basal_cell_carcinoma_morpheiform.,malignant epidermal,malignant,1
+basal_cell_carcinoma_morpheiform/ba-ce-ca-mo_f1_56_2a10c3a6.jpg,basal_cell_carcinoma_morpheiform,Unknown,Unknown,basal_cell_carcinoma_morpheiform,A view of basal_cell_carcinoma_morpheiform.,malignant epidermal,malignant,1
+basal_cell_carcinoma_morpheiform/ba-ce-ca-mo_f1_60_418d0094.jpg,basal_cell_carcinoma_morpheiform,Unknown,Unknown,basal_cell_carcinoma_morpheiform,Close-up of basal_cell_carcinoma_morpheiform on skin.,malignant epidermal,malignant,1
+basal_cell_carcinoma_morpheiform/ba-ce-ca-mo_f2_30_7937e706.jpg,basal_cell_carcinoma_morpheiform,Unknown,Unknown,basal_cell_carcinoma_morpheiform,basal_cell_carcinoma_morpheiform.,malignant epidermal,malignant,2
+basal_cell_carcinoma_morpheiform/ba-ce-ca-mo_f3_52_51c066c6.jpg,basal_cell_carcinoma_morpheiform,Unknown,Unknown,basal_cell_carcinoma_morpheiform,An image of basal_cell_carcinoma_morpheiform.,malignant epidermal,malignant,3
+becker_nevus/be-ne_f1_14_f63bd076.jpg,becker_nevus,Unknown,Unknown,becker_nevus,becker_nevus.,benign dermal,benign,1
+becker_nevus/be-ne_f1_20_5068074c.jpg,becker_nevus,Unknown,Unknown,becker_nevus,Skin lesion: becker_nevus.,benign dermal,benign,1
+becker_nevus/be-ne_f1_48_df793da8.jpg,becker_nevus,Unknown,Unknown,becker_nevus,Close-up of becker_nevus on skin.,benign dermal,benign,1
+becker_nevus/be-ne_f2_56_d9f812b3.jpg,becker_nevus,Unknown,Unknown,becker_nevus,Skin lesion: becker_nevus.,benign dermal,benign,2
+becker_nevus/be-ne_f3_26_1f16657e.jpg,becker_nevus,Unknown,Unknown,becker_nevus,A view of becker_nevus.,benign dermal,benign,3
+becker_nevus/be-ne_f3_62_730ab489.jpg,becker_nevus,Unknown,Unknown,becker_nevus,Close-up of becker_nevus on skin.,benign dermal,benign,3
+behcets_disease/be-di_f2_0_3e9d90d0.jpg,behcets_disease,Unknown,Unknown,behcets_disease,behcets_disease.,inflammatory,non-neoplastic,2
+behcets_disease/be-di_f2_25_7da2af86.jpg,behcets_disease,Unknown,Unknown,behcets_disease,An image of behcets_disease.,inflammatory,non-neoplastic,2
+behcets_disease/be-di_f2_7_92afd771.jpg,behcets_disease,Unknown,Unknown,behcets_disease,Skin lesion: behcets_disease.,inflammatory,non-neoplastic,2
+behcets_disease/be-di_f4_46_4aae3e17.jpg,behcets_disease,Unknown,Unknown,behcets_disease,behcets_disease.,inflammatory,non-neoplastic,4
+behcets_disease/be-di_f4_9_cd9c346e.jpg,behcets_disease,Unknown,Unknown,behcets_disease,Skin lesion: behcets_disease.,inflammatory,non-neoplastic,4
+calcinosis_cutis/ca-cu_f1_41_ed228a34.jpg,calcinosis_cutis,Unknown,Unknown,calcinosis_cutis,Skin lesion: calcinosis_cutis.,inflammatory,non-neoplastic,1
+calcinosis_cutis/ca-cu_f1_6_9fb08948.jpg,calcinosis_cutis,Unknown,Unknown,calcinosis_cutis,A view of calcinosis_cutis.,inflammatory,non-neoplastic,1
+calcinosis_cutis/ca-cu_f2_13_8b5638be.jpg,calcinosis_cutis,Unknown,Unknown,calcinosis_cutis,Medical image: calcinosis_cutis.,inflammatory,non-neoplastic,2
+calcinosis_cutis/ca-cu_f2_14_e21505fd.jpg,calcinosis_cutis,Unknown,Unknown,calcinosis_cutis,A view of calcinosis_cutis.,inflammatory,non-neoplastic,2
+calcinosis_cutis/ca-cu_f2_61_58f20f50.jpg,calcinosis_cutis,Unknown,Unknown,calcinosis_cutis,calcinosis_cutis.,inflammatory,non-neoplastic,2
+cheilitis/ch_f0_102_141a5e9c.jpg,cheilitis,UNK,Benign,cheilitis,"An image of cheilitis, a benign skin condition.",inflammatory,non-neoplastic,0
+cheilitis/ch_f0_83_b27e91db.jpg,cheilitis,UNK,Benign,cheilitis,A medical image showing a benign cheilitis.,inflammatory,non-neoplastic,0
+cheilitis/ch_f2_36_1b5d5e66.jpg,cheilitis,UNK,Benign,cheilitis,Diagnosed cheilitis.,inflammatory,non-neoplastic,2
+cheilitis/ch_f2_62_222f1b05.jpg,cheilitis,UNK,Benign,cheilitis,A benign lesion on the skin.,inflammatory,non-neoplastic,2
+cheilitis/ch_f4_39_1cd2fab6.jpg,cheilitis,UNK,Benign,cheilitis,"An image of cheilitis, a benign skin condition.",inflammatory,non-neoplastic,4
+cheilitis/ch_f5_45_1a74229f.jpg,cheilitis,UNK,Benign,cheilitis,Diagnosed cheilitis.,inflammatory,non-neoplastic,5
+cheilitis/ch_f5_80_8ffe549e.jpg,cheilitis,UNK,Benign,cheilitis,Cutaneous lesion identified as cheilitis.,inflammatory,non-neoplastic,5
+congenital_nevus/co-ne_f3_0_c8c63f5f.jpg,congenital_nevus,Unknown,Unknown,congenital_nevus,Medical image: congenital_nevus.,benign melanocyte,benign,3
+congenital_nevus/co-ne_f3_43_7fa9516f.jpg,congenital_nevus,Unknown,Unknown,congenital_nevus,Medical image: congenital_nevus.,benign melanocyte,benign,3
+congenital_nevus/co-ne_f3_67_d1603db4.jpg,congenital_nevus,Unknown,Unknown,congenital_nevus,Skin lesion: congenital_nevus.,benign melanocyte,benign,3
+congenital_nevus/co-ne_f4_2_a8583006.jpg,congenital_nevus,Unknown,Unknown,congenital_nevus,congenital_nevus.,benign melanocyte,benign,4
+dariers_disease/da-di_f0_135_8177bef3.jpg,dariers_disease,Unknown,Unknown,dariers_disease,dariers_disease.,genodermatoses,non-neoplastic,0
+dariers_disease/da-di_f1_12_0dcfc483.jpg,dariers_disease,Unknown,Unknown,dariers_disease,Medical image: dariers_disease.,genodermatoses,non-neoplastic,1
+dariers_disease/da-di_f1_35_34a79077.jpg,dariers_disease,Unknown,Unknown,dariers_disease,Medical image: dariers_disease.,genodermatoses,non-neoplastic,1
+dariers_disease/da-di_f2_20_637f9921.jpg,dariers_disease,Unknown,Unknown,dariers_disease,Skin lesion: dariers_disease.,genodermatoses,non-neoplastic,2
+dariers_disease/da-di_f2_50_ee7324b3.jpg,dariers_disease,Unknown,Unknown,dariers_disease,An image of dariers_disease.,genodermatoses,non-neoplastic,2
+dariers_disease/da-di_f2_52_2e08ed2c.jpg,dariers_disease,Unknown,Unknown,dariers_disease,Close-up of dariers_disease on skin.,genodermatoses,non-neoplastic,2
+dariers_disease/da-di_f3_76_d47e50b6.jpg,dariers_disease,Unknown,Unknown,dariers_disease,Close-up of dariers_disease on skin.,genodermatoses,non-neoplastic,3
+dariers_disease/da-di_f3_86_c51b3ada.jpg,dariers_disease,Unknown,Unknown,dariers_disease,dariers_disease.,genodermatoses,non-neoplastic,3
+dariers_disease/da-di_f3_97_1fddf117.jpg,dariers_disease,Unknown,Unknown,dariers_disease,dariers_disease.,genodermatoses,non-neoplastic,3
+dariers_disease/da-di_f4_130_6b3bedc7.jpg,dariers_disease,Unknown,Unknown,dariers_disease,dariers_disease.,genodermatoses,non-neoplastic,4
+dariers_disease/da-di_f4_144_af394141.jpg,dariers_disease,Unknown,Unknown,dariers_disease,An image of dariers_disease.,genodermatoses,non-neoplastic,4
+dariers_disease/da-di_f5_124_8e00ea9e.jpg,dariers_disease,Unknown,Unknown,dariers_disease,dariers_disease.,genodermatoses,non-neoplastic,5
+dariers_disease/da-di_f6_118_73cdc5cb.jpg,dariers_disease,Unknown,Unknown,dariers_disease,Close-up of dariers_disease on skin.,genodermatoses,non-neoplastic,6
+dermatofibroma/defi_f2_26_8a539794.jpg,dermatofibroma,DF,Benign,dermatofibroma,Condition: dermatofibroma.,benign dermal,benign,2
+dermatofibroma/defi_f2_63_375d4424.jpg,dermatofibroma,DF,Benign,dermatofibroma,dermatofibroma.,benign dermal,benign,2
+dermatofibroma/defi_f2_69_5a11757d.jpg,dermatofibroma,DF,Benign,dermatofibroma,A close-up view of dermatofibroma.,benign dermal,benign,2
+dermatofibroma/defi_f3_39_a4a41ecf.jpg,dermatofibroma,DF,Benign,dermatofibroma,A medical image showing a benign dermatofibroma.,benign dermal,benign,3
+dermatofibroma/defi_f3_74_5a84d9c3.jpg,dermatofibroma,DF,Benign,dermatofibroma,A benign lesion on the skin.,benign dermal,benign,3
+dermatofibroma/defi_f4_27_e6919d4f.jpg,dermatofibroma,DF,Benign,dermatofibroma,A benign lesion on the skin.,benign dermal,benign,4
+dermatomyositis/demy_f1_59_6e2b3de1.jpg,dermatomyositis,UNK,Benign,dermatomyositis,dermatomyositis.,inflammatory,non-neoplastic,1
+dermatomyositis/demy_f1_5_b26064c0.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Skin lesion: dermatomyositis.,inflammatory,non-neoplastic,1
+dermatomyositis/demy_f1_62_e770d054.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Pathology present: dermatomyositis (benign).,inflammatory,non-neoplastic,1
+dermatomyositis/demy_f2_141_1f00d2c1.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Cutaneous lesion identified as dermatomyositis.,inflammatory,non-neoplastic,2
+dermatomyositis/demy_f2_38_ba188c63.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Cutaneous lesion identified as dermatomyositis.,inflammatory,non-neoplastic,2
+dermatomyositis/demy_f2_73_89dd341f.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Diagnosed dermatomyositis.,inflammatory,non-neoplastic,2
+dermatomyositis/demy_f3_37_081c6550.jpg,dermatomyositis,UNK,Benign,dermatomyositis,A medical image showing a benign dermatomyositis.,inflammatory,non-neoplastic,3
+dermatomyositis/demy_f3_71_cd1ae8fc.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Cutaneous lesion identified as dermatomyositis.,inflammatory,non-neoplastic,3
+dermatomyositis/demy_f3_84_eacc89d8.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Texture and color details of dermatomyositis.,inflammatory,non-neoplastic,3
+dermatomyositis/demy_f4_143_ce9b8322.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Skin lesion: dermatomyositis.,inflammatory,non-neoplastic,4
+dermatomyositis/demy_f4_48_b7132d08.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Skin surface showing dermatomyositis.,inflammatory,non-neoplastic,4
+dermatomyositis/demy_f5_109_28209338.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Visual presentation of dermatomyositis.,inflammatory,non-neoplastic,5
+dermatomyositis/demy_f5_64_3ffc8c89.jpg,dermatomyositis,UNK,Benign,dermatomyositis,Pathology present: dermatomyositis (benign).,inflammatory,non-neoplastic,5
+dermatomyositis/demy_f5_95_176892df.jpg,dermatomyositis,UNK,Benign,dermatomyositis,dermatomyositis.,inflammatory,non-neoplastic,5
+disseminated_actinic_porokeratosis/di-ac-po_f1_20_a80e6846.jpg,disseminated_actinic_porokeratosis,Unknown,Unknown,disseminated_actinic_porokeratosis,Skin lesion: disseminated_actinic_porokeratosis.,benign epidermal,benign,1
+disseminated_actinic_porokeratosis/di-ac-po_f4_24_bf0ac1fa.jpg,disseminated_actinic_porokeratosis,Unknown,Unknown,disseminated_actinic_porokeratosis,Close-up of disseminated_actinic_porokeratosis on skin.,benign epidermal,benign,4
+drug_eruption/dr-er_f0_14_8cb5af88.jpg,drug_eruption,Unknown,Unknown,drug_eruption,drug_eruption.,inflammatory,non-neoplastic,0
+drug_eruption/dr-er_f1_175_dc753ad5.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Close-up of drug_eruption on skin.,inflammatory,non-neoplastic,1
+drug_eruption/dr-er_f1_22_922c1d83.jpg,drug_eruption,Unknown,Unknown,drug_eruption,drug_eruption.,inflammatory,non-neoplastic,1
+drug_eruption/dr-er_f1_2_36c389cb.jpg,drug_eruption,Unknown,Unknown,drug_eruption,An image of drug_eruption.,inflammatory,non-neoplastic,1
+drug_eruption/dr-er_f2_150_91f03ff7.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Skin lesion: drug_eruption.,inflammatory,non-neoplastic,2
+drug_eruption/dr-er_f2_158_206d0064.jpg,drug_eruption,Unknown,Unknown,drug_eruption,A view of drug_eruption.,inflammatory,non-neoplastic,2
+drug_eruption/dr-er_f2_43_0c429ddf.jpg,drug_eruption,Unknown,Unknown,drug_eruption,A view of drug_eruption.,inflammatory,non-neoplastic,2
+drug_eruption/dr-er_f2_48_d68a4226.jpg,drug_eruption,Unknown,Unknown,drug_eruption,A view of drug_eruption.,inflammatory,non-neoplastic,2
+drug_eruption/dr-er_f2_73_6303da02.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Medical image: drug_eruption.,inflammatory,non-neoplastic,2
+drug_eruption/dr-er_f3_115_daea0556.jpg,drug_eruption,Unknown,Unknown,drug_eruption,A view of drug_eruption.,inflammatory,non-neoplastic,3
+drug_eruption/dr-er_f3_162_17cecbba.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Close-up of drug_eruption on skin.,inflammatory,non-neoplastic,3
+drug_eruption/dr-er_f3_50_61cc204d.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Close-up of drug_eruption on skin.,inflammatory,non-neoplastic,3
+drug_eruption/dr-er_f4_105_7d312789.jpg,drug_eruption,Unknown,Unknown,drug_eruption,A view of drug_eruption.,inflammatory,non-neoplastic,4
+drug_eruption/dr-er_f4_117_3f803558.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Medical image: drug_eruption.,inflammatory,non-neoplastic,4
+drug_eruption/dr-er_f4_126_ebd43efb.jpg,drug_eruption,Unknown,Unknown,drug_eruption,An image of drug_eruption.,inflammatory,non-neoplastic,4
+drug_eruption/dr-er_f5_143_f8973fa8.jpg,drug_eruption,Unknown,Unknown,drug_eruption,Medical image: drug_eruption.,inflammatory,non-neoplastic,5
+drug_induced_pigmentary_changes/dr-in-pi-ch_f3_0_5e82a45b.jpg,drug_induced_pigmentary_changes,Unknown,Unknown,drug_induced_pigmentary_changes,Medical image: drug_induced_pigmentary_changes.,inflammatory,non-neoplastic,3
+drug_induced_pigmentary_changes/dr-in-pi-ch_f3_47_0451f0cb.jpg,drug_induced_pigmentary_changes,Unknown,Unknown,drug_induced_pigmentary_changes,A view of drug_induced_pigmentary_changes.,inflammatory,non-neoplastic,3
+drug_induced_pigmentary_changes/dr-in-pi-ch_f3_7_19567ac4.jpg,drug_induced_pigmentary_changes,Unknown,Unknown,drug_induced_pigmentary_changes,drug_induced_pigmentary_changes.,inflammatory,non-neoplastic,3
+drug_induced_pigmentary_changes/dr-in-pi-ch_f4_28_ef8eaf8b.jpg,drug_induced_pigmentary_changes,Unknown,Unknown,drug_induced_pigmentary_changes,Close-up of drug_induced_pigmentary_changes on skin.,inflammatory,non-neoplastic,4
+drug_induced_pigmentary_changes/dr-in-pi-ch_f4_58_6f9534bd.jpg,drug_induced_pigmentary_changes,Unknown,Unknown,drug_induced_pigmentary_changes,Medical image: drug_induced_pigmentary_changes.,inflammatory,non-neoplastic,4
+dyshidrotic_eczema/dy-ec_f2_17_3947c549.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,Skin lesion: dyshidrotic_eczema.,inflammatory,non-neoplastic,2
+dyshidrotic_eczema/dy-ec_f2_18_865686ca.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,A view of dyshidrotic_eczema.,inflammatory,non-neoplastic,2
+dyshidrotic_eczema/dy-ec_f3_26_0fcd867d.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,An image of dyshidrotic_eczema.,inflammatory,non-neoplastic,3
+dyshidrotic_eczema/dy-ec_f3_60_7a38c31d.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,An image of dyshidrotic_eczema.,inflammatory,non-neoplastic,3
+dyshidrotic_eczema/dy-ec_f3_64_d2759e6c.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,A view of dyshidrotic_eczema.,inflammatory,non-neoplastic,3
+dyshidrotic_eczema/dy-ec_f4_37_1bd165cc.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,Close-up of dyshidrotic_eczema on skin.,inflammatory,non-neoplastic,4
+dyshidrotic_eczema/dy-ec_f5_41_8f2c0368.jpg,dyshidrotic_eczema,Unknown,Unknown,dyshidrotic_eczema,A view of dyshidrotic_eczema.,inflammatory,non-neoplastic,5
+eczema/ec_f1_139_696922f3.jpg,eczema,UNK,Benign,eczema,Texture and color details of eczema.,inflammatory,non-neoplastic,1
+eczema/ec_f1_66_6fa3bc93.jpg,eczema,UNK,Benign,eczema,A benign lesion on the skin.,inflammatory,non-neoplastic,1
+eczema/ec_f1_67_f15bc382.jpg,eczema,UNK,Benign,eczema,eczema.,inflammatory,non-neoplastic,1
+eczema/ec_f1_96_851055fe.jpg,eczema,UNK,Benign,eczema,Cutaneous lesion identified as eczema.,inflammatory,non-neoplastic,1
+eczema/ec_f2_167_8b7a0683.jpg,eczema,UNK,Benign,eczema,Diagnosed eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_172_2e8d80b3.jpg,eczema,UNK,Benign,eczema,Texture and color details of eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_183_46be988f.jpg,eczema,UNK,Benign,eczema,A close-up view of eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_18_2c88133e.jpg,eczema,UNK,Benign,eczema,A close-up view of eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_1_53d69b9f.jpg,eczema,UNK,Benign,eczema,Skin surface showing eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_55_100aecaa.jpg,eczema,UNK,Benign,eczema,Skin lesion: eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_79_fb57531d.jpg,eczema,UNK,Benign,eczema,"An image of eczema, a benign skin condition.",inflammatory,non-neoplastic,2
+eczema/ec_f2_81_cb0bd0c2.jpg,eczema,UNK,Benign,eczema,A close-up view of eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f2_94_d05a9fe8.jpg,eczema,UNK,Benign,eczema,eczema.,inflammatory,non-neoplastic,2
+eczema/ec_f3_70_26ac8d27.jpg,eczema,UNK,Benign,eczema,Cutaneous lesion identified as eczema.,inflammatory,non-neoplastic,3
+eczema/ec_f4_133_1bec7e2e.jpg,eczema,UNK,Benign,eczema,"An image of eczema, a benign skin condition.",inflammatory,non-neoplastic,4
+eczema/ec_f4_135_ecb358bd.jpg,eczema,UNK,Benign,eczema,A medical image showing a benign eczema.,inflammatory,non-neoplastic,4
+eczema/ec_f4_145_924acae6.jpg,eczema,UNK,Benign,eczema,eczema.,inflammatory,non-neoplastic,4
+eczema/ec_f6_163_de0b8a88.jpg,eczema,UNK,Benign,eczema,Pathology present: eczema (benign).,inflammatory,non-neoplastic,6
+ehlers_danlos_syndrome/eh-da-sy_f1_18_831143c8.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,Skin lesion: ehlers_danlos_syndrome.,genodermatoses,non-neoplastic,1
+ehlers_danlos_syndrome/eh-da-sy_f1_79_cc7e7038.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,Medical image: ehlers_danlos_syndrome.,genodermatoses,non-neoplastic,1
+ehlers_danlos_syndrome/eh-da-sy_f3_103_1db9d1ec.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,Skin lesion: ehlers_danlos_syndrome.,genodermatoses,non-neoplastic,3
+ehlers_danlos_syndrome/eh-da-sy_f3_96_56482c04.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,Close-up of ehlers_danlos_syndrome on skin.,genodermatoses,non-neoplastic,3
+ehlers_danlos_syndrome/eh-da-sy_f4_53_3060664d.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,Medical image: ehlers_danlos_syndrome.,genodermatoses,non-neoplastic,4
+ehlers_danlos_syndrome/eh-da-sy_f4_98_99aa381e.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,Skin lesion: ehlers_danlos_syndrome.,genodermatoses,non-neoplastic,4
+ehlers_danlos_syndrome/eh-da-sy_f5_110_892dcca0.jpg,ehlers_danlos_syndrome,Unknown,Unknown,ehlers_danlos_syndrome,ehlers_danlos_syndrome.,genodermatoses,non-neoplastic,5
+epidermal_nevus/ep-ne_f2_12_76bb0123.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,An image of epidermal_nevus.,benign epidermal,benign,2
+epidermal_nevus/ep-ne_f2_34_83026368.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,An image of epidermal_nevus.,benign epidermal,benign,2
+epidermal_nevus/ep-ne_f2_47_b8b10fd0.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,Skin lesion: epidermal_nevus.,benign epidermal,benign,2
+epidermal_nevus/ep-ne_f2_55_20fa1e49.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,Close-up of epidermal_nevus on skin.,benign epidermal,benign,2
+epidermal_nevus/ep-ne_f2_60_91a0742a.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,Medical image: epidermal_nevus.,benign epidermal,benign,2
+epidermal_nevus/ep-ne_f4_14_4e22f7ad.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,An image of epidermal_nevus.,benign epidermal,benign,4
+epidermal_nevus/ep-ne_f4_64_76fea128.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,Skin lesion: epidermal_nevus.,benign epidermal,benign,4
+epidermal_nevus/ep-ne_f6_28_691e9932.jpg,epidermal_nevus,Unknown,Unknown,epidermal_nevus,An image of epidermal_nevus.,benign epidermal,benign,6
+epidermolysis_bullosa/ep-bu_f1_40_f015e205.jpg,epidermolysis_bullosa,Unknown,Unknown,epidermolysis_bullosa,Medical image: epidermolysis_bullosa.,genodermatoses,non-neoplastic,1
+epidermolysis_bullosa/ep-bu_f1_51_8fed3fba.jpg,epidermolysis_bullosa,Unknown,Unknown,epidermolysis_bullosa,epidermolysis_bullosa.,genodermatoses,non-neoplastic,1
+epidermolysis_bullosa/ep-bu_f2_48_95f90a8a.jpg,epidermolysis_bullosa,Unknown,Unknown,epidermolysis_bullosa,Medical image: epidermolysis_bullosa.,genodermatoses,non-neoplastic,2
+epidermolysis_bullosa/ep-bu_f3_30_cac27ffb.jpg,epidermolysis_bullosa,Unknown,Unknown,epidermolysis_bullosa,An image of epidermolysis_bullosa.,genodermatoses,non-neoplastic,3
+epidermolysis_bullosa/ep-bu_f3_59_49759edd.jpg,epidermolysis_bullosa,Unknown,Unknown,epidermolysis_bullosa,An image of epidermolysis_bullosa.,genodermatoses,non-neoplastic,3
+epidermolysis_bullosa/ep-bu_f5_28_b7969c6c.jpg,epidermolysis_bullosa,Unknown,Unknown,epidermolysis_bullosa,An image of epidermolysis_bullosa.,genodermatoses,non-neoplastic,5
+erythema_annulare_centrifigum/er-an-ce_f1_50_481b7fd0.jpg,erythema_annulare_centrifigum,Unknown,Unknown,erythema_annulare_centrifigum,erythema_annulare_centrifigum.,inflammatory,non-neoplastic,1
+erythema_annulare_centrifigum/er-an-ce_f2_28_879258b9.jpg,erythema_annulare_centrifigum,Unknown,Unknown,erythema_annulare_centrifigum,erythema_annulare_centrifigum.,inflammatory,non-neoplastic,2
+erythema_annulare_centrifigum/er-an-ce_f2_42_1ed6aae0.jpg,erythema_annulare_centrifigum,Unknown,Unknown,erythema_annulare_centrifigum,An image of erythema_annulare_centrifigum.,inflammatory,non-neoplastic,2
+erythema_annulare_centrifigum/er-an-ce_f3_30_ce926c06.jpg,erythema_annulare_centrifigum,Unknown,Unknown,erythema_annulare_centrifigum,Close-up of erythema_annulare_centrifigum on skin.,inflammatory,non-neoplastic,3
+erythema_annulare_centrifigum/er-an-ce_f3_76_12165b89.jpg,erythema_annulare_centrifigum,Unknown,Unknown,erythema_annulare_centrifigum,Close-up of erythema_annulare_centrifigum on skin.,inflammatory,non-neoplastic,3
+erythema_elevatum_diutinum/er-el-di_f2_0_8fdb7ba5.jpg,erythema_elevatum_diutinum,Unknown,Unknown,erythema_elevatum_diutinum,Skin lesion: erythema_elevatum_diutinum.,inflammatory,non-neoplastic,2
+erythema_elevatum_diutinum/er-el-di_f2_6_0b0d9c97.jpg,erythema_elevatum_diutinum,Unknown,Unknown,erythema_elevatum_diutinum,Medical image: erythema_elevatum_diutinum.,inflammatory,non-neoplastic,2
+erythema_elevatum_diutinum/er-el-di_f4_54_7c181c1c.jpg,erythema_elevatum_diutinum,Unknown,Unknown,erythema_elevatum_diutinum,A view of erythema_elevatum_diutinum.,inflammatory,non-neoplastic,4
+erythema_multiforme/er-mu_f1_145_86600d30.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,A view of erythema_multiforme.,inflammatory,non-neoplastic,1
+erythema_multiforme/er-mu_f1_18_de2514c9.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Skin lesion: erythema_multiforme.,inflammatory,non-neoplastic,1
+erythema_multiforme/er-mu_f1_26_08cd3c69.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Close-up of erythema_multiforme on skin.,inflammatory,non-neoplastic,1
+erythema_multiforme/er-mu_f2_187_5a6c39df.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,An image of erythema_multiforme.,inflammatory,non-neoplastic,2
+erythema_multiforme/er-mu_f2_20_4ad89640.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Skin lesion: erythema_multiforme.,inflammatory,non-neoplastic,2
+erythema_multiforme/er-mu_f2_212_57263009.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,An image of erythema_multiforme.,inflammatory,non-neoplastic,2
+erythema_multiforme/er-mu_f2_23_2e41853e.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,A view of erythema_multiforme.,inflammatory,non-neoplastic,2
+erythema_multiforme/er-mu_f2_36_1ffcc8cd.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Close-up of erythema_multiforme on skin.,inflammatory,non-neoplastic,2
+erythema_multiforme/er-mu_f2_51_682e15bc.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,erythema_multiforme.,inflammatory,non-neoplastic,2
+erythema_multiforme/er-mu_f3_170_7d56937c.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Skin lesion: erythema_multiforme.,inflammatory,non-neoplastic,3
+erythema_multiforme/er-mu_f3_197_20b79f94.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Skin lesion: erythema_multiforme.,inflammatory,non-neoplastic,3
+erythema_multiforme/er-mu_f3_58_4acfda3b.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,An image of erythema_multiforme.,inflammatory,non-neoplastic,3
+erythema_multiforme/er-mu_f4_214_16b8bc3e.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,erythema_multiforme.,inflammatory,non-neoplastic,4
+erythema_multiforme/er-mu_f5_132_43ed926a.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,An image of erythema_multiforme.,inflammatory,non-neoplastic,5
+erythema_multiforme/er-mu_f5_158_01802314.jpg,erythema_multiforme,Unknown,Unknown,erythema_multiforme,Medical image: erythema_multiforme.,inflammatory,non-neoplastic,5
+erythema_nodosum/er-no_f1_16_b2f21eae.jpg,erythema_nodosum,Unknown,Unknown,erythema_nodosum,Close-up of erythema_nodosum on skin.,inflammatory,non-neoplastic,1
+erythema_nodosum/er-no_f1_1_5c538b28.jpg,erythema_nodosum,Unknown,Unknown,erythema_nodosum,An image of erythema_nodosum.,inflammatory,non-neoplastic,1
+erythema_nodosum/er-no_f1_20_104307ae.jpg,erythema_nodosum,Unknown,Unknown,erythema_nodosum,erythema_nodosum.,inflammatory,non-neoplastic,1
+erythema_nodosum/er-no_f2_21_7a6ece42.jpg,erythema_nodosum,Unknown,Unknown,erythema_nodosum,Medical image: erythema_nodosum.,inflammatory,non-neoplastic,2
+erythema_nodosum/er-no_f2_35_1d4216cd.jpg,erythema_nodosum,Unknown,Unknown,erythema_nodosum,Close-up of erythema_nodosum on skin.,inflammatory,non-neoplastic,2
+factitial_dermatitis/fa-de_f1_21_9a83d251.jpg,factitial_dermatitis,Unknown,Unknown,factitial_dermatitis,factitial_dermatitis.,inflammatory,non-neoplastic,1
+factitial_dermatitis/fa-de_f2_48_e912bad5.jpg,factitial_dermatitis,Unknown,Unknown,factitial_dermatitis,Close-up of factitial_dermatitis on skin.,inflammatory,non-neoplastic,2
+factitial_dermatitis/fa-de_f2_53_cc25be52.jpg,factitial_dermatitis,Unknown,Unknown,factitial_dermatitis,A view of factitial_dermatitis.,inflammatory,non-neoplastic,2
+factitial_dermatitis/fa-de_f3_36_fc0dc331.jpg,factitial_dermatitis,Unknown,Unknown,factitial_dermatitis,Medical image: factitial_dermatitis.,inflammatory,non-neoplastic,3
+fixed_eruptions/fi-er_f1_23_13d103bc.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,Medical image: fixed_eruptions.,inflammatory,non-neoplastic,1
+fixed_eruptions/fi-er_f1_36_a7231011.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,An image of fixed_eruptions.,inflammatory,non-neoplastic,1
+fixed_eruptions/fi-er_f1_42_c709e2c0.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,An image of fixed_eruptions.,inflammatory,non-neoplastic,1
+fixed_eruptions/fi-er_f2_15_75d64643.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,Skin lesion: fixed_eruptions.,inflammatory,non-neoplastic,2
+fixed_eruptions/fi-er_f2_91_29bbe8fb.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,fixed_eruptions.,inflammatory,non-neoplastic,2
+fixed_eruptions/fi-er_f3_35_75c4372c.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,fixed_eruptions.,inflammatory,non-neoplastic,3
+fixed_eruptions/fi-er_f3_78_d5c29908.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,Close-up of fixed_eruptions on skin.,inflammatory,non-neoplastic,3
+fixed_eruptions/fi-er_f4_6_b77dbc83.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,An image of fixed_eruptions.,inflammatory,non-neoplastic,4
+fixed_eruptions/fi-er_f5_69_df97967c.jpg,fixed_eruptions,Unknown,Unknown,fixed_eruptions,Medical image: fixed_eruptions.,inflammatory,non-neoplastic,5
+folliculitis/fo_f1_162_dfae71d7.jpg,folliculitis,UNK,Benign,folliculitis,Diagnosed folliculitis.,inflammatory,non-neoplastic,1
+folliculitis/fo_f1_195_3235d994.jpg,folliculitis,UNK,Benign,folliculitis,Skin surface showing folliculitis.,inflammatory,non-neoplastic,1
+folliculitis/fo_f2_106_63fd5d71.jpg,folliculitis,UNK,Benign,folliculitis,folliculitis (benign).,inflammatory,non-neoplastic,2
+folliculitis/fo_f2_147_f1a0afa5.jpg,folliculitis,UNK,Benign,folliculitis,Cutaneous lesion identified as folliculitis.,inflammatory,non-neoplastic,2
+folliculitis/fo_f2_165_444aaf98.jpg,folliculitis,UNK,Benign,folliculitis,folliculitis.,inflammatory,non-neoplastic,2
+folliculitis/fo_f2_259_0f240c2c.jpg,folliculitis,UNK,Benign,folliculitis,Texture and color details of folliculitis.,inflammatory,non-neoplastic,2
+folliculitis/fo_f2_50_71db60e9.jpg,folliculitis,UNK,Benign,folliculitis,Pathology present: folliculitis (benign).,inflammatory,non-neoplastic,2
+folliculitis/fo_f2_87_e0a38024.jpg,folliculitis,UNK,Benign,folliculitis,A close-up view of folliculitis.,inflammatory,non-neoplastic,2
+folliculitis/fo_f2_95_2cd32877.jpg,folliculitis,UNK,Benign,folliculitis,Cutaneous lesion identified as folliculitis.,inflammatory,non-neoplastic,2
+folliculitis/fo_f3_181_84958eb3.jpg,folliculitis,UNK,Benign,folliculitis,Cutaneous lesion identified as folliculitis.,inflammatory,non-neoplastic,3
+folliculitis/fo_f3_264_0a38a439.jpg,folliculitis,UNK,Benign,folliculitis,"An image of folliculitis, a benign skin condition.",inflammatory,non-neoplastic,3
+folliculitis/fo_f3_329_838a5a42.jpg,folliculitis,UNK,Benign,folliculitis,"An image of folliculitis, a benign skin condition.",inflammatory,non-neoplastic,3
+folliculitis/fo_f3_71_f23510d4.jpg,folliculitis,UNK,Benign,folliculitis,folliculitis.,inflammatory,non-neoplastic,3
+folliculitis/fo_f4_160_c2c8d2bd.jpg,folliculitis,UNK,Benign,folliculitis,Condition: folliculitis.,inflammatory,non-neoplastic,4
+folliculitis/fo_f4_252_e6e57cfe.jpg,folliculitis,UNK,Benign,folliculitis,Skin surface showing folliculitis.,inflammatory,non-neoplastic,4
+folliculitis/fo_f4_294_953361f7.jpg,folliculitis,UNK,Benign,folliculitis,A medical image showing a benign folliculitis.,inflammatory,non-neoplastic,4
+folliculitis/fo_f4_38_cd67345f.jpg,folliculitis,UNK,Benign,folliculitis,Condition: folliculitis.,inflammatory,non-neoplastic,4
+folliculitis/fo_f5_310_2c899ba3.jpg,folliculitis,UNK,Benign,folliculitis,Texture and color details of folliculitis.,inflammatory,non-neoplastic,5
+fordyce_spots/fo-sp_f0_13_74dc419f.jpg,fordyce_spots,Unknown,Unknown,fordyce_spots,An image of fordyce_spots.,benign dermal,benign,0
+fordyce_spots/fo-sp_f1_56_a7ef35e9.jpg,fordyce_spots,Unknown,Unknown,fordyce_spots,A view of fordyce_spots.,benign dermal,benign,1
+fordyce_spots/fo-sp_f2_20_cd97c494.jpg,fordyce_spots,Unknown,Unknown,fordyce_spots,Close-up of fordyce_spots on skin.,benign dermal,benign,2
+fordyce_spots/fo-sp_f2_85_600bd472.jpg,fordyce_spots,Unknown,Unknown,fordyce_spots,Close-up of fordyce_spots on skin.,benign dermal,benign,2
+granuloma_annulare/gr-an_f1_107_fa13dce3.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Close-up of granuloma_annulare on skin.,inflammatory,non-neoplastic,1
+granuloma_annulare/gr-an_f1_159_87ee9212.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Medical image: granuloma_annulare.,inflammatory,non-neoplastic,1
+granuloma_annulare/gr-an_f2_113_56faadc9.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Medical image: granuloma_annulare.,inflammatory,non-neoplastic,2
+granuloma_annulare/gr-an_f2_147_51957f8e.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Close-up of granuloma_annulare on skin.,inflammatory,non-neoplastic,2
+granuloma_annulare/gr-an_f2_197_74d7f788.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Skin lesion: granuloma_annulare.,inflammatory,non-neoplastic,2
+granuloma_annulare/gr-an_f2_26_8e69042d.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Medical image: granuloma_annulare.,inflammatory,non-neoplastic,2
+granuloma_annulare/gr-an_f3_105_114cc7cf.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Close-up of granuloma_annulare on skin.,inflammatory,non-neoplastic,3
+granuloma_annulare/gr-an_f3_167_ef712e96.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,A view of granuloma_annulare.,inflammatory,non-neoplastic,3
+granuloma_annulare/gr-an_f3_67_83ed9c6c.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,Skin lesion: granuloma_annulare.,inflammatory,non-neoplastic,3
+granuloma_annulare/gr-an_f4_61_2a836240.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,granuloma_annulare.,inflammatory,non-neoplastic,4
+granuloma_annulare/gr-an_f4_65_a7aa6149.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,A view of granuloma_annulare.,inflammatory,non-neoplastic,4
+granuloma_annulare/gr-an_f4_86_fe6768bd.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,A view of granuloma_annulare.,inflammatory,non-neoplastic,4
+granuloma_annulare/gr-an_f4_98_24994267.jpg,granuloma_annulare,Unknown,Unknown,granuloma_annulare,granuloma_annulare.,inflammatory,non-neoplastic,4
+granuloma_pyogenic/gr-py_f2_71_109ac254.jpg,granuloma_pyogenic,Unknown,Unknown,granuloma_pyogenic,An image of granuloma_pyogenic.,benign dermal,benign,2
+granuloma_pyogenic/gr-py_f2_72_6d589d14.jpg,granuloma_pyogenic,Unknown,Unknown,granuloma_pyogenic,granuloma_pyogenic.,benign dermal,benign,2
+granuloma_pyogenic/gr-py_f3_69_bfd62fc2.jpg,granuloma_pyogenic,Unknown,Unknown,granuloma_pyogenic,Close-up of granuloma_pyogenic on skin.,benign dermal,benign,3
+hailey_hailey_disease/ha-ha-di_f2_124_12d96c02.jpg,hailey_hailey_disease,Unknown,Unknown,hailey_hailey_disease,An image of hailey_hailey_disease.,genodermatoses,non-neoplastic,2
+hailey_hailey_disease/ha-ha-di_f2_64_706ca021.jpg,hailey_hailey_disease,Unknown,Unknown,hailey_hailey_disease,Medical image: hailey_hailey_disease.,genodermatoses,non-neoplastic,2
+hailey_hailey_disease/ha-ha-di_f2_75_8c5eb790.jpg,hailey_hailey_disease,Unknown,Unknown,hailey_hailey_disease,Medical image: hailey_hailey_disease.,genodermatoses,non-neoplastic,2
+hailey_hailey_disease/ha-ha-di_f3_123_35314852.jpg,hailey_hailey_disease,Unknown,Unknown,hailey_hailey_disease,An image of hailey_hailey_disease.,genodermatoses,non-neoplastic,3
+hailey_hailey_disease/ha-ha-di_f3_165_4d7ebeff.jpg,hailey_hailey_disease,Unknown,Unknown,hailey_hailey_disease,Medical image: hailey_hailey_disease.,genodermatoses,non-neoplastic,3
+hailey_hailey_disease/ha-ha-di_f4_129_143032b4.jpg,hailey_hailey_disease,Unknown,Unknown,hailey_hailey_disease,Close-up of hailey_hailey_disease on skin.,genodermatoses,non-neoplastic,4
+halo_nevus/ha-ne_f1_10_aedc4330.jpg,halo_nevus,Unknown,Unknown,halo_nevus,A view of halo_nevus.,benign melanocyte,benign,1
+halo_nevus/ha-ne_f2_0_67af6e29.jpg,halo_nevus,Unknown,Unknown,halo_nevus,Close-up of halo_nevus on skin.,benign melanocyte,benign,2
+halo_nevus/ha-ne_f3_56_773ad866.jpg,halo_nevus,Unknown,Unknown,halo_nevus,Medical image: halo_nevus.,benign melanocyte,benign,3
+halo_nevus/ha-ne_f3_69_4538448e.jpg,halo_nevus,Unknown,Unknown,halo_nevus,halo_nevus.,benign melanocyte,benign,3
+halo_nevus/ha-ne_f3_79_5a49bd55.jpg,halo_nevus,Unknown,Unknown,halo_nevus,halo_nevus.,benign melanocyte,benign,3
+halo_nevus/ha-ne_f5_34_9a049a3c.jpg,halo_nevus,Unknown,Unknown,halo_nevus,A view of halo_nevus.,benign melanocyte,benign,5
+halo_nevus/ha-ne_f5_74_572a802d.jpg,halo_nevus,Unknown,Unknown,halo_nevus,Medical image: halo_nevus.,benign melanocyte,benign,5
+hidradenitis/hi_f1_4_a80f2bb9.jpg,hidradenitis,UNK,Benign,hidradenitis suppurativa,Pathology present: hidradenitis suppurativa (benign).,inflammatory,non-neoplastic,1
+hidradenitis/hi_f2_37_0c8dfe78.jpg,hidradenitis,UNK,Benign,hidradenitis suppurativa,A medical image showing a benign hidradenitis suppurativa.,inflammatory,non-neoplastic,2
+hidradenitis/hi_f2_54_c531ae0d.jpg,hidradenitis,UNK,Benign,hidradenitis suppurativa,A medical image showing a benign hidradenitis suppurativa.,inflammatory,non-neoplastic,2
+hidradenitis/hi_f2_85_e3ec239b.jpg,hidradenitis,UNK,Benign,hidradenitis suppurativa,A medical image showing a benign hidradenitis suppurativa.,inflammatory,non-neoplastic,2
+hidradenitis/hi_f3_33_899def0e.jpg,hidradenitis,UNK,Benign,hidradenitis suppurativa,"An image of hidradenitis suppurativa, a benign skin condition.",inflammatory,non-neoplastic,3
+hidradenitis/hi_f3_53_9dad2b2a.jpg,hidradenitis,UNK,Benign,hidradenitis suppurativa,Pathology present: hidradenitis suppurativa (benign).,inflammatory,non-neoplastic,3
+ichthyosis_vulgaris/ic-vu_f2_22_01edbc94.jpg,ichthyosis_vulgaris,Unknown,Unknown,ichthyosis_vulgaris,ichthyosis_vulgaris.,genodermatoses,non-neoplastic,2
+ichthyosis_vulgaris/ic-vu_f2_2_c6501c41.jpg,ichthyosis_vulgaris,Unknown,Unknown,ichthyosis_vulgaris,Close-up of ichthyosis_vulgaris on skin.,genodermatoses,non-neoplastic,2
+ichthyosis_vulgaris/ic-vu_f3_53_bcd1d0a5.jpg,ichthyosis_vulgaris,Unknown,Unknown,ichthyosis_vulgaris,Close-up of ichthyosis_vulgaris on skin.,genodermatoses,non-neoplastic,3
+ichthyosis_vulgaris/ic-vu_f3_57_dd1be5fe.jpg,ichthyosis_vulgaris,Unknown,Unknown,ichthyosis_vulgaris,A view of ichthyosis_vulgaris.,genodermatoses,non-neoplastic,3
+ichthyosis_vulgaris/ic-vu_f6_39_e2fbcd95.jpg,ichthyosis_vulgaris,Unknown,Unknown,ichthyosis_vulgaris,Skin lesion: ichthyosis_vulgaris.,genodermatoses,non-neoplastic,6
+incontinentia_pigmenti/in-pi_f1_25_1553c01f.jpg,incontinentia_pigmenti,Unknown,Unknown,incontinentia_pigmenti,incontinentia_pigmenti.,genodermatoses,non-neoplastic,1
+incontinentia_pigmenti/in-pi_f1_35_03238c6e.jpg,incontinentia_pigmenti,Unknown,Unknown,incontinentia_pigmenti,A view of incontinentia_pigmenti.,genodermatoses,non-neoplastic,1
+incontinentia_pigmenti/in-pi_f2_43_da9dd516.jpg,incontinentia_pigmenti,Unknown,Unknown,incontinentia_pigmenti,Skin lesion: incontinentia_pigmenti.,genodermatoses,non-neoplastic,2
+incontinentia_pigmenti/in-pi_f2_5_92468255.jpg,incontinentia_pigmenti,Unknown,Unknown,incontinentia_pigmenti,Close-up of incontinentia_pigmenti on skin.,genodermatoses,non-neoplastic,2
+incontinentia_pigmenti/in-pi_f3_75_fac177c1.jpg,incontinentia_pigmenti,Unknown,Unknown,incontinentia_pigmenti,Close-up of incontinentia_pigmenti on skin.,genodermatoses,non-neoplastic,3
+incontinentia_pigmenti/in-pi_f5_92_afce09d4.jpg,incontinentia_pigmenti,Unknown,Unknown,incontinentia_pigmenti,Close-up of incontinentia_pigmenti on skin.,genodermatoses,non-neoplastic,5
+juvenile_xanthogranuloma/ju-xa_f1_113_01ed6482.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,Medical image: juvenile_xanthogranuloma.,inflammatory,non-neoplastic,1
+juvenile_xanthogranuloma/ju-xa_f1_57_01dcb2df.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,Close-up of juvenile_xanthogranuloma on skin.,inflammatory,non-neoplastic,1
+juvenile_xanthogranuloma/ju-xa_f1_58_13a401b5.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,juvenile_xanthogranuloma.,inflammatory,non-neoplastic,1
+juvenile_xanthogranuloma/ju-xa_f1_65_04d58fca.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,Medical image: juvenile_xanthogranuloma.,inflammatory,non-neoplastic,1
+juvenile_xanthogranuloma/ju-xa_f2_138_2bdf153c.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,A view of juvenile_xanthogranuloma.,inflammatory,non-neoplastic,2
+juvenile_xanthogranuloma/ju-xa_f3_41_b475283f.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,juvenile_xanthogranuloma.,inflammatory,non-neoplastic,3
+juvenile_xanthogranuloma/ju-xa_f3_56_6e6cf368.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,A view of juvenile_xanthogranuloma.,inflammatory,non-neoplastic,3
+juvenile_xanthogranuloma/ju-xa_f3_66_e27acdfe.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,Medical image: juvenile_xanthogranuloma.,inflammatory,non-neoplastic,3
+juvenile_xanthogranuloma/ju-xa_f3_97_727bb620.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,juvenile_xanthogranuloma.,inflammatory,non-neoplastic,3
+juvenile_xanthogranuloma/ju-xa_f4_33_528a578f.jpg,juvenile_xanthogranuloma,Unknown,Unknown,juvenile_xanthogranuloma,An image of juvenile_xanthogranuloma.,inflammatory,non-neoplastic,4
+kaposi_sarcoma/ka-sa_f1_3_cb399ec0.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,Medical image: kaposi_sarcoma.,malignant dermal,malignant,1
+kaposi_sarcoma/ka-sa_f2_107_466ad4e1.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,Skin lesion: kaposi_sarcoma.,malignant dermal,malignant,2
+kaposi_sarcoma/ka-sa_f2_96_10875c6d.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,Medical image: kaposi_sarcoma.,malignant dermal,malignant,2
+kaposi_sarcoma/ka-sa_f3_55_411f9076.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,Skin lesion: kaposi_sarcoma.,malignant dermal,malignant,3
+kaposi_sarcoma/ka-sa_f4_122_afc4bdb0.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,A view of kaposi_sarcoma.,malignant dermal,malignant,4
+kaposi_sarcoma/ka-sa_f4_134_47fdee8c.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,kaposi_sarcoma.,malignant dermal,malignant,4
+kaposi_sarcoma/ka-sa_f4_137_11192bb0.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,kaposi_sarcoma.,malignant dermal,malignant,4
+kaposi_sarcoma/ka-sa_f4_23_ca33407a.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,An image of kaposi_sarcoma.,malignant dermal,malignant,4
+kaposi_sarcoma/ka-sa_f4_63_976bcb2a.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,An image of kaposi_sarcoma.,malignant dermal,malignant,4
+kaposi_sarcoma/ka-sa_f5_98_7496fc44.jpg,kaposi_sarcoma,Unknown,Unknown,kaposi_sarcoma,An image of kaposi_sarcoma.,malignant dermal,malignant,5
+keloid/ke_f0_38_31f99767.jpg,keloid,UNK,Benign,keloid scar,Skin lesion: keloid scar.,inflammatory,non-neoplastic,0
+keloid/ke_f1_85_cb909e8c.jpg,keloid,UNK,Benign,keloid scar,A close-up view of keloid scar.,inflammatory,non-neoplastic,1
+keloid/ke_f2_100_0d7c7bd5.jpg,keloid,UNK,Benign,keloid scar,Cutaneous lesion identified as keloid scar.,inflammatory,non-neoplastic,2
+keloid/ke_f2_103_4536ca10.jpg,keloid,UNK,Benign,keloid scar,Cutaneous lesion identified as keloid scar.,inflammatory,non-neoplastic,2
+keloid/ke_f2_45_4ce18542.jpg,keloid,UNK,Benign,keloid scar,keloid scar (benign).,inflammatory,non-neoplastic,2
+keloid/ke_f2_54_50b4cc0d.jpg,keloid,UNK,Benign,keloid scar,keloid scar (benign).,inflammatory,non-neoplastic,2
+keloid/ke_f3_3_213877be.jpg,keloid,UNK,Benign,keloid scar,Texture and color details of keloid scar.,inflammatory,non-neoplastic,3
+keloid/ke_f5_72_2b2db13f.jpg,keloid,UNK,Benign,keloid scar,Skin surface showing keloid scar.,inflammatory,non-neoplastic,5
+keratosis_pilaris/ke-pi_f1_41_443c13fe.jpg,keratosis_pilaris,Unknown,Unknown,keratosis_pilaris,Medical image: keratosis_pilaris.,inflammatory,non-neoplastic,1
+keratosis_pilaris/ke-pi_f1_47_231bcd04.jpg,keratosis_pilaris,Unknown,Unknown,keratosis_pilaris,Close-up of keratosis_pilaris on skin.,inflammatory,non-neoplastic,1
+keratosis_pilaris/ke-pi_f1_65_4a295424.jpg,keratosis_pilaris,Unknown,Unknown,keratosis_pilaris,A view of keratosis_pilaris.,inflammatory,non-neoplastic,1
+keratosis_pilaris/ke-pi_f2_27_f99d69b5.jpg,keratosis_pilaris,Unknown,Unknown,keratosis_pilaris,Skin lesion: keratosis_pilaris.,inflammatory,non-neoplastic,2
+keratosis_pilaris/ke-pi_f2_9_37ff22f7.jpg,keratosis_pilaris,Unknown,Unknown,keratosis_pilaris,A view of keratosis_pilaris.,inflammatory,non-neoplastic,2
+keratosis_pilaris/ke-pi_f4_61_578fcfdc.jpg,keratosis_pilaris,Unknown,Unknown,keratosis_pilaris,Skin lesion: keratosis_pilaris.,inflammatory,non-neoplastic,4
+langerhans_cell_histiocytosis/la-ce-hi_f2_55_fb2f47e3.jpg,langerhans_cell_histiocytosis,Unknown,Unknown,langerhans_cell_histiocytosis,Medical image: langerhans_cell_histiocytosis.,inflammatory,non-neoplastic,2
+langerhans_cell_histiocytosis/la-ce-hi_f3_31_345ae29f.jpg,langerhans_cell_histiocytosis,Unknown,Unknown,langerhans_cell_histiocytosis,Medical image: langerhans_cell_histiocytosis.,inflammatory,non-neoplastic,3
+langerhans_cell_histiocytosis/la-ce-hi_f5_12_46bae8dd.jpg,langerhans_cell_histiocytosis,Unknown,Unknown,langerhans_cell_histiocytosis,langerhans_cell_histiocytosis.,inflammatory,non-neoplastic,5
+lentigo_maligna/le-ma_f1_31_a3308a1b.jpg,lentigo_maligna,Unknown,Unknown,lentigo_maligna,A view of lentigo_maligna.,malignant melanoma,malignant,1
+lentigo_maligna/le-ma_f1_44_758c500f.jpg,lentigo_maligna,Unknown,Unknown,lentigo_maligna,Skin lesion: lentigo_maligna.,malignant melanoma,malignant,1
+lentigo_maligna/le-ma_f2_36_8211416b.jpg,lentigo_maligna,Unknown,Unknown,lentigo_maligna,Medical image: lentigo_maligna.,malignant melanoma,malignant,2
+lentigo_maligna/le-ma_f2_7_6c0dd254.jpg,lentigo_maligna,Unknown,Unknown,lentigo_maligna,Skin lesion: lentigo_maligna.,malignant melanoma,malignant,2
+lentigo_maligna/le-ma_f4_24_33df7010.jpg,lentigo_maligna,Unknown,Unknown,lentigo_maligna,An image of lentigo_maligna.,malignant melanoma,malignant,4
+lentigo_maligna/le-ma_f4_71_80203c8b.jpg,lentigo_maligna,Unknown,Unknown,lentigo_maligna,Medical image: lentigo_maligna.,malignant melanoma,malignant,4
+lichen_amyloidosis/li-am_f2_64_130b5281.jpg,lichen_amyloidosis,Unknown,Unknown,lichen_amyloidosis,lichen_amyloidosis.,inflammatory,non-neoplastic,2
+lichen_amyloidosis/li-am_f5_68_96abfb8f.jpg,lichen_amyloidosis,Unknown,Unknown,lichen_amyloidosis,An image of lichen_amyloidosis.,inflammatory,non-neoplastic,5
+lichen_amyloidosis/li-am_f6_59_eb54ec0a.jpg,lichen_amyloidosis,Unknown,Unknown,lichen_amyloidosis,Skin lesion: lichen_amyloidosis.,inflammatory,non-neoplastic,6
+lichen_planus/li-pl_f0_254_93342d7f.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,0
+lichen_planus/li-pl_f0_319_c405a3df.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Skin lesion: lichen_planus.,inflammatory,non-neoplastic,0
+lichen_planus/li-pl_f0_60_67969e73.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,0
+lichen_planus/li-pl_f1_183_e2211fea.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,1
+lichen_planus/li-pl_f1_191_4e5fe64a.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,1
+lichen_planus/li-pl_f1_206_cd033336.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,1
+lichen_planus/li-pl_f1_243_1df787d9.jpg,lichen_planus,Unknown,Unknown,lichen_planus,An image of lichen_planus.,inflammatory,non-neoplastic,1
+lichen_planus/li-pl_f1_51_253e57b1.jpg,lichen_planus,Unknown,Unknown,lichen_planus,An image of lichen_planus.,inflammatory,non-neoplastic,1
+lichen_planus/li-pl_f1_7_92549951.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Skin lesion: lichen_planus.,inflammatory,non-neoplastic,1
+lichen_planus/li-pl_f2_112_4ac7d2f1.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_166_8bb8ab35.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Skin lesion: lichen_planus.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_190_0052eda5.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_199_8b2ea916.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_239_4e72e9a2.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_31_c52074f9.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_62_c85eedc8.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f2_83_0711ff35.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Medical image: lichen_planus.,inflammatory,non-neoplastic,2
+lichen_planus/li-pl_f3_173_848b890b.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,3
+lichen_planus/li-pl_f3_176_38cf78f7.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,3
+lichen_planus/li-pl_f3_386_03f62656.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,3
+lichen_planus/li-pl_f3_420_aa9c5c94.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,3
+lichen_planus/li-pl_f3_433_1bfad197.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,3
+lichen_planus/li-pl_f3_434_ec1d0ea2.jpg,lichen_planus,Unknown,Unknown,lichen_planus,An image of lichen_planus.,inflammatory,non-neoplastic,3
+lichen_planus/li-pl_f4_249_494b2c11.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,4
+lichen_planus/li-pl_f4_340_a333317e.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,4
+lichen_planus/li-pl_f4_418_c1ea4221.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,4
+lichen_planus/li-pl_f4_50_b0d3a19e.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,4
+lichen_planus/li-pl_f5_145_02b13fc1.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_182_d29300ed.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_310_17ee2632.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Medical image: lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_322_46ca6ec5.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_343_553a4c38.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Skin lesion: lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_351_24206a1f.jpg,lichen_planus,Unknown,Unknown,lichen_planus,A view of lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_435_9575b8c8.jpg,lichen_planus,Unknown,Unknown,lichen_planus,An image of lichen_planus.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f5_451_b8bc24ea.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Close-up of lichen_planus on skin.,inflammatory,non-neoplastic,5
+lichen_planus/li-pl_f6_123_a6a7271b.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,6
+lichen_planus/li-pl_f6_138_abc5d1da.jpg,lichen_planus,Unknown,Unknown,lichen_planus,lichen_planus.,inflammatory,non-neoplastic,6
+lichen_planus/li-pl_f6_309_48dcccaa.jpg,lichen_planus,Unknown,Unknown,lichen_planus,Skin lesion: lichen_planus.,inflammatory,non-neoplastic,6
+lichen_simplex/li-si_f2_12_85e11dd1.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,Skin lesion: lichen_simplex.,inflammatory,non-neoplastic,2
+lichen_simplex/li-si_f2_53_cbaf62a6.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,Close-up of lichen_simplex on skin.,inflammatory,non-neoplastic,2
+lichen_simplex/li-si_f3_45_db021a92.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,Skin lesion: lichen_simplex.,inflammatory,non-neoplastic,3
+lichen_simplex/li-si_f3_5_acbc68bd.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,Skin lesion: lichen_simplex.,inflammatory,non-neoplastic,3
+lichen_simplex/li-si_f3_9_bb23fa10.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,Skin lesion: lichen_simplex.,inflammatory,non-neoplastic,3
+lichen_simplex/li-si_f4_16_5b2233d7.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,Skin lesion: lichen_simplex.,inflammatory,non-neoplastic,4
+lichen_simplex/li-si_f4_7_93997108.jpg,lichen_simplex,Unknown,Unknown,lichen_simplex,An image of lichen_simplex.,inflammatory,non-neoplastic,4
+livedo_reticularis/li-re_f1_41_2950ddae.jpg,livedo_reticularis,Unknown,Unknown,livedo_reticularis,A view of livedo_reticularis.,inflammatory,non-neoplastic,1
+livedo_reticularis/li-re_f2_23_3c380e92.jpg,livedo_reticularis,Unknown,Unknown,livedo_reticularis,Medical image: livedo_reticularis.,inflammatory,non-neoplastic,2
+livedo_reticularis/li-re_f2_51_33a22fb3.jpg,livedo_reticularis,Unknown,Unknown,livedo_reticularis,Close-up of livedo_reticularis on skin.,inflammatory,non-neoplastic,2
+livedo_reticularis/li-re_f3_49_9f2c730a.jpg,livedo_reticularis,Unknown,Unknown,livedo_reticularis,An image of livedo_reticularis.,inflammatory,non-neoplastic,3
+lupus_erythematosus/lu-er_f0_70_68b21951.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Close-up of lupus_erythematosus on skin.,inflammatory,non-neoplastic,0
+lupus_erythematosus/lu-er_f1_1_04e8c9f7.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Medical image: lupus_erythematosus.,inflammatory,non-neoplastic,1
+lupus_erythematosus/lu-er_f1_22_6028cd88.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,1
+lupus_erythematosus/lu-er_f1_23_0ad14c73.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,lupus_erythematosus.,inflammatory,non-neoplastic,1
+lupus_erythematosus/lu-er_f1_292_55eca87f.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Medical image: lupus_erythematosus.,inflammatory,non-neoplastic,1
+lupus_erythematosus/lu-er_f2_147_d43eb00c.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,An image of lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_148_174fb8c4.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_184_3b4bde58.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_246_e977b48b.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Skin lesion: lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_257_22fabbd3.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_267_040f078b.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,An image of lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_268_41f80e19.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Skin lesion: lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_288_4c358fa5.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,An image of lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_301_dafd1b7a.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Medical image: lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_75_6e3ca2c3.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,An image of lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f2_78_6f097bd9.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,lupus_erythematosus.,inflammatory,non-neoplastic,2
+lupus_erythematosus/lu-er_f3_361_2808367b.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,An image of lupus_erythematosus.,inflammatory,non-neoplastic,3
+lupus_erythematosus/lu-er_f3_63_3b4c2f40.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Skin lesion: lupus_erythematosus.,inflammatory,non-neoplastic,3
+lupus_erythematosus/lu-er_f3_77_c4661ae9.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,3
+lupus_erythematosus/lu-er_f3_88_f93cefdc.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,Medical image: lupus_erythematosus.,inflammatory,non-neoplastic,3
+lupus_erythematosus/lu-er_f4_247_721d160e.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,4
+lupus_erythematosus/lu-er_f5_242_3f29160b.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,lupus_erythematosus.,inflammatory,non-neoplastic,5
+lupus_erythematosus/lu-er_f5_334_2a38635d.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,lupus_erythematosus.,inflammatory,non-neoplastic,5
+lupus_erythematosus/lu-er_f6_194_2758b5c3.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,6
+lupus_erythematosus/lu-er_f6_303_c7b55857.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,6
+lupus_erythematosus/lu-er_f6_327_a2e2f7fc.jpg,lupus_erythematosus,Unknown,Unknown,lupus_erythematosus,A view of lupus_erythematosus.,inflammatory,non-neoplastic,6
+lupus_subacute/lu-su_f1_21_1ba8bd23.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,Skin lesion: lupus_subacute.,inflammatory,non-neoplastic,1
+lupus_subacute/lu-su_f1_73_55970043.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,Close-up of lupus_subacute on skin.,inflammatory,non-neoplastic,1
+lupus_subacute/lu-su_f1_76_d1f747c0.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,A view of lupus_subacute.,inflammatory,non-neoplastic,1
+lupus_subacute/lu-su_f2_42_0b662ecf.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,Skin lesion: lupus_subacute.,inflammatory,non-neoplastic,2
+lupus_subacute/lu-su_f2_44_807599a2.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,Medical image: lupus_subacute.,inflammatory,non-neoplastic,2
+lupus_subacute/lu-su_f2_60_9777ed43.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,Skin lesion: lupus_subacute.,inflammatory,non-neoplastic,2
+lupus_subacute/lu-su_f2_95_3b4138a3.jpg,lupus_subacute,Unknown,Unknown,lupus_subacute,lupus_subacute.,inflammatory,non-neoplastic,2
+lyme_disease/ly-di_f1_87_cd14790c.jpg,lyme_disease,Unknown,Unknown,lyme_disease,Medical image: lyme_disease.,inflammatory,non-neoplastic,1
+lyme_disease/ly-di_f2_0_a4c6b049.jpg,lyme_disease,Unknown,Unknown,lyme_disease,lyme_disease.,inflammatory,non-neoplastic,2
+lyme_disease/ly-di_f2_119_8e571707.jpg,lyme_disease,Unknown,Unknown,lyme_disease,lyme_disease.,inflammatory,non-neoplastic,2
+lyme_disease/ly-di_f2_24_a4591529.jpg,lyme_disease,Unknown,Unknown,lyme_disease,lyme_disease.,inflammatory,non-neoplastic,2
+lyme_disease/ly-di_f2_38_ada6e013.jpg,lyme_disease,Unknown,Unknown,lyme_disease,A view of lyme_disease.,inflammatory,non-neoplastic,2
+lyme_disease/ly-di_f2_51_1fd09395.jpg,lyme_disease,Unknown,Unknown,lyme_disease,Skin lesion: lyme_disease.,inflammatory,non-neoplastic,2
+lyme_disease/ly-di_f3_29_55df4aba.jpg,lyme_disease,Unknown,Unknown,lyme_disease,Medical image: lyme_disease.,inflammatory,non-neoplastic,3
+lyme_disease/ly-di_f6_74_e2f30b55.jpg,lyme_disease,Unknown,Unknown,lyme_disease,Skin lesion: lyme_disease.,inflammatory,non-neoplastic,6
+lymphangioma/ly_f0_13_7909083a.jpg,lymphangioma,UNK,Benign,lymphangioma,Texture and color details of lymphangioma.,benign dermal,benign,0
+lymphangioma/ly_f0_24_3544c601.jpg,lymphangioma,UNK,Benign,lymphangioma,A close-up view of lymphangioma.,benign dermal,benign,0
+lymphangioma/ly_f0_94_f7a948d5.jpg,lymphangioma,UNK,Benign,lymphangioma,Diagnosed lymphangioma.,benign dermal,benign,0
+lymphangioma/ly_f2_35_45c2f95c.jpg,lymphangioma,UNK,Benign,lymphangioma,Cutaneous lesion identified as lymphangioma.,benign dermal,benign,2
+lymphangioma/ly_f2_64_1323cbd6.jpg,lymphangioma,UNK,Benign,lymphangioma,"An image of lymphangioma, a benign skin condition.",benign dermal,benign,2
+lymphangioma/ly_f2_79_c211433a.jpg,lymphangioma,UNK,Benign,lymphangioma,Texture and color details of lymphangioma.,benign dermal,benign,2
+lymphangioma/ly_f3_53_9360b4fb.jpg,lymphangioma,UNK,Benign,lymphangioma,Skin lesion: lymphangioma.,benign dermal,benign,3
+lymphangioma/ly_f4_87_2dde5203.jpg,lymphangioma,UNK,Benign,lymphangioma,A close-up view of lymphangioma.,benign dermal,benign,4
+malignant_melanoma/ma-me_f1_103_b3c86bb9.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,malignant_melanoma.,malignant melanoma,malignant,1
+malignant_melanoma/ma-me_f1_17_8579d8e4.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,Medical image: malignant_melanoma.,malignant melanoma,malignant,1
+malignant_melanoma/ma-me_f1_29_f128b433.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,malignant_melanoma.,malignant melanoma,malignant,1
+malignant_melanoma/ma-me_f1_37_ed277f41.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,Skin lesion: malignant_melanoma.,malignant melanoma,malignant,1
+malignant_melanoma/ma-me_f1_94_b2413c35.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,Medical image: malignant_melanoma.,malignant melanoma,malignant,1
+malignant_melanoma/ma-me_f1_98_a5caf184.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,Skin lesion: malignant_melanoma.,malignant melanoma,malignant,1
+malignant_melanoma/ma-me_f2_108_248f9241.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,malignant_melanoma.,malignant melanoma,malignant,2
+malignant_melanoma/ma-me_f2_30_30eddb4d.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,Close-up of malignant_melanoma on skin.,malignant melanoma,malignant,2
+malignant_melanoma/ma-me_f2_84_ce123c8a.jpg,malignant_melanoma,Unknown,Unknown,malignant_melanoma,Close-up of malignant_melanoma on skin.,malignant melanoma,malignant,2
+melanoma/me_f0_126_87ae4c6a.jpg,melanoma,MEL,Malignant,melanoma,A close-up view of melanoma.,malignant melanoma,malignant,0
+melanoma/me_f0_197_b4df499e.jpg,melanoma,MEL,Malignant,melanoma,Visual presentation of melanoma.,malignant melanoma,malignant,0
+melanoma/me_f0_32_de9b248a.jpg,melanoma,MEL,Malignant,melanoma,Skin lesion: melanoma.,malignant melanoma,malignant,0
+melanoma/me_f1_137_a933cf00.jpg,melanoma,MEL,Malignant,melanoma,melanoma.,malignant melanoma,malignant,1
+melanoma/me_f2_139_43e565b2.jpg,melanoma,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.,malignant melanoma,malignant,2
+melanoma/me_f2_149_ea191524.jpg,melanoma,MEL,Malignant,melanoma,"An image of melanoma, a malignant skin condition.",malignant melanoma,malignant,2
+melanoma/me_f2_155_4874ae43.jpg,melanoma,MEL,Malignant,melanoma,melanoma (malignant).,malignant melanoma,malignant,2
+melanoma/me_f2_157_ee93be80.jpg,melanoma,MEL,Malignant,melanoma,melanoma.,malignant melanoma,malignant,2
+melanoma/me_f2_233_9aced25f.jpg,melanoma,MEL,Malignant,melanoma,Condition: melanoma.,malignant melanoma,malignant,2
+melanoma/me_f2_58_d888164f.jpg,melanoma,MEL,Malignant,melanoma,Pathology present: melanoma (malignant).,malignant melanoma,malignant,2
+melanoma/me_f2_70_78710cb0.jpg,melanoma,MEL,Malignant,melanoma,A malignant lesion on the skin.,malignant melanoma,malignant,2
+melanoma/me_f3_179_80af4481.jpg,melanoma,MEL,Malignant,melanoma,Condition: melanoma.,malignant melanoma,malignant,3
+melanoma/me_f3_216_2e9a44d7.jpg,melanoma,MEL,Malignant,melanoma,melanoma (malignant).,malignant melanoma,malignant,3
+melanoma/me_f4_23_e64bc4a3.jpg,melanoma,MEL,Malignant,melanoma,A close-up view of melanoma.,malignant melanoma,malignant,4
+melanoma/me_f4_245_3f014488.jpg,melanoma,MEL,Malignant,melanoma,A close-up view of melanoma.,malignant melanoma,malignant,4
+melanoma/me_f4_66_835a931b.jpg,melanoma,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.,malignant melanoma,malignant,4
+melanoma/me_f5_150_e61194e0.jpg,melanoma,MEL,Malignant,melanoma,Cutaneous lesion identified as melanoma.,malignant melanoma,malignant,5
+melanoma/me_f5_159_7041e0d8.jpg,melanoma,MEL,Malignant,melanoma,Cutaneous lesion identified as melanoma.,malignant melanoma,malignant,5
+milia/mi_f1_101_d662d1dc.jpg,milia,UNK,Benign,milia,"An image of milia, a benign skin condition.",benign epidermal,benign,1
+milia/mi_f1_39_6784d371.jpg,milia,UNK,Benign,milia,Visual presentation of milia.,benign epidermal,benign,1
+milia/mi_f1_40_aafc6602.jpg,milia,UNK,Benign,milia,Cutaneous lesion identified as milia.,benign epidermal,benign,1
+milia/mi_f1_51_f4095624.jpg,milia,UNK,Benign,milia,A medical image showing a benign milia.,benign epidermal,benign,1
+milia/mi_f2_13_5be26452.jpg,milia,UNK,Benign,milia,Visual presentation of milia.,benign epidermal,benign,2
+milia/mi_f2_82_db8bd9fc.jpg,milia,UNK,Benign,milia,Skin lesion: milia.,benign epidermal,benign,2
+milia/mi_f2_8_1f38d003.jpg,milia,UNK,Benign,milia,Visual presentation of milia.,benign epidermal,benign,2
+milia/mi_f3_104_1dadc6ac.jpg,milia,UNK,Benign,milia,Visual presentation of milia.,benign epidermal,benign,3
+milia/mi_f5_80_46ec6952.jpg,milia,UNK,Benign,milia,Visual presentation of milia.,benign epidermal,benign,5
+mucinosis/mu_f1_17_c118b606.jpg,mucinosis,UNK,Benign,cutaneous mucinosis,Cutaneous lesion identified as cutaneous mucinosis.,inflammatory,non-neoplastic,1
+mucinosis/mu_f1_18_94133a99.jpg,mucinosis,UNK,Benign,cutaneous mucinosis,A benign lesion on the skin.,inflammatory,non-neoplastic,1
+mucinosis/mu_f2_57_77534c1d.jpg,mucinosis,UNK,Benign,cutaneous mucinosis,A medical image showing a benign cutaneous mucinosis.,inflammatory,non-neoplastic,2
+mucinosis/mu_f3_5_b1fed8d9.jpg,mucinosis,UNK,Benign,cutaneous mucinosis,Condition: cutaneous mucinosis.,inflammatory,non-neoplastic,3
+mucinosis/mu_f4_84_eec97c59.jpg,mucinosis,UNK,Benign,cutaneous mucinosis,Skin lesion: cutaneous mucinosis.,inflammatory,non-neoplastic,4
+mucinosis/mu_f5_27_919c5a41.jpg,mucinosis,UNK,Benign,cutaneous mucinosis,Pathology present: cutaneous mucinosis (benign).,inflammatory,non-neoplastic,5
+mucous_cyst/mu-cy_f1_22_93d60c6f.jpg,mucous_cyst,Unknown,Unknown,mucous_cyst,A view of mucous_cyst.,benign dermal,benign,1
+mucous_cyst/mu-cy_f1_3_7a6e02f2.jpg,mucous_cyst,Unknown,Unknown,mucous_cyst,mucous_cyst.,benign dermal,benign,1
+mucous_cyst/mu-cy_f2_13_ca10879d.jpg,mucous_cyst,Unknown,Unknown,mucous_cyst,Close-up of mucous_cyst on skin.,benign dermal,benign,2
+mucous_cyst/mu-cy_f2_34_3e60a79f.jpg,mucous_cyst,Unknown,Unknown,mucous_cyst,mucous_cyst.,benign dermal,benign,2
+mucous_cyst/mu-cy_f3_60_d44a546f.jpg,mucous_cyst,Unknown,Unknown,mucous_cyst,Close-up of mucous_cyst on skin.,benign dermal,benign,3
+mucous_cyst/mu-cy_f4_54_f0337540.jpg,mucous_cyst,Unknown,Unknown,mucous_cyst,A view of mucous_cyst.,benign dermal,benign,4
+mycosis_fungoides/my-fu_f0_147_2a7edfb5.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,mycosis_fungoides.,malignant cutaneous lymphoma,malignant,0
+mycosis_fungoides/my-fu_f0_85_fa58fbf6.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,mycosis_fungoides.,malignant cutaneous lymphoma,malignant,0
+mycosis_fungoides/my-fu_f1_41_039524bc.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,An image of mycosis_fungoides.,malignant cutaneous lymphoma,malignant,1
+mycosis_fungoides/my-fu_f1_53_890f8ca9.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,mycosis_fungoides.,malignant cutaneous lymphoma,malignant,1
+mycosis_fungoides/my-fu_f1_59_6f64857e.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,A view of mycosis_fungoides.,malignant cutaneous lymphoma,malignant,1
+mycosis_fungoides/my-fu_f1_61_ec61f2a8.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,Close-up of mycosis_fungoides on skin.,malignant cutaneous lymphoma,malignant,1
+mycosis_fungoides/my-fu_f1_96_f6a4ea5c.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,Close-up of mycosis_fungoides on skin.,malignant cutaneous lymphoma,malignant,1
+mycosis_fungoides/my-fu_f2_158_40abd941.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,Skin lesion: mycosis_fungoides.,malignant cutaneous lymphoma,malignant,2
+mycosis_fungoides/my-fu_f3_171_634f0aff.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,mycosis_fungoides.,malignant cutaneous lymphoma,malignant,3
+mycosis_fungoides/my-fu_f4_112_f37e2d17.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,An image of mycosis_fungoides.,malignant cutaneous lymphoma,malignant,4
+mycosis_fungoides/my-fu_f4_156_a8f9762b.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,An image of mycosis_fungoides.,malignant cutaneous lymphoma,malignant,4
+mycosis_fungoides/my-fu_f4_35_6bf57a76.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,A view of mycosis_fungoides.,malignant cutaneous lymphoma,malignant,4
+mycosis_fungoides/my-fu_f4_55_f5ef49a0.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,An image of mycosis_fungoides.,malignant cutaneous lymphoma,malignant,4
+mycosis_fungoides/my-fu_f5_52_a663cd05.jpg,mycosis_fungoides,Unknown,Unknown,mycosis_fungoides,Medical image: mycosis_fungoides.,malignant cutaneous lymphoma,malignant,5
+myiasis/my_f0_29_52b7fa13.jpg,myiasis,UNK,Benign,myiasis,A close-up view of myiasis.,inflammatory,non-neoplastic,0
+myiasis/my_f2_7_7d83695c.jpg,myiasis,UNK,Benign,myiasis,Visual presentation of myiasis.,inflammatory,non-neoplastic,2
+myiasis/my_f3_5_6f24ec2b.jpg,myiasis,UNK,Benign,myiasis,A medical image showing a benign myiasis.,inflammatory,non-neoplastic,3
+myiasis/my_f5_51_e439fd3b.jpg,myiasis,UNK,Benign,myiasis,myiasis.,inflammatory,non-neoplastic,5
+naevus_comedonicus/na-co_f2_52_de0e9bac.jpg,naevus_comedonicus,Unknown,Unknown,naevus_comedonicus,Medical image: naevus_comedonicus.,benign epidermal,benign,2
+naevus_comedonicus/na-co_f4_25_38b19f57.jpg,naevus_comedonicus,Unknown,Unknown,naevus_comedonicus,Medical image: naevus_comedonicus.,benign epidermal,benign,4
+naevus_comedonicus/na-co_f4_66_dfdf97f1.jpg,naevus_comedonicus,Unknown,Unknown,naevus_comedonicus,An image of naevus_comedonicus.,benign epidermal,benign,4
+naevus_comedonicus/na-co_f5_42_d8b3dc2a.jpg,naevus_comedonicus,Unknown,Unknown,naevus_comedonicus,A view of naevus_comedonicus.,benign epidermal,benign,5
+necrobiosis_lipoidica/ne-li_f1_41_f649c96a.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,Medical image: necrobiosis_lipoidica.,inflammatory,non-neoplastic,1
+necrobiosis_lipoidica/ne-li_f1_42_e968f15e.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,A view of necrobiosis_lipoidica.,inflammatory,non-neoplastic,1
+necrobiosis_lipoidica/ne-li_f2_17_02cf3ed8.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,Skin lesion: necrobiosis_lipoidica.,inflammatory,non-neoplastic,2
+necrobiosis_lipoidica/ne-li_f3_23_367a5413.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,Medical image: necrobiosis_lipoidica.,inflammatory,non-neoplastic,3
+necrobiosis_lipoidica/ne-li_f3_43_62c04a12.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,An image of necrobiosis_lipoidica.,inflammatory,non-neoplastic,3
+necrobiosis_lipoidica/ne-li_f3_45_38fc1731.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,A view of necrobiosis_lipoidica.,inflammatory,non-neoplastic,3
+necrobiosis_lipoidica/ne-li_f4_61_bf1264ef.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,Skin lesion: necrobiosis_lipoidica.,inflammatory,non-neoplastic,4
+necrobiosis_lipoidica/ne-li_f4_68_540937ab.jpg,necrobiosis_lipoidica,Unknown,Unknown,necrobiosis_lipoidica,An image of necrobiosis_lipoidica.,inflammatory,non-neoplastic,4
+nematode_infection/ne-in_f2_149_f4f41b57.jpg,nematode_infection,Unknown,Unknown,nematode_infection,Skin lesion: nematode_infection.,inflammatory,non-neoplastic,2
+nematode_infection/ne-in_f2_199_6431c31d.jpg,nematode_infection,Unknown,Unknown,nematode_infection,Skin lesion: nematode_infection.,inflammatory,non-neoplastic,2
+nematode_infection/ne-in_f3_143_c5fa935e.jpg,nematode_infection,Unknown,Unknown,nematode_infection,Medical image: nematode_infection.,inflammatory,non-neoplastic,3
+nematode_infection/ne-in_f3_202_94277db2.jpg,nematode_infection,Unknown,Unknown,nematode_infection,Skin lesion: nematode_infection.,inflammatory,non-neoplastic,3
+nematode_infection/ne-in_f3_259_03c548cd.jpg,nematode_infection,Unknown,Unknown,nematode_infection,Close-up of nematode_infection on skin.,inflammatory,non-neoplastic,3
+nematode_infection/ne-in_f4_119_8865f807.jpg,nematode_infection,Unknown,Unknown,nematode_infection,A view of nematode_infection.,inflammatory,non-neoplastic,4
+nematode_infection/ne-in_f4_16_1fc4cc2b.jpg,nematode_infection,Unknown,Unknown,nematode_infection,Close-up of nematode_infection on skin.,inflammatory,non-neoplastic,4
+nematode_infection/ne-in_f4_230_2fc10d32.jpg,nematode_infection,Unknown,Unknown,nematode_infection,An image of nematode_infection.,inflammatory,non-neoplastic,4
+nematode_infection/ne-in_f4_35_5e752b37.jpg,nematode_infection,Unknown,Unknown,nematode_infection,A view of nematode_infection.,inflammatory,non-neoplastic,4
+nematode_infection/ne-in_f5_189_54cbd4ef.jpg,nematode_infection,Unknown,Unknown,nematode_infection,An image of nematode_infection.,inflammatory,non-neoplastic,5
+nematode_infection/ne-in_f5_235_144755cf.jpg,nematode_infection,Unknown,Unknown,nematode_infection,An image of nematode_infection.,inflammatory,non-neoplastic,5
+neurodermatitis/nede_f0_63_ae1df5f7.jpg,neurodermatitis,UNK,Benign,lichen simplex chronicus,"An image of lichen simplex chronicus, a benign skin condition.",inflammatory,non-neoplastic,0
+neurodermatitis/nede_f1_0_a2170e42.jpg,neurodermatitis,UNK,Benign,lichen simplex chronicus,A benign lesion on the skin.,inflammatory,non-neoplastic,1
+neurodermatitis/nede_f2_32_ee1b587b.jpg,neurodermatitis,UNK,Benign,lichen simplex chronicus,Condition: lichen simplex chronicus.,inflammatory,non-neoplastic,2
+neurodermatitis/nede_f2_33_46625865.jpg,neurodermatitis,UNK,Benign,lichen simplex chronicus,Diagnosed lichen simplex chronicus.,inflammatory,non-neoplastic,2
+neurodermatitis/nede_f2_57_3ce24e89.jpg,neurodermatitis,UNK,Benign,lichen simplex chronicus,Pathology present: lichen simplex chronicus (benign).,inflammatory,non-neoplastic,2
+neurofibromatosis/nefi_f1_41_f4875d86.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Condition: neurofibromatosis.,genodermatoses,non-neoplastic,1
+neurofibromatosis/nefi_f2_2_b8bf2ccc.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,A close-up view of neurofibromatosis.,genodermatoses,non-neoplastic,2
+neurofibromatosis/nefi_f2_75_354c8b92.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Diagnosed neurofibromatosis.,genodermatoses,non-neoplastic,2
+neurofibromatosis/nefi_f2_93_4af3b689.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Skin lesion: neurofibromatosis.,genodermatoses,non-neoplastic,2
+neurofibromatosis/nefi_f3_3_e1339d18.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,A close-up view of neurofibromatosis.,genodermatoses,non-neoplastic,3
+neurofibromatosis/nefi_f3_49_1f21f3e2.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Skin surface showing neurofibromatosis.,genodermatoses,non-neoplastic,3
+neurofibromatosis/nefi_f4_125_68529609.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Skin lesion: neurofibromatosis.,genodermatoses,non-neoplastic,4
+neurofibromatosis/nefi_f4_129_e494113d.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Skin lesion: neurofibromatosis.,genodermatoses,non-neoplastic,4
+neurofibromatosis/nefi_f4_131_eddeba7c.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,Condition: neurofibromatosis.,genodermatoses,non-neoplastic,4
+neurofibromatosis/nefi_f4_133_e3dba8c3.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,A benign lesion on the skin.,genodermatoses,non-neoplastic,4
+neurofibromatosis/nefi_f5_8_8a243972.jpg,neurofibromatosis,UNK,Benign,neurofibromatosis,neurofibromatosis (benign).,genodermatoses,non-neoplastic,5
+neurotic_excoriations/ne-ex_f2_13_13076d6d.jpg,neurotic_excoriations,Unknown,Unknown,neurotic_excoriations,A view of neurotic_excoriations.,inflammatory,non-neoplastic,2
+neurotic_excoriations/ne-ex_f2_3_8e764759.jpg,neurotic_excoriations,Unknown,Unknown,neurotic_excoriations,Skin lesion: neurotic_excoriations.,inflammatory,non-neoplastic,2
+neurotic_excoriations/ne-ex_f2_53_613d5b55.jpg,neurotic_excoriations,Unknown,Unknown,neurotic_excoriations,Close-up of neurotic_excoriations on skin.,inflammatory,non-neoplastic,2
+neurotic_excoriations/ne-ex_f3_62_837ddcb7.jpg,neurotic_excoriations,Unknown,Unknown,neurotic_excoriations,Close-up of neurotic_excoriations on skin.,inflammatory,non-neoplastic,3
+neurotic_excoriations/ne-ex_f4_69_c5d96b5c.jpg,neurotic_excoriations,Unknown,Unknown,neurotic_excoriations,Skin lesion: neurotic_excoriations.,inflammatory,non-neoplastic,4
+neutrophilic_dermatoses/ne-de_f1_130_095bf3c0.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Close-up of neutrophilic_dermatoses on skin.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f1_147_3b921838.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Medical image: neutrophilic_dermatoses.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f1_183_978825e9.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,A view of neutrophilic_dermatoses.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f1_189_33f62f3c.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Medical image: neutrophilic_dermatoses.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f1_262_6ea64e00.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,A view of neutrophilic_dermatoses.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f1_59_f706cf61.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,neutrophilic_dermatoses.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f1_88_d8df89bb.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Medical image: neutrophilic_dermatoses.,inflammatory,non-neoplastic,1
+neutrophilic_dermatoses/ne-de_f2_105_7568af69.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_134_1fa986e2.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,An image of neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_191_3aa9dd7b.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Medical image: neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_194_c0fc80d4.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Skin lesion: neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_230_f77f8cc0.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Skin lesion: neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_240_60a0c176.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,A view of neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_243_7f91aece.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,A view of neutrophilic_dermatoses.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_265_ff21a4d5.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Close-up of neutrophilic_dermatoses on skin.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f2_340_ec584dae.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Close-up of neutrophilic_dermatoses on skin.,inflammatory,non-neoplastic,2
+neutrophilic_dermatoses/ne-de_f3_205_f8f48995.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,An image of neutrophilic_dermatoses.,inflammatory,non-neoplastic,3
+neutrophilic_dermatoses/ne-de_f3_272_5fbf1e0b.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Close-up of neutrophilic_dermatoses on skin.,inflammatory,non-neoplastic,3
+neutrophilic_dermatoses/ne-de_f3_349_4e19d87a.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Skin lesion: neutrophilic_dermatoses.,inflammatory,non-neoplastic,3
+neutrophilic_dermatoses/ne-de_f3_98_3a212fee.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Close-up of neutrophilic_dermatoses on skin.,inflammatory,non-neoplastic,3
+neutrophilic_dermatoses/ne-de_f4_223_ba3c6812.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Medical image: neutrophilic_dermatoses.,inflammatory,non-neoplastic,4
+neutrophilic_dermatoses/ne-de_f5_122_9902a2d3.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,A view of neutrophilic_dermatoses.,inflammatory,non-neoplastic,5
+neutrophilic_dermatoses/ne-de_f5_87_86e1fcd2.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,Close-up of neutrophilic_dermatoses on skin.,inflammatory,non-neoplastic,5
+neutrophilic_dermatoses/ne-de_f6_38_67f806f7.jpg,neutrophilic_dermatoses,Unknown,Unknown,neutrophilic_dermatoses,An image of neutrophilic_dermatoses.,inflammatory,non-neoplastic,6
+nevocytic_nevus/ne-ne_f1_45_2c805283.jpg,nevocytic_nevus,Unknown,Unknown,nevocytic_nevus,Skin lesion: nevocytic_nevus.,benign melanocyte,benign,1
+nevocytic_nevus/ne-ne_f1_48_b91c83b7.jpg,nevocytic_nevus,Unknown,Unknown,nevocytic_nevus,Close-up of nevocytic_nevus on skin.,benign melanocyte,benign,1
+nevocytic_nevus/ne-ne_f1_72_de490504.jpg,nevocytic_nevus,Unknown,Unknown,nevocytic_nevus,nevocytic_nevus.,benign melanocyte,benign,1
+nevocytic_nevus/ne-ne_f1_73_7c475b1d.jpg,nevocytic_nevus,Unknown,Unknown,nevocytic_nevus,nevocytic_nevus.,benign melanocyte,benign,1
+nevocytic_nevus/ne-ne_f2_35_6acff072.jpg,nevocytic_nevus,Unknown,Unknown,nevocytic_nevus,A view of nevocytic_nevus.,benign melanocyte,benign,2
+nevus_sebaceous_of_jadassohn/ne-se-ja_f0_17_e310beb8.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,nevus_sebaceous_of_jadassohn.,benign epidermal,benign,0
+nevus_sebaceous_of_jadassohn/ne-se-ja_f1_12_d123b19c.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,An image of nevus_sebaceous_of_jadassohn.,benign epidermal,benign,1
+nevus_sebaceous_of_jadassohn/ne-se-ja_f1_16_6319f65d.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,Skin lesion: nevus_sebaceous_of_jadassohn.,benign epidermal,benign,1
+nevus_sebaceous_of_jadassohn/ne-se-ja_f2_26_2b37976a.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,nevus_sebaceous_of_jadassohn.,benign epidermal,benign,2
+nevus_sebaceous_of_jadassohn/ne-se-ja_f3_59_5a979ded.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,Skin lesion: nevus_sebaceous_of_jadassohn.,benign epidermal,benign,3
+nevus_sebaceous_of_jadassohn/ne-se-ja_f3_89_2f699c06.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,Medical image: nevus_sebaceous_of_jadassohn.,benign epidermal,benign,3
+nevus_sebaceous_of_jadassohn/ne-se-ja_f4_84_ed98e6a4.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,Medical image: nevus_sebaceous_of_jadassohn.,benign epidermal,benign,4
+nevus_sebaceous_of_jadassohn/ne-se-ja_f5_15_d2bf9475.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,Skin lesion: nevus_sebaceous_of_jadassohn.,benign epidermal,benign,5
+nevus_sebaceous_of_jadassohn/ne-se-ja_f5_49_92fbc59d.jpg,nevus_sebaceous_of_jadassohn,Unknown,Unknown,nevus_sebaceous_of_jadassohn,An image of nevus_sebaceous_of_jadassohn.,benign epidermal,benign,5
+papilomatosis_confluentes_and_reticulate/pa-co-re_f2_12_284ceebe.jpg,papilomatosis_confluentes_and_reticulate,Unknown,Unknown,papilomatosis_confluentes_and_reticulate,papilomatosis_confluentes_and_reticulate.,inflammatory,non-neoplastic,2
+papilomatosis_confluentes_and_reticulate/pa-co-re_f4_116_d16b42ab.jpg,papilomatosis_confluentes_and_reticulate,Unknown,Unknown,papilomatosis_confluentes_and_reticulate,papilomatosis_confluentes_and_reticulate.,inflammatory,non-neoplastic,4
+papilomatosis_confluentes_and_reticulate/pa-co-re_f4_54_03fe9405.jpg,papilomatosis_confluentes_and_reticulate,Unknown,Unknown,papilomatosis_confluentes_and_reticulate,papilomatosis_confluentes_and_reticulate.,inflammatory,non-neoplastic,4
+papilomatosis_confluentes_and_reticulate/pa-co-re_f5_110_a9cbc785.jpg,papilomatosis_confluentes_and_reticulate,Unknown,Unknown,papilomatosis_confluentes_and_reticulate,papilomatosis_confluentes_and_reticulate.,inflammatory,non-neoplastic,5
+papilomatosis_confluentes_and_reticulate/pa-co-re_f5_44_fc164f78.jpg,papilomatosis_confluentes_and_reticulate,Unknown,Unknown,papilomatosis_confluentes_and_reticulate,Medical image: papilomatosis_confluentes_and_reticulate.,inflammatory,non-neoplastic,5
+paronychia/pa_f2_19_8432b662.jpg,paronychia,UNK,Benign,paronychia,Cutaneous lesion identified as paronychia.,inflammatory,non-neoplastic,2
+paronychia/pa_f2_30_aba84409.jpg,paronychia,UNK,Benign,paronychia,A benign lesion on the skin.,inflammatory,non-neoplastic,2
+paronychia/pa_f2_33_acee1d28.jpg,paronychia,UNK,Benign,paronychia,Cutaneous lesion identified as paronychia.,inflammatory,non-neoplastic,2
+paronychia/pa_f2_4_5f4e973e.jpg,paronychia,UNK,Benign,paronychia,"An image of paronychia, a benign skin condition.",inflammatory,non-neoplastic,2
+paronychia/pa_f3_23_1e1e9743.jpg,paronychia,UNK,Benign,paronychia,A close-up view of paronychia.,inflammatory,non-neoplastic,3
+paronychia/pa_f5_44_e11acfd6.jpg,paronychia,UNK,Benign,paronychia,A medical image showing a benign paronychia.,inflammatory,non-neoplastic,5
+pediculosis_lids/pe-li_f1_25_96b964a9.jpg,pediculosis_lids,Unknown,Unknown,pediculosis_lids,Medical image: pediculosis_lids.,inflammatory,non-neoplastic,1
+pediculosis_lids/pe-li_f3_139_7a3a8f02.jpg,pediculosis_lids,Unknown,Unknown,pediculosis_lids,Medical image: pediculosis_lids.,inflammatory,non-neoplastic,3
+pediculosis_lids/pe-li_f3_95_4b9cf9cf.jpg,pediculosis_lids,Unknown,Unknown,pediculosis_lids,An image of pediculosis_lids.,inflammatory,non-neoplastic,3
+perioral_dermatitis/pe-de_f1_29_3d597285.jpg,perioral_dermatitis,Unknown,Unknown,perioral_dermatitis,Medical image: perioral_dermatitis.,inflammatory,non-neoplastic,1
+perioral_dermatitis/pe-de_f1_34_8342432d.jpg,perioral_dermatitis,Unknown,Unknown,perioral_dermatitis,Medical image: perioral_dermatitis.,inflammatory,non-neoplastic,1
+perioral_dermatitis/pe-de_f1_4_345176d4.jpg,perioral_dermatitis,Unknown,Unknown,perioral_dermatitis,perioral_dermatitis.,inflammatory,non-neoplastic,1
+perioral_dermatitis/pe-de_f2_13_5a5c5e39.jpg,perioral_dermatitis,Unknown,Unknown,perioral_dermatitis,An image of perioral_dermatitis.,inflammatory,non-neoplastic,2
+perioral_dermatitis/pe-de_f2_49_7930e53a.jpg,perioral_dermatitis,Unknown,Unknown,perioral_dermatitis,An image of perioral_dermatitis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f1_253_c544508b.jpg,photodermatoses,UNK,Benign,photodermatosis,Diagnosed photodermatosis.,inflammatory,non-neoplastic,1
+photodermatoses/ph_f1_285_371a57ab.jpg,photodermatoses,UNK,Benign,photodermatosis,Pathology present: photodermatosis (benign).,inflammatory,non-neoplastic,1
+photodermatoses/ph_f1_83_a7c9713f.jpg,photodermatoses,UNK,Benign,photodermatosis,Cutaneous lesion identified as photodermatosis.,inflammatory,non-neoplastic,1
+photodermatoses/ph_f2_11_a4919a21.jpg,photodermatoses,UNK,Benign,photodermatosis,A medical image showing a benign photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_127_2f127e14.jpg,photodermatoses,UNK,Benign,photodermatosis,Pathology present: photodermatosis (benign).,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_141_53f08472.jpg,photodermatoses,UNK,Benign,photodermatosis,A close-up view of photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_186_4a2f6162.jpg,photodermatoses,UNK,Benign,photodermatosis,Visual presentation of photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_192_b5f635cc.jpg,photodermatoses,UNK,Benign,photodermatosis,Skin surface showing photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_203_541f2dfa.jpg,photodermatoses,UNK,Benign,photodermatosis,A close-up view of photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_215_d37f6e14.jpg,photodermatoses,UNK,Benign,photodermatosis,A close-up view of photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_255_bdd9c8bf.jpg,photodermatoses,UNK,Benign,photodermatosis,Skin surface showing photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_258_73be6016.jpg,photodermatoses,UNK,Benign,photodermatosis,A medical image showing a benign photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_276_ef5608af.jpg,photodermatoses,UNK,Benign,photodermatosis,Cutaneous lesion identified as photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f2_77_d507ee3b.jpg,photodermatoses,UNK,Benign,photodermatosis,Skin surface showing photodermatosis.,inflammatory,non-neoplastic,2
+photodermatoses/ph_f3_107_6772a5c1.jpg,photodermatoses,UNK,Benign,photodermatosis,"An image of photodermatosis, a benign skin condition.",inflammatory,non-neoplastic,3
+photodermatoses/ph_f3_125_0feb3ce6.jpg,photodermatoses,UNK,Benign,photodermatosis,Diagnosed photodermatosis.,inflammatory,non-neoplastic,3
+photodermatoses/ph_f3_177_2ff6183a.jpg,photodermatoses,UNK,Benign,photodermatosis,Texture and color details of photodermatosis.,inflammatory,non-neoplastic,3
+photodermatoses/ph_f3_273_43bc785e.jpg,photodermatoses,UNK,Benign,photodermatosis,Cutaneous lesion identified as photodermatosis.,inflammatory,non-neoplastic,3
+photodermatoses/ph_f3_307_299e9758.jpg,photodermatoses,UNK,Benign,photodermatosis,"An image of photodermatosis, a benign skin condition.",inflammatory,non-neoplastic,3
+photodermatoses/ph_f3_343_6cd7591c.jpg,photodermatoses,UNK,Benign,photodermatosis,photodermatosis (benign).,inflammatory,non-neoplastic,3
+photodermatoses/ph_f3_345_3f53108d.jpg,photodermatoses,UNK,Benign,photodermatosis,A medical image showing a benign photodermatosis.,inflammatory,non-neoplastic,3
+photodermatoses/ph_f4_119_8a929ffa.jpg,photodermatoses,UNK,Benign,photodermatosis,Cutaneous lesion identified as photodermatosis.,inflammatory,non-neoplastic,4
+photodermatoses/ph_f4_283_19e54d61.jpg,photodermatoses,UNK,Benign,photodermatosis,Condition: photodermatosis.,inflammatory,non-neoplastic,4
+photodermatoses/ph_f5_302_7aea17b3.jpg,photodermatoses,UNK,Benign,photodermatosis,Skin surface showing photodermatosis.,inflammatory,non-neoplastic,5
+pilar_cyst/pi-cy_f1_34_1a63bffa.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,pilar_cyst.,benign dermal,benign,1
+pilar_cyst/pi-cy_f1_36_66ed0fd3.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,Skin lesion: pilar_cyst.,benign dermal,benign,1
+pilar_cyst/pi-cy_f1_50_72cbe38c.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,An image of pilar_cyst.,benign dermal,benign,1
+pilar_cyst/pi-cy_f2_20_e90b9590.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,A view of pilar_cyst.,benign dermal,benign,2
+pilar_cyst/pi-cy_f2_46_94e13acd.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,Medical image: pilar_cyst.,benign dermal,benign,2
+pilar_cyst/pi-cy_f2_57_66f79db0.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,Skin lesion: pilar_cyst.,benign dermal,benign,2
+pilar_cyst/pi-cy_f3_61_a86effe0.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,A view of pilar_cyst.,benign dermal,benign,3
+pilar_cyst/pi-cy_f3_82_950f4808.jpg,pilar_cyst,Unknown,Unknown,pilar_cyst,Close-up of pilar_cyst on skin.,benign dermal,benign,3
+pilomatricoma/pi_f1_14_f1dec1f8.jpg,pilomatricoma,UNK,Benign,pilomatricoma,Cutaneous lesion identified as pilomatricoma.,benign dermal,benign,1
+pilomatricoma/pi_f1_34_e4c5846a.jpg,pilomatricoma,UNK,Benign,pilomatricoma,Pathology present: pilomatricoma (benign).,benign dermal,benign,1
+pilomatricoma/pi_f2_5_d2aca2ff.jpg,pilomatricoma,UNK,Benign,pilomatricoma,Condition: pilomatricoma.,benign dermal,benign,2
+pilomatricoma/pi_f3_47_5f38887a.jpg,pilomatricoma,UNK,Benign,pilomatricoma,A close-up view of pilomatricoma.,benign dermal,benign,3
+pityriasis_lichenoides_chronica/pi-li-ch_f3_22_9d752703.jpg,pityriasis_lichenoides_chronica,Unknown,Unknown,pityriasis_lichenoides_chronica,Close-up of pityriasis_lichenoides_chronica on skin.,inflammatory,non-neoplastic,3
+pityriasis_lichenoides_chronica/pi-li-ch_f4_0_2dd9b408.jpg,pityriasis_lichenoides_chronica,Unknown,Unknown,pityriasis_lichenoides_chronica,pityriasis_lichenoides_chronica.,inflammatory,non-neoplastic,4
+pityriasis_lichenoides_chronica/pi-li-ch_f4_18_18624063.jpg,pityriasis_lichenoides_chronica,Unknown,Unknown,pityriasis_lichenoides_chronica,Medical image: pityriasis_lichenoides_chronica.,inflammatory,non-neoplastic,4
+pityriasis_lichenoides_chronica/pi-li-ch_f4_26_a4486c94.jpg,pityriasis_lichenoides_chronica,Unknown,Unknown,pityriasis_lichenoides_chronica,Close-up of pityriasis_lichenoides_chronica on skin.,inflammatory,non-neoplastic,4
+pityriasis_rosea/pi-ro_f1_26_e8eaa2fe.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,Skin lesion: pityriasis_rosea.,inflammatory,non-neoplastic,1
+pityriasis_rosea/pi-ro_f2_40_a1974d8c.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,Close-up of pityriasis_rosea on skin.,inflammatory,non-neoplastic,2
+pityriasis_rosea/pi-ro_f2_8_ac49cb13.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,A view of pityriasis_rosea.,inflammatory,non-neoplastic,2
+pityriasis_rosea/pi-ro_f2_94_3246a6aa.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,pityriasis_rosea.,inflammatory,non-neoplastic,2
+pityriasis_rosea/pi-ro_f3_177_604c0993.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,An image of pityriasis_rosea.,inflammatory,non-neoplastic,3
+pityriasis_rosea/pi-ro_f3_37_5d7c7d60.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,Medical image: pityriasis_rosea.,inflammatory,non-neoplastic,3
+pityriasis_rosea/pi-ro_f4_126_4f010604.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,A view of pityriasis_rosea.,inflammatory,non-neoplastic,4
+pityriasis_rosea/pi-ro_f4_81_0c136271.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,A view of pityriasis_rosea.,inflammatory,non-neoplastic,4
+pityriasis_rosea/pi-ro_f5_185_365b9b17.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,pityriasis_rosea.,inflammatory,non-neoplastic,5
+pityriasis_rosea/pi-ro_f6_145_a138d33b.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,A view of pityriasis_rosea.,inflammatory,non-neoplastic,6
+pityriasis_rosea/pi-ro_f6_39_702efb84.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,Skin lesion: pityriasis_rosea.,inflammatory,non-neoplastic,6
+pityriasis_rosea/pi-ro_f6_90_cd230500.jpg,pityriasis_rosea,Unknown,Unknown,pityriasis_rosea,A view of pityriasis_rosea.,inflammatory,non-neoplastic,6
+pityriasis_rubra_pilaris/pi-ru-pi_f1_4_2bb018c0.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,A view of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,1
+pityriasis_rubra_pilaris/pi-ru-pi_f2_18_cc656faa.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Medical image: pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,2
+pityriasis_rubra_pilaris/pi-ru-pi_f2_41_7e5c920d.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Skin lesion: pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,2
+pityriasis_rubra_pilaris/pi-ru-pi_f3_185_7eebac38.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,A view of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,3
+pityriasis_rubra_pilaris/pi-ru-pi_f3_243_b40bf756.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,An image of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,3
+pityriasis_rubra_pilaris/pi-ru-pi_f4_151_af1bb4aa.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,An image of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,4
+pityriasis_rubra_pilaris/pi-ru-pi_f4_172_11ec5e67.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,A view of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,4
+pityriasis_rubra_pilaris/pi-ru-pi_f4_275_06e61e19.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,A view of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,4
+pityriasis_rubra_pilaris/pi-ru-pi_f4_39_aa24d101.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,An image of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,4
+pityriasis_rubra_pilaris/pi-ru-pi_f5_183_276d0f39.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Close-up of pityriasis_rubra_pilaris on skin.,inflammatory,non-neoplastic,5
+pityriasis_rubra_pilaris/pi-ru-pi_f5_212_1b81b608.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,5
+pityriasis_rubra_pilaris/pi-ru-pi_f5_215_86507785.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Skin lesion: pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,5
+pityriasis_rubra_pilaris/pi-ru-pi_f5_217_cb53b279.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,5
+pityriasis_rubra_pilaris/pi-ru-pi_f5_257_d95bb616.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Skin lesion: pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,5
+pityriasis_rubra_pilaris/pi-ru-pi_f5_258_0084b12b.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,5
+pityriasis_rubra_pilaris/pi-ru-pi_f6_274_f360686b.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Medical image: pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,6
+pityriasis_rubra_pilaris/pi-ru-pi_f6_3_85dc916c.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,A view of pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,6
+pityriasis_rubra_pilaris/pi-ru-pi_f6_49_df92d66f.jpg,pityriasis_rubra_pilaris,Unknown,Unknown,pityriasis_rubra_pilaris,Medical image: pityriasis_rubra_pilaris.,inflammatory,non-neoplastic,6
+porokeratosis_actinic/po-ac_f2_176_971093da.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,porokeratosis_actinic.,benign epidermal,benign,2
+porokeratosis_actinic/po-ac_f2_92_10a1628a.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,Close-up of porokeratosis_actinic on skin.,benign epidermal,benign,2
+porokeratosis_actinic/po-ac_f3_10_541a4587.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,An image of porokeratosis_actinic.,benign epidermal,benign,3
+porokeratosis_actinic/po-ac_f3_117_77573a3b.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,Medical image: porokeratosis_actinic.,benign epidermal,benign,3
+porokeratosis_actinic/po-ac_f4_129_a7b36936.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,Skin lesion: porokeratosis_actinic.,benign epidermal,benign,4
+porokeratosis_actinic/po-ac_f4_135_bfeeff0e.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,A view of porokeratosis_actinic.,benign epidermal,benign,4
+porokeratosis_actinic/po-ac_f4_156_9902aff3.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,A view of porokeratosis_actinic.,benign epidermal,benign,4
+porokeratosis_actinic/po-ac_f4_48_838506df.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,An image of porokeratosis_actinic.,benign epidermal,benign,4
+porokeratosis_actinic/po-ac_f5_86_9b950015.jpg,porokeratosis_actinic,Unknown,Unknown,porokeratosis_actinic,Medical image: porokeratosis_actinic.,benign epidermal,benign,5
+porokeratosis_of_mibelli/po-mi_f2_20_1699ebca.jpg,porokeratosis_of_mibelli,Unknown,Unknown,porokeratosis_of_mibelli,Skin lesion: porokeratosis_of_mibelli.,benign epidermal,benign,2
+porokeratosis_of_mibelli/po-mi_f2_64_f1b90428.jpg,porokeratosis_of_mibelli,Unknown,Unknown,porokeratosis_of_mibelli,Medical image: porokeratosis_of_mibelli.,benign epidermal,benign,2
+porokeratosis_of_mibelli/po-mi_f4_39_31d8ba6f.jpg,porokeratosis_of_mibelli,Unknown,Unknown,porokeratosis_of_mibelli,porokeratosis_of_mibelli.,benign epidermal,benign,4
+porokeratosis_of_mibelli/po-mi_f4_75_367ce667.jpg,porokeratosis_of_mibelli,Unknown,Unknown,porokeratosis_of_mibelli,Skin lesion: porokeratosis_of_mibelli.,benign epidermal,benign,4
+porphyria/po_f1_112_35b506ea.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,Cutaneous lesion identified as porphyria cutanea tarda.,inflammatory,non-neoplastic,1
+porphyria/po_f1_13_0c6a824b.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,A benign lesion on the skin.,inflammatory,non-neoplastic,1
+porphyria/po_f1_3_d5e97542.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,Skin lesion: porphyria cutanea tarda.,inflammatory,non-neoplastic,1
+porphyria/po_f2_44_3cd0db19.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,Condition: porphyria cutanea tarda.,inflammatory,non-neoplastic,2
+porphyria/po_f3_125_1e859160.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,Cutaneous lesion identified as porphyria cutanea tarda.,inflammatory,non-neoplastic,3
+porphyria/po_f3_56_91258044.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,A medical image showing a benign porphyria cutanea tarda.,inflammatory,non-neoplastic,3
+porphyria/po_f4_113_8baebf41.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,"An image of porphyria cutanea tarda, a benign skin condition.",inflammatory,non-neoplastic,4
+porphyria/po_f4_72_0590f1a1.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,A close-up view of porphyria cutanea tarda.,inflammatory,non-neoplastic,4
+porphyria/po_f6_107_3a7731d7.jpg,porphyria,UNK,Benign,porphyria cutanea tarda,porphyria cutanea tarda (benign).,inflammatory,non-neoplastic,6
+port_wine_stain/po-wi-st_f2_28_a4fbe129.jpg,port_wine_stain,Unknown,Unknown,port_wine_stain,port_wine_stain.,benign dermal,benign,2
+port_wine_stain/po-wi-st_f2_41_cfd8694c.jpg,port_wine_stain,Unknown,Unknown,port_wine_stain,Medical image: port_wine_stain.,benign dermal,benign,2
+port_wine_stain/po-wi-st_f2_51_3a48646a.jpg,port_wine_stain,Unknown,Unknown,port_wine_stain,Close-up of port_wine_stain on skin.,benign dermal,benign,2
+port_wine_stain/po-wi-st_f3_10_e9550ec9.jpg,port_wine_stain,Unknown,Unknown,port_wine_stain,Medical image: port_wine_stain.,benign dermal,benign,3
+port_wine_stain/po-wi-st_f5_4_b7a2e893.jpg,port_wine_stain,Unknown,Unknown,port_wine_stain,Medical image: port_wine_stain.,benign dermal,benign,5
+prurigo_nodularis/pr-no_f2_102_f23e3518.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,prurigo_nodularis.,benign epidermal,benign,2
+prurigo_nodularis/pr-no_f2_45_f2525ecb.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,An image of prurigo_nodularis.,benign epidermal,benign,2
+prurigo_nodularis/pr-no_f2_98_fd4ed381.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,Close-up of prurigo_nodularis on skin.,benign epidermal,benign,2
+prurigo_nodularis/pr-no_f3_106_4de99fdc.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,Skin lesion: prurigo_nodularis.,benign epidermal,benign,3
+prurigo_nodularis/pr-no_f3_109_c605f6e2.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,Close-up of prurigo_nodularis on skin.,benign epidermal,benign,3
+prurigo_nodularis/pr-no_f3_125_c69c1b50.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,Skin lesion: prurigo_nodularis.,benign epidermal,benign,3
+prurigo_nodularis/pr-no_f4_84_ba807276.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,An image of prurigo_nodularis.,benign epidermal,benign,4
+prurigo_nodularis/pr-no_f5_161_ba6f667d.jpg,prurigo_nodularis,Unknown,Unknown,prurigo_nodularis,A view of prurigo_nodularis.,benign epidermal,benign,5
+psoriasis/ps_f0_22_2b7d639b.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,0
+psoriasis/ps_f0_424_594609e3.jpg,psoriasis,UNK,Benign,psoriasis,Skin lesion: psoriasis.,inflammatory,non-neoplastic,0
+psoriasis/ps_f0_44_b54d6df7.jpg,psoriasis,UNK,Benign,psoriasis,Skin surface showing psoriasis.,inflammatory,non-neoplastic,0
+psoriasis/ps_f0_561_3ef28950.jpg,psoriasis,UNK,Benign,psoriasis,Visual presentation of psoriasis.,inflammatory,non-neoplastic,0
+psoriasis/ps_f1_140_b1927971.jpg,psoriasis,UNK,Benign,psoriasis,Cutaneous lesion identified as psoriasis.,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_174_317eb01d.jpg,psoriasis,UNK,Benign,psoriasis,Cutaneous lesion identified as psoriasis.,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_237_274c0a9b.jpg,psoriasis,UNK,Benign,psoriasis,Pathology present: psoriasis (benign).,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_246_ebbb5a35.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis.,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_28_5635e1cf.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis (benign).,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_35_96bd593f.jpg,psoriasis,UNK,Benign,psoriasis,Cutaneous lesion identified as psoriasis.,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_432_9edd8cb7.jpg,psoriasis,UNK,Benign,psoriasis,Cutaneous lesion identified as psoriasis.,inflammatory,non-neoplastic,1
+psoriasis/ps_f1_546_164f56e8.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis.,inflammatory,non-neoplastic,1
+psoriasis/ps_f2_102_01d1e597.jpg,psoriasis,UNK,Benign,psoriasis,Diagnosed psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_125_7c71c09b.jpg,psoriasis,UNK,Benign,psoriasis,Diagnosed psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_129_a1eb1ad0.jpg,psoriasis,UNK,Benign,psoriasis,"An image of psoriasis, a benign skin condition.",inflammatory,non-neoplastic,2
+psoriasis/ps_f2_163_80dbde8c.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_189_7b90b888.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_19_6b37192b.jpg,psoriasis,UNK,Benign,psoriasis,Texture and color details of psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_224_98ae03f4.jpg,psoriasis,UNK,Benign,psoriasis,A benign lesion on the skin.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_243_51e0562b.jpg,psoriasis,UNK,Benign,psoriasis,Cutaneous lesion identified as psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_276_6e48c721.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis (benign).,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_375_12146947.jpg,psoriasis,UNK,Benign,psoriasis,Skin lesion: psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_413_86b23296.jpg,psoriasis,UNK,Benign,psoriasis,Pathology present: psoriasis (benign).,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_446_a73c5ecd.jpg,psoriasis,UNK,Benign,psoriasis,Diagnosed psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_488_404ca7d6.jpg,psoriasis,UNK,Benign,psoriasis,Skin lesion: psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_513_045465b6.jpg,psoriasis,UNK,Benign,psoriasis,Pathology present: psoriasis (benign).,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_514_a1652bdb.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_549_235ebeb2.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_581_daa9930b.jpg,psoriasis,UNK,Benign,psoriasis,Condition: psoriasis.,inflammatory,non-neoplastic,2
+psoriasis/ps_f2_622_e779a86c.jpg,psoriasis,UNK,Benign,psoriasis,"An image of psoriasis, a benign skin condition.",inflammatory,non-neoplastic,2
+psoriasis/ps_f2_76_7907efe2.jpg,psoriasis,UNK,Benign,psoriasis,Pathology present: psoriasis (benign).,inflammatory,non-neoplastic,2
+psoriasis/ps_f3_119_9295b5fb.jpg,psoriasis,UNK,Benign,psoriasis,"An image of psoriasis, a benign skin condition.",inflammatory,non-neoplastic,3
+psoriasis/ps_f3_170_28f22f0f.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis (benign).,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_172_6b62a18d.jpg,psoriasis,UNK,Benign,psoriasis,Pathology present: psoriasis (benign).,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_239_e7953570.jpg,psoriasis,UNK,Benign,psoriasis,A close-up view of psoriasis.,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_273_8686f8f2.jpg,psoriasis,UNK,Benign,psoriasis,Visual presentation of psoriasis.,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_386_da299023.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_478_6b21fdf6.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_495_68048d86.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,3
+psoriasis/ps_f3_592_fcc3d79d.jpg,psoriasis,UNK,Benign,psoriasis,"An image of psoriasis, a benign skin condition.",inflammatory,non-neoplastic,3
+psoriasis/ps_f4_244_675b2a2d.jpg,psoriasis,UNK,Benign,psoriasis,Visual presentation of psoriasis.,inflammatory,non-neoplastic,4
+psoriasis/ps_f4_356_13a088dc.jpg,psoriasis,UNK,Benign,psoriasis,Skin lesion: psoriasis.,inflammatory,non-neoplastic,4
+psoriasis/ps_f4_608_c9f996db.jpg,psoriasis,UNK,Benign,psoriasis,psoriasis (benign).,inflammatory,non-neoplastic,4
+psoriasis/ps_f4_69_4b508d91.jpg,psoriasis,UNK,Benign,psoriasis,Visual presentation of psoriasis.,inflammatory,non-neoplastic,4
+psoriasis/ps_f4_70_fcad83c2.jpg,psoriasis,UNK,Benign,psoriasis,A medical image showing a benign psoriasis.,inflammatory,non-neoplastic,4
+psoriasis/ps_f5_213_30a817e5.jpg,psoriasis,UNK,Benign,psoriasis,Skin lesion: psoriasis.,inflammatory,non-neoplastic,5
+psoriasis/ps_f5_269_fa13f97c.jpg,psoriasis,UNK,Benign,psoriasis,Diagnosed psoriasis.,inflammatory,non-neoplastic,5
+psoriasis/ps_f5_558_290e5299.jpg,psoriasis,UNK,Benign,psoriasis,Skin surface showing psoriasis.,inflammatory,non-neoplastic,5
+psoriasis/ps_f5_634_a7a458b6.jpg,psoriasis,UNK,Benign,psoriasis,"An image of psoriasis, a benign skin condition.",inflammatory,non-neoplastic,5
+psoriasis/ps_f5_650_69b9562d.jpg,psoriasis,UNK,Benign,psoriasis,Condition: psoriasis.,inflammatory,non-neoplastic,5
+psoriasis/ps_f6_363_adc6e16a.jpg,psoriasis,UNK,Benign,psoriasis,Pathology present: psoriasis (benign).,inflammatory,non-neoplastic,6
+psoriasis/ps_f6_485_245748cd.jpg,psoriasis,UNK,Benign,psoriasis,Cutaneous lesion identified as psoriasis.,inflammatory,non-neoplastic,6
+psoriasis/ps_f6_628_34deac35.jpg,psoriasis,UNK,Benign,psoriasis,A benign lesion on the skin.,inflammatory,non-neoplastic,6
+pustular_psoriasis/pu-ps_f1_20_8569a455.jpg,pustular_psoriasis,Unknown,Unknown,pustular_psoriasis,An image of pustular_psoriasis.,inflammatory,non-neoplastic,1
+pustular_psoriasis/pu-ps_f2_19_db670ef9.jpg,pustular_psoriasis,Unknown,Unknown,pustular_psoriasis,Close-up of pustular_psoriasis on skin.,inflammatory,non-neoplastic,2
+pustular_psoriasis/pu-ps_f2_44_008645fd.jpg,pustular_psoriasis,Unknown,Unknown,pustular_psoriasis,An image of pustular_psoriasis.,inflammatory,non-neoplastic,2
+pustular_psoriasis/pu-ps_f4_13_42902c0f.jpg,pustular_psoriasis,Unknown,Unknown,pustular_psoriasis,An image of pustular_psoriasis.,inflammatory,non-neoplastic,4
+pustular_psoriasis/pu-ps_f6_28_0d4edb57.jpg,pustular_psoriasis,Unknown,Unknown,pustular_psoriasis,An image of pustular_psoriasis.,inflammatory,non-neoplastic,6
+pyogenic_granuloma/py-gr_f1_106_d6637512.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,Skin lesion: pyogenic_granuloma.,benign dermal,benign,1
+pyogenic_granuloma/py-gr_f1_41_20f4aab1.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,Medical image: pyogenic_granuloma.,benign dermal,benign,1
+pyogenic_granuloma/py-gr_f1_63_145e13a4.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,A view of pyogenic_granuloma.,benign dermal,benign,1
+pyogenic_granuloma/py-gr_f1_85_90c37624.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,An image of pyogenic_granuloma.,benign dermal,benign,1
+pyogenic_granuloma/py-gr_f2_37_cbce0a9f.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,Medical image: pyogenic_granuloma.,benign dermal,benign,2
+pyogenic_granuloma/py-gr_f2_45_1f86593b.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,An image of pyogenic_granuloma.,benign dermal,benign,2
+pyogenic_granuloma/py-gr_f2_48_a7a5cd82.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,An image of pyogenic_granuloma.,benign dermal,benign,2
+pyogenic_granuloma/py-gr_f3_107_e74b6e2c.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,Close-up of pyogenic_granuloma on skin.,benign dermal,benign,3
+pyogenic_granuloma/py-gr_f3_15_c5e27c3e.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,A view of pyogenic_granuloma.,benign dermal,benign,3
+pyogenic_granuloma/py-gr_f3_62_70723e21.jpg,pyogenic_granuloma,Unknown,Unknown,pyogenic_granuloma,Skin lesion: pyogenic_granuloma.,benign dermal,benign,3
+rhinophyma/rh_f1_73_c0b9abe0.jpg,rhinophyma,UNK,Benign,rhinophyma,Skin lesion: rhinophyma.,inflammatory,non-neoplastic,1
+rhinophyma/rh_f2_28_c0672626.jpg,rhinophyma,UNK,Benign,rhinophyma,Skin surface showing rhinophyma.,inflammatory,non-neoplastic,2
+rhinophyma/rh_f2_46_a3cb3c78.jpg,rhinophyma,UNK,Benign,rhinophyma,A benign lesion on the skin.,inflammatory,non-neoplastic,2
+rhinophyma/rh_f2_77_40ba6fdc.jpg,rhinophyma,UNK,Benign,rhinophyma,Diagnosed rhinophyma.,inflammatory,non-neoplastic,2
+rhinophyma/rh_f5_89_7be62f84.jpg,rhinophyma,UNK,Benign,rhinophyma,"An image of rhinophyma, a benign skin condition.",inflammatory,non-neoplastic,5
+rosacea/ro_f0_78_bf095c62.jpg,rosacea,UNK,Benign,rosacea,Condition: rosacea.,inflammatory,non-neoplastic,0
+rosacea/ro_f1_50_146ca0fc.jpg,rosacea,UNK,Benign,rosacea,Texture and color details of rosacea.,inflammatory,non-neoplastic,1
+rosacea/ro_f1_72_6e486f78.jpg,rosacea,UNK,Benign,rosacea,"An image of rosacea, a benign skin condition.",inflammatory,non-neoplastic,1
+rosacea/ro_f2_11_59b3b154.jpg,rosacea,UNK,Benign,rosacea,"An image of rosacea, a benign skin condition.",inflammatory,non-neoplastic,2
+rosacea/ro_f2_74_9a6b829d.jpg,rosacea,UNK,Benign,rosacea,A medical image showing a benign rosacea.,inflammatory,non-neoplastic,2
+rosacea/ro_f2_88_51e22f2d.jpg,rosacea,UNK,Benign,rosacea,rosacea (benign).,inflammatory,non-neoplastic,2
+rosacea/ro_f3_24_eceba960.jpg,rosacea,UNK,Benign,rosacea,rosacea.,inflammatory,non-neoplastic,3
+rosacea/ro_f4_71_c3ca512f.jpg,rosacea,UNK,Benign,rosacea,Diagnosed rosacea.,inflammatory,non-neoplastic,4
+sarcoidosis/sa_f1_114_5a4d3c91.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Visual presentation of cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_117_04c85207.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Skin surface showing cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_197_f1bde18a.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Skin lesion: cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_242_0c11b495.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Condition: cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_279_aeb4bac0.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,"An image of cutaneous sarcoidosis, a benign skin condition.",inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_302_8fd58e14.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A medical image showing a benign cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_70_89cab8f3.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A medical image showing a benign cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_76_cb0b1cf4.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,"An image of cutaneous sarcoidosis, a benign skin condition.",inflammatory,non-neoplastic,1
+sarcoidosis/sa_f1_7_0c86c8cd.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Texture and color details of cutaneous sarcoidosis.,inflammatory,non-neoplastic,1
+sarcoidosis/sa_f2_104_d000bb6c.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,cutaneous sarcoidosis (benign).,inflammatory,non-neoplastic,2
+sarcoidosis/sa_f2_126_0a678de8.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Cutaneous lesion identified as cutaneous sarcoidosis.,inflammatory,non-neoplastic,2
+sarcoidosis/sa_f2_129_9da267f5.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A close-up view of cutaneous sarcoidosis.,inflammatory,non-neoplastic,2
+sarcoidosis/sa_f2_150_47af7f3c.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A close-up view of cutaneous sarcoidosis.,inflammatory,non-neoplastic,2
+sarcoidosis/sa_f2_203_f44fca3a.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Cutaneous lesion identified as cutaneous sarcoidosis.,inflammatory,non-neoplastic,2
+sarcoidosis/sa_f2_267_3e65b485.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Pathology present: cutaneous sarcoidosis (benign).,inflammatory,non-neoplastic,2
+sarcoidosis/sa_f3_179_6927a59c.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Pathology present: cutaneous sarcoidosis (benign).,inflammatory,non-neoplastic,3
+sarcoidosis/sa_f3_192_cf2354da.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A benign lesion on the skin.,inflammatory,non-neoplastic,3
+sarcoidosis/sa_f3_38_3914509b.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,"An image of cutaneous sarcoidosis, a benign skin condition.",inflammatory,non-neoplastic,3
+sarcoidosis/sa_f3_79_ce8de2c3.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,cutaneous sarcoidosis (benign).,inflammatory,non-neoplastic,3
+sarcoidosis/sa_f4_29_ccd53f1e.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A medical image showing a benign cutaneous sarcoidosis.,inflammatory,non-neoplastic,4
+sarcoidosis/sa_f4_304_fbd17e3c.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Pathology present: cutaneous sarcoidosis (benign).,inflammatory,non-neoplastic,4
+sarcoidosis/sa_f4_92_8bbcc4ba.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,"An image of cutaneous sarcoidosis, a benign skin condition.",inflammatory,non-neoplastic,4
+sarcoidosis/sa_f5_142_2c68d7ea.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,"An image of cutaneous sarcoidosis, a benign skin condition.",inflammatory,non-neoplastic,5
+sarcoidosis/sa_f5_182_14e89dbb.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,cutaneous sarcoidosis.,inflammatory,non-neoplastic,5
+sarcoidosis/sa_f5_265_39364387.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,Pathology present: cutaneous sarcoidosis (benign).,inflammatory,non-neoplastic,5
+sarcoidosis/sa_f5_347_5a327875.jpg,sarcoidosis,UNK,Benign,cutaneous sarcoidosis,A medical image showing a benign cutaneous sarcoidosis.,inflammatory,non-neoplastic,5
+scabies/scab_f2_116_1538e875.jpg,scabies,UNK,Benign,scabies,Diagnosed scabies.,inflammatory,non-neoplastic,2
+scabies/scab_f2_157_6ba5fc0d.jpg,scabies,UNK,Benign,scabies,A close-up view of scabies.,inflammatory,non-neoplastic,2
+scabies/scab_f2_288_4a6f9113.jpg,scabies,UNK,Benign,scabies,Texture and color details of scabies.,inflammatory,non-neoplastic,2
+scabies/scab_f2_41_659dfb6d.jpg,scabies,UNK,Benign,scabies,Skin surface showing scabies.,inflammatory,non-neoplastic,2
+scabies/scab_f2_9_7c1066e3.jpg,scabies,UNK,Benign,scabies,Visual presentation of scabies.,inflammatory,non-neoplastic,2
+scabies/scab_f3_159_3b1a5726.jpg,scabies,UNK,Benign,scabies,Pathology present: scabies (benign).,inflammatory,non-neoplastic,3
+scabies/scab_f3_216_2cdd5280.jpg,scabies,UNK,Benign,scabies,A close-up view of scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f3_239_a248f867.jpg,scabies,UNK,Benign,scabies,Texture and color details of scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f3_242_206a0e12.jpg,scabies,UNK,Benign,scabies,Condition: scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f3_251_54877416.jpg,scabies,UNK,Benign,scabies,A medical image showing a benign scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f3_285_9840d445.jpg,scabies,UNK,Benign,scabies,Diagnosed scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f3_38_60ca0c9f.jpg,scabies,UNK,Benign,scabies,Condition: scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f3_57_60670f22.jpg,scabies,UNK,Benign,scabies,Skin surface showing scabies.,inflammatory,non-neoplastic,3
+scabies/scab_f4_221_71592fee.jpg,scabies,UNK,Benign,scabies,Texture and color details of scabies.,inflammatory,non-neoplastic,4
+scabies/scab_f4_231_4849ab88.jpg,scabies,UNK,Benign,scabies,Cutaneous lesion identified as scabies.,inflammatory,non-neoplastic,4
+scabies/scab_f4_264_9df7cdd1.jpg,scabies,UNK,Benign,scabies,"An image of scabies, a benign skin condition.",inflammatory,non-neoplastic,4
+scabies/scab_f5_183_e1dd242a.jpg,scabies,UNK,Benign,scabies,Skin surface showing scabies.,inflammatory,non-neoplastic,5
+scabies/scab_f5_255_c8cf3a08.jpg,scabies,UNK,Benign,scabies,Cutaneous lesion identified as scabies.,inflammatory,non-neoplastic,5
+scabies/scab_f5_91_b9895f11.jpg,scabies,UNK,Benign,scabies,Diagnosed scabies.,inflammatory,non-neoplastic,5
+scabies/scab_f6_142_53363da7.jpg,scabies,UNK,Benign,scabies,Diagnosed scabies.,inflammatory,non-neoplastic,6
+scleroderma/scde_f1_124_d8f122b9.jpg,scleroderma,UNK,Benign,scleroderma,scleroderma (benign).,inflammatory,non-neoplastic,1
+scleroderma/scde_f1_16_9061d75f.jpg,scleroderma,UNK,Benign,scleroderma,Cutaneous lesion identified as scleroderma.,inflammatory,non-neoplastic,1
+scleroderma/scde_f1_185_f48a8789.jpg,scleroderma,UNK,Benign,scleroderma,Visual presentation of scleroderma.,inflammatory,non-neoplastic,1
+scleroderma/scde_f1_45_521e6f1a.jpg,scleroderma,UNK,Benign,scleroderma,Cutaneous lesion identified as scleroderma.,inflammatory,non-neoplastic,1
+scleroderma/scde_f1_47_e09144b4.jpg,scleroderma,UNK,Benign,scleroderma,Skin surface showing scleroderma.,inflammatory,non-neoplastic,1
+scleroderma/scde_f2_10_47193271.jpg,scleroderma,UNK,Benign,scleroderma,Texture and color details of scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_150_afe18362.jpg,scleroderma,UNK,Benign,scleroderma,A close-up view of scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_197_b9830cce.jpg,scleroderma,UNK,Benign,scleroderma,A medical image showing a benign scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_207_42163006.jpg,scleroderma,UNK,Benign,scleroderma,Cutaneous lesion identified as scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_208_27eaf306.jpg,scleroderma,UNK,Benign,scleroderma,Visual presentation of scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_224_58740d8c.jpg,scleroderma,UNK,Benign,scleroderma,Cutaneous lesion identified as scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_237_7daf3ef5.jpg,scleroderma,UNK,Benign,scleroderma,Texture and color details of scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f2_243_7d60aa69.jpg,scleroderma,UNK,Benign,scleroderma,"An image of scleroderma, a benign skin condition.",inflammatory,non-neoplastic,2
+scleroderma/scde_f2_260_4dd546d9.jpg,scleroderma,UNK,Benign,scleroderma,scleroderma.,inflammatory,non-neoplastic,2
+scleroderma/scde_f3_155_a9e4e714.jpg,scleroderma,UNK,Benign,scleroderma,scleroderma.,inflammatory,non-neoplastic,3
+scleroderma/scde_f3_223_1b7de066.jpg,scleroderma,UNK,Benign,scleroderma,"An image of scleroderma, a benign skin condition.",inflammatory,non-neoplastic,3
+scleroderma/scde_f3_236_f05ac72a.jpg,scleroderma,UNK,Benign,scleroderma,Pathology present: scleroderma (benign).,inflammatory,non-neoplastic,3
+scleroderma/scde_f3_242_c66ac6fc.jpg,scleroderma,UNK,Benign,scleroderma,A medical image showing a benign scleroderma.,inflammatory,non-neoplastic,3
+scleroderma/scde_f3_32_a038d1a2.jpg,scleroderma,UNK,Benign,scleroderma,"An image of scleroderma, a benign skin condition.",inflammatory,non-neoplastic,3
+scleroderma/scde_f4_14_8963a414.jpg,scleroderma,UNK,Benign,scleroderma,Texture and color details of scleroderma.,inflammatory,non-neoplastic,4
+scleroderma/scde_f4_213_915cd6aa.jpg,scleroderma,UNK,Benign,scleroderma,Skin surface showing scleroderma.,inflammatory,non-neoplastic,4
+scleroderma/scde_f5_143_7f20f29b.jpg,scleroderma,UNK,Benign,scleroderma,Pathology present: scleroderma (benign).,inflammatory,non-neoplastic,5
+scleroderma/scde_f5_151_2c958c87.jpg,scleroderma,UNK,Benign,scleroderma,scleroderma (benign).,inflammatory,non-neoplastic,5
+scleroderma/scde_f5_251_2cdfcaa7.jpg,scleroderma,UNK,Benign,scleroderma,A medical image showing a benign scleroderma.,inflammatory,non-neoplastic,5
+scleroderma/scde_f5_35_17cb985a.jpg,scleroderma,UNK,Benign,scleroderma,Visual presentation of scleroderma.,inflammatory,non-neoplastic,5
+scleromyxedema/scmy_f1_2_5e3f7a35.jpg,scleromyxedema,UNK,Benign,scleromyxedema,scleromyxedema (benign).,inflammatory,non-neoplastic,1
+scleromyxedema/scmy_f2_0_b9677d43.jpg,scleromyxedema,UNK,Benign,scleromyxedema,scleromyxedema.,inflammatory,non-neoplastic,2
+scleromyxedema/scmy_f2_17_61d813ab.jpg,scleromyxedema,UNK,Benign,scleromyxedema,A benign lesion on the skin.,inflammatory,non-neoplastic,2
+scleromyxedema/scmy_f2_25_c5725670.jpg,scleromyxedema,UNK,Benign,scleromyxedema,A close-up view of scleromyxedema.,inflammatory,non-neoplastic,2
+scleromyxedema/scmy_f2_43_becd5bd0.jpg,scleromyxedema,UNK,Benign,scleromyxedema,A medical image showing a benign scleromyxedema.,inflammatory,non-neoplastic,2
+scleromyxedema/scmy_f3_62_631543a7.jpg,scleromyxedema,UNK,Benign,scleromyxedema,A medical image showing a benign scleromyxedema.,inflammatory,non-neoplastic,3
+scleromyxedema/scmy_f3_65_ceef2b4e.jpg,scleromyxedema,UNK,Benign,scleromyxedema,A close-up view of scleromyxedema.,inflammatory,non-neoplastic,3
+scleromyxedema/scmy_f3_99_fa1e199c.jpg,scleromyxedema,UNK,Benign,scleromyxedema,scleromyxedema.,inflammatory,non-neoplastic,3
+seborrheic_dermatitis/se-de_f1_21_c46504f5.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Close-up of seborrheic_dermatitis on skin.,inflammatory,non-neoplastic,1
+seborrheic_dermatitis/se-de_f1_29_a10a2cf3.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Skin lesion: seborrheic_dermatitis.,inflammatory,non-neoplastic,1
+seborrheic_dermatitis/se-de_f1_46_c3c2f409.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Skin lesion: seborrheic_dermatitis.,inflammatory,non-neoplastic,1
+seborrheic_dermatitis/se-de_f2_12_647cc89c.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,seborrheic_dermatitis.,inflammatory,non-neoplastic,2
+seborrheic_dermatitis/se-de_f2_8_2e8921cf.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Close-up of seborrheic_dermatitis on skin.,inflammatory,non-neoplastic,2
+seborrheic_dermatitis/se-de_f2_91_639dc42d.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Close-up of seborrheic_dermatitis on skin.,inflammatory,non-neoplastic,2
+seborrheic_dermatitis/se-de_f3_106_39a3cb16.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Skin lesion: seborrheic_dermatitis.,inflammatory,non-neoplastic,3
+seborrheic_dermatitis/se-de_f3_117_b4db8401.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Medical image: seborrheic_dermatitis.,inflammatory,non-neoplastic,3
+seborrheic_dermatitis/se-de_f3_42_9c0d3923.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Close-up of seborrheic_dermatitis on skin.,inflammatory,non-neoplastic,3
+seborrheic_dermatitis/se-de_f3_83_ebd83ebc.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Close-up of seborrheic_dermatitis on skin.,inflammatory,non-neoplastic,3
+seborrheic_dermatitis/se-de_f5_35_6ec85e19.jpg,seborrheic_dermatitis,Unknown,Unknown,seborrheic_dermatitis,Close-up of seborrheic_dermatitis on skin.,inflammatory,non-neoplastic,5
+seborrheic_keratosis/se-ke_f1_23_63b6094e.jpg,seborrheic_keratosis,Unknown,Unknown,seborrheic_keratosis,Medical image: seborrheic_keratosis.,benign epidermal,benign,1
+seborrheic_keratosis/se-ke_f2_57_eb7652e0.jpg,seborrheic_keratosis,Unknown,Unknown,seborrheic_keratosis,A view of seborrheic_keratosis.,benign epidermal,benign,2
+seborrheic_keratosis/se-ke_f3_33_bfeede85.jpg,seborrheic_keratosis,Unknown,Unknown,seborrheic_keratosis,seborrheic_keratosis.,benign epidermal,benign,3
+seborrheic_keratosis/se-ke_f4_13_dbaaaf43.jpg,seborrheic_keratosis,Unknown,Unknown,seborrheic_keratosis,Close-up of seborrheic_keratosis on skin.,benign epidermal,benign,4
+seborrheic_keratosis/se-ke_f4_54_8469304f.jpg,seborrheic_keratosis,Unknown,Unknown,seborrheic_keratosis,seborrheic_keratosis.,benign epidermal,benign,4
+solid_cystic_basal_cell_carcinoma/so-cy-ba-ce-ca_f1_62_206be927.jpg,solid_cystic_basal_cell_carcinoma,Unknown,Unknown,solid_cystic_basal_cell_carcinoma,An image of solid_cystic_basal_cell_carcinoma.,malignant epidermal,malignant,1
+solid_cystic_basal_cell_carcinoma/so-cy-ba-ce-ca_f2_33_4b64778a.jpg,solid_cystic_basal_cell_carcinoma,Unknown,Unknown,solid_cystic_basal_cell_carcinoma,Medical image: solid_cystic_basal_cell_carcinoma.,malignant epidermal,malignant,2
+solid_cystic_basal_cell_carcinoma/so-cy-ba-ce-ca_f2_34_3e53dd43.jpg,solid_cystic_basal_cell_carcinoma,Unknown,Unknown,solid_cystic_basal_cell_carcinoma,Medical image: solid_cystic_basal_cell_carcinoma.,malignant epidermal,malignant,2
+solid_cystic_basal_cell_carcinoma/so-cy-ba-ce-ca_f2_38_d98bea04.jpg,solid_cystic_basal_cell_carcinoma,Unknown,Unknown,solid_cystic_basal_cell_carcinoma,Medical image: solid_cystic_basal_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f0_237_720f19f6.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,0
+squamous_cell_carcinoma/sq-ce-ca_f0_284_cdf127eb.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,0
+squamous_cell_carcinoma/sq-ce-ca_f0_330_3da1490e.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Close-up of squamous_cell_carcinoma on skin.,malignant epidermal,malignant,0
+squamous_cell_carcinoma/sq-ce-ca_f0_342_73754651.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Close-up of squamous_cell_carcinoma on skin.,malignant epidermal,malignant,0
+squamous_cell_carcinoma/sq-ce-ca_f0_98_b5dab97d.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,0
+squamous_cell_carcinoma/sq-ce-ca_f1_113_ff90a729.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,1
+squamous_cell_carcinoma/sq-ce-ca_f1_119_8e78549a.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,1
+squamous_cell_carcinoma/sq-ce-ca_f1_14_0eea95f3.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Close-up of squamous_cell_carcinoma on skin.,malignant epidermal,malignant,1
+squamous_cell_carcinoma/sq-ce-ca_f1_216_ba27cb75.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,1
+squamous_cell_carcinoma/sq-ce-ca_f1_220_55124818.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,1
+squamous_cell_carcinoma/sq-ce-ca_f2_122_e330d92c.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,A view of squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f2_16_6eefcee6.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f2_218_bee88dc6.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,A view of squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f2_24_8c2c1f40.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f2_523_fb286549.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f2_5_54f09a0a.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f2_82_2b1d6c4f.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,2
+squamous_cell_carcinoma/sq-ce-ca_f3_138_d0b0400c.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_13_d80eb8dc.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,A view of squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_306_435d8734.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_348_aa818113.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_364_664d7940.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_39_4f2cfcc1.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_415_a6887106.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,A view of squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_421_07de122c.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_488_d07c7272.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,An image of squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_489_a15b63b8.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_572_14c1d65a.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,A view of squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f3_66_15e4e617.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,3
+squamous_cell_carcinoma/sq-ce-ca_f4_309_e22fa7d3.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,squamous_cell_carcinoma.,malignant epidermal,malignant,4
+squamous_cell_carcinoma/sq-ce-ca_f4_312_4bd61d9c.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Close-up of squamous_cell_carcinoma on skin.,malignant epidermal,malignant,4
+squamous_cell_carcinoma/sq-ce-ca_f4_341_1a9e904e.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,An image of squamous_cell_carcinoma.,malignant epidermal,malignant,4
+squamous_cell_carcinoma/sq-ce-ca_f4_457_a5346617.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Close-up of squamous_cell_carcinoma on skin.,malignant epidermal,malignant,4
+squamous_cell_carcinoma/sq-ce-ca_f4_543_c194978c.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,4
+squamous_cell_carcinoma/sq-ce-ca_f4_580_67779d24.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Medical image: squamous_cell_carcinoma.,malignant epidermal,malignant,4
+squamous_cell_carcinoma/sq-ce-ca_f5_191_e36a4c4e.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,Skin lesion: squamous_cell_carcinoma.,malignant epidermal,malignant,5
+squamous_cell_carcinoma/sq-ce-ca_f5_565_a036718d.jpg,squamous_cell_carcinoma,Unknown,Unknown,squamous_cell_carcinoma,An image of squamous_cell_carcinoma.,malignant epidermal,malignant,5
+stasis_edema/st-ed_f0_3_c51aef61.jpg,stasis_edema,Unknown,Unknown,stasis_edema,Medical image: stasis_edema.,inflammatory,non-neoplastic,0
+stasis_edema/st-ed_f1_8_733f248d.jpg,stasis_edema,Unknown,Unknown,stasis_edema,A view of stasis_edema.,inflammatory,non-neoplastic,1
+stasis_edema/st-ed_f3_59_807ae149.jpg,stasis_edema,Unknown,Unknown,stasis_edema,Skin lesion: stasis_edema.,inflammatory,non-neoplastic,3
+stasis_edema/st-ed_f4_21_ec8afda6.jpg,stasis_edema,Unknown,Unknown,stasis_edema,A view of stasis_edema.,inflammatory,non-neoplastic,4
+stasis_edema/st-ed_f4_23_7efdbb0b.jpg,stasis_edema,Unknown,Unknown,stasis_edema,A view of stasis_edema.,inflammatory,non-neoplastic,4
+stevens_johnson_syndrome/st-jo-sy_f1_103_2c25d2b8.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,A view of stevens_johnson_syndrome.,inflammatory,non-neoplastic,1
+stevens_johnson_syndrome/st-jo-sy_f1_22_4a1a7556.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,An image of stevens_johnson_syndrome.,inflammatory,non-neoplastic,1
+stevens_johnson_syndrome/st-jo-sy_f1_34_6020ba7d.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,A view of stevens_johnson_syndrome.,inflammatory,non-neoplastic,1
+stevens_johnson_syndrome/st-jo-sy_f1_81_dec1aaa9.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,stevens_johnson_syndrome.,inflammatory,non-neoplastic,1
+stevens_johnson_syndrome/st-jo-sy_f2_112_276caa3a.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,Medical image: stevens_johnson_syndrome.,inflammatory,non-neoplastic,2
+stevens_johnson_syndrome/st-jo-sy_f2_84_29786e74.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,Skin lesion: stevens_johnson_syndrome.,inflammatory,non-neoplastic,2
+stevens_johnson_syndrome/st-jo-sy_f2_99_318e831f.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,An image of stevens_johnson_syndrome.,inflammatory,non-neoplastic,2
+stevens_johnson_syndrome/st-jo-sy_f3_33_61d57384.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,Close-up of stevens_johnson_syndrome on skin.,inflammatory,non-neoplastic,3
+stevens_johnson_syndrome/st-jo-sy_f3_76_26af5b2e.jpg,stevens_johnson_syndrome,Unknown,Unknown,stevens_johnson_syndrome,A view of stevens_johnson_syndrome.,inflammatory,non-neoplastic,3
+striae/st_f1_20_b50593fb.jpg,striae,UNK,Benign,striae distensae,A medical image showing a benign striae distensae.,inflammatory,non-neoplastic,1
+striae/st_f1_3_fe1d319b.jpg,striae,UNK,Benign,striae distensae,Skin surface showing striae distensae.,inflammatory,non-neoplastic,1
+striae/st_f1_53_1579aca0.jpg,striae,UNK,Benign,striae distensae,Skin lesion: striae distensae.,inflammatory,non-neoplastic,1
+striae/st_f2_23_849ae625.jpg,striae,UNK,Benign,striae distensae,"An image of striae distensae, a benign skin condition.",inflammatory,non-neoplastic,2
+striae/st_f2_34_6e2c8baa.jpg,striae,UNK,Benign,striae distensae,striae distensae (benign).,inflammatory,non-neoplastic,2
+sun_damaged_skin/su-da-sk_f1_9_2d5756cf.jpg,sun_damaged_skin,Unknown,Unknown,sun_damaged_skin,Skin lesion: sun_damaged_skin.,inflammatory,non-neoplastic,1
+sun_damaged_skin/su-da-sk_f2_21_69bdc718.jpg,sun_damaged_skin,Unknown,Unknown,sun_damaged_skin,Close-up of sun_damaged_skin on skin.,inflammatory,non-neoplastic,2
+sun_damaged_skin/su-da-sk_f3_18_ca60549b.jpg,sun_damaged_skin,Unknown,Unknown,sun_damaged_skin,Skin lesion: sun_damaged_skin.,inflammatory,non-neoplastic,3
+sun_damaged_skin/su-da-sk_f5_38_f3f52a42.jpg,sun_damaged_skin,Unknown,Unknown,sun_damaged_skin,A view of sun_damaged_skin.,inflammatory,non-neoplastic,5
+sun_damaged_skin/su-da-sk_f6_52_25552e71.jpg,sun_damaged_skin,Unknown,Unknown,sun_damaged_skin,Close-up of sun_damaged_skin on skin.,inflammatory,non-neoplastic,6
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f1_52_fb1feb5d.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,Close-up of superficial_spreading_melanoma_ssm on skin.,malignant melanoma,malignant,1
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f1_76_16b8f543.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,A view of superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,1
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f1_77_b995b00c.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,A view of superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,1
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f2_117_c85a4141.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,An image of superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,2
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f2_35_c0de110f.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,Skin lesion: superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,2
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f2_50_04619369.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,Medical image: superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,2
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f2_60_32dc52b5.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,A view of superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,2
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f2_62_6a9b56f5.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,Skin lesion: superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,2
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f2_98_7680cf64.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,Close-up of superficial_spreading_melanoma_ssm on skin.,malignant melanoma,malignant,2
+superficial_spreading_melanoma_ssm/su-sp-me-ss_f6_115_02f11821.jpg,superficial_spreading_melanoma_ssm,Unknown,Unknown,superficial_spreading_melanoma_ssm,An image of superficial_spreading_melanoma_ssm.,malignant melanoma,malignant,6
+syringoma/sy_f2_111_b6c5a69d.jpg,syringoma,UNK,Benign,syringoma,Skin lesion: syringoma.,benign dermal,benign,2
+syringoma/sy_f2_21_98da7d1c.jpg,syringoma,UNK,Benign,syringoma,A medical image showing a benign syringoma.,benign dermal,benign,2
+syringoma/sy_f2_5_c5af585a.jpg,syringoma,UNK,Benign,syringoma,Skin lesion: syringoma.,benign dermal,benign,2
+syringoma/sy_f2_69_403a674a.jpg,syringoma,UNK,Benign,syringoma,A medical image showing a benign syringoma.,benign dermal,benign,2
+syringoma/sy_f2_74_dd1706ef.jpg,syringoma,UNK,Benign,syringoma,A medical image showing a benign syringoma.,benign dermal,benign,2
+syringoma/sy_f2_8_58accb1c.jpg,syringoma,UNK,Benign,syringoma,A medical image showing a benign syringoma.,benign dermal,benign,2
+syringoma/sy_f3_80_88606e63.jpg,syringoma,UNK,Benign,syringoma,"An image of syringoma, a benign skin condition.",benign dermal,benign,3
+telangiectases/te_f0_7_1f22073e.jpg,telangiectases,VASC,Benign,telangiectasia,Diagnosed telangiectasia.,benign dermal,benign,0
+telangiectases/te_f1_25_03fa6b46.jpg,telangiectases,VASC,Benign,telangiectasia,Cutaneous lesion identified as telangiectasia.,benign dermal,benign,1
+telangiectases/te_f2_109_ff376d7f.jpg,telangiectases,VASC,Benign,telangiectasia,Skin surface showing telangiectasia.,benign dermal,benign,2
+telangiectases/te_f2_12_137283e6.jpg,telangiectases,VASC,Benign,telangiectasia,A medical image showing a benign telangiectasia.,benign dermal,benign,2
+telangiectases/te_f2_51_7242e9e4.jpg,telangiectases,VASC,Benign,telangiectasia,Diagnosed telangiectasia.,benign dermal,benign,2
+telangiectases/te_f2_81_d28d3c45.jpg,telangiectases,VASC,Benign,telangiectasia,A medical image showing a benign telangiectasia.,benign dermal,benign,2
+telangiectases/te_f2_88_72443893.jpg,telangiectases,VASC,Benign,telangiectasia,A benign lesion on the skin.,benign dermal,benign,2
+telangiectases/te_f3_83_4911f2d6.jpg,telangiectases,VASC,Benign,telangiectasia,Pathology present: telangiectasia (benign).,benign dermal,benign,3
+telangiectases/te_f4_97_aec1e76d.jpg,telangiectases,VASC,Benign,telangiectasia,Skin lesion: telangiectasia.,benign dermal,benign,4
+telangiectases/te_f5_115_c9d828d3.jpg,telangiectases,VASC,Benign,telangiectasia,Condition: telangiectasia.,benign dermal,benign,5
+tick_bite/ti-bi_f1_19_bdcae087.jpg,tick_bite,Unknown,Unknown,tick_bite,Skin lesion: tick_bite.,inflammatory,non-neoplastic,1
+tick_bite/ti-bi_f1_38_eac5fe34.jpg,tick_bite,Unknown,Unknown,tick_bite,A view of tick_bite.,inflammatory,non-neoplastic,1
+tick_bite/ti-bi_f2_43_22af984a.jpg,tick_bite,Unknown,Unknown,tick_bite,Medical image: tick_bite.,inflammatory,non-neoplastic,2
+tick_bite/ti-bi_f2_65_0b40c010.jpg,tick_bite,Unknown,Unknown,tick_bite,Medical image: tick_bite.,inflammatory,non-neoplastic,2
+tick_bite/ti-bi_f3_58_409dbc04.jpg,tick_bite,Unknown,Unknown,tick_bite,tick_bite.,inflammatory,non-neoplastic,3
+tuberous_sclerosis/tu-sc_f1_84_900304a4.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,Medical image: tuberous_sclerosis.,genodermatoses,non-neoplastic,1
+tuberous_sclerosis/tu-sc_f2_30_9d2b27dc.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,tuberous_sclerosis.,genodermatoses,non-neoplastic,2
+tuberous_sclerosis/tu-sc_f3_107_0653682c.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,An image of tuberous_sclerosis.,genodermatoses,non-neoplastic,3
+tuberous_sclerosis/tu-sc_f3_31_5b30db09.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,A view of tuberous_sclerosis.,genodermatoses,non-neoplastic,3
+tuberous_sclerosis/tu-sc_f3_79_67aadf11.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,Skin lesion: tuberous_sclerosis.,genodermatoses,non-neoplastic,3
+tuberous_sclerosis/tu-sc_f4_89_0d90cd2b.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,tuberous_sclerosis.,genodermatoses,non-neoplastic,4
+tuberous_sclerosis/tu-sc_f5_49_85b1948b.jpg,tuberous_sclerosis,Unknown,Unknown,tuberous_sclerosis,Close-up of tuberous_sclerosis on skin.,genodermatoses,non-neoplastic,5
+tungiasis/tu_f2_113_d615147d.jpg,tungiasis,UNK,Benign,tungiasis,tungiasis (benign).,inflammatory,non-neoplastic,2
+tungiasis/tu_f3_116_8ce51988.jpg,tungiasis,UNK,Benign,tungiasis,"An image of tungiasis, a benign skin condition.",inflammatory,non-neoplastic,3
+tungiasis/tu_f3_63_1fa3de78.jpg,tungiasis,UNK,Benign,tungiasis,Visual presentation of tungiasis.,inflammatory,non-neoplastic,3
+tungiasis/tu_f4_133_f3432041.jpg,tungiasis,UNK,Benign,tungiasis,Cutaneous lesion identified as tungiasis.,inflammatory,non-neoplastic,4
+tungiasis/tu_f4_65_c56a0bc6.jpg,tungiasis,UNK,Benign,tungiasis,Pathology present: tungiasis (benign).,inflammatory,non-neoplastic,4
+tungiasis/tu_f4_84_33db87c7.jpg,tungiasis,UNK,Benign,tungiasis,A medical image showing a benign tungiasis.,inflammatory,non-neoplastic,4
+tungiasis/tu_f6_147_f1008ea2.jpg,tungiasis,UNK,Benign,tungiasis,A close-up view of tungiasis.,inflammatory,non-neoplastic,6
+urticaria/ur_f1_38_3bce456f.jpg,urticaria,UNK,Benign,urticaria,A close-up view of urticaria.,inflammatory,non-neoplastic,1
+urticaria/ur_f1_69_fcb0ed3a.jpg,urticaria,UNK,Benign,urticaria,A medical image showing a benign urticaria.,inflammatory,non-neoplastic,1
+urticaria/ur_f1_72_c9520239.jpg,urticaria,UNK,Benign,urticaria,"An image of urticaria, a benign skin condition.",inflammatory,non-neoplastic,1
+urticaria/ur_f1_86_7e64310b.jpg,urticaria,UNK,Benign,urticaria,urticaria.,inflammatory,non-neoplastic,1
+urticaria/ur_f1_95_fb416b58.jpg,urticaria,UNK,Benign,urticaria,A close-up view of urticaria.,inflammatory,non-neoplastic,1
+urticaria/ur_f2_120_89e3fe17.jpg,urticaria,UNK,Benign,urticaria,A close-up view of urticaria.,inflammatory,non-neoplastic,2
+urticaria/ur_f2_36_980a5e0b.jpg,urticaria,UNK,Benign,urticaria,Visual presentation of urticaria.,inflammatory,non-neoplastic,2
+urticaria/ur_f2_87_96dde140.jpg,urticaria,UNK,Benign,urticaria,Condition: urticaria.,inflammatory,non-neoplastic,2
+urticaria/ur_f3_113_1a9620e3.jpg,urticaria,UNK,Benign,urticaria,Cutaneous lesion identified as urticaria.,inflammatory,non-neoplastic,3
+urticaria/ur_f3_18_05674d17.jpg,urticaria,UNK,Benign,urticaria,urticaria (benign).,inflammatory,non-neoplastic,3
+urticaria/ur_f3_24_eca2a213.jpg,urticaria,UNK,Benign,urticaria,Visual presentation of urticaria.,inflammatory,non-neoplastic,3
+urticaria/ur_f3_43_eceed388.jpg,urticaria,UNK,Benign,urticaria,A close-up view of urticaria.,inflammatory,non-neoplastic,3
+urticaria/ur_f3_45_9491ca70.jpg,urticaria,UNK,Benign,urticaria,A close-up view of urticaria.,inflammatory,non-neoplastic,3
+urticaria_pigmentosa/ur-pi_f1_19_883d97ab.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,An image of urticaria_pigmentosa.,inflammatory,non-neoplastic,1
+urticaria_pigmentosa/ur-pi_f1_28_9fdce37d.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,Close-up of urticaria_pigmentosa on skin.,inflammatory,non-neoplastic,1
+urticaria_pigmentosa/ur-pi_f1_30_db4a08b4.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,urticaria_pigmentosa.,inflammatory,non-neoplastic,1
+urticaria_pigmentosa/ur-pi_f1_69_71af57e3.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,Skin lesion: urticaria_pigmentosa.,inflammatory,non-neoplastic,1
+urticaria_pigmentosa/ur-pi_f2_11_3f7fdd40.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,urticaria_pigmentosa.,inflammatory,non-neoplastic,2
+urticaria_pigmentosa/ur-pi_f2_17_3b0ef004.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,Medical image: urticaria_pigmentosa.,inflammatory,non-neoplastic,2
+urticaria_pigmentosa/ur-pi_f3_10_972efb00.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,Skin lesion: urticaria_pigmentosa.,inflammatory,non-neoplastic,3
+urticaria_pigmentosa/ur-pi_f3_20_cccc3f58.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,urticaria_pigmentosa.,inflammatory,non-neoplastic,3
+urticaria_pigmentosa/ur-pi_f4_13_b0963f05.jpg,urticaria_pigmentosa,Unknown,Unknown,urticaria_pigmentosa,urticaria_pigmentosa.,inflammatory,non-neoplastic,4
+vitiligo/vi_f1_8_bfb31ace.jpg,vitiligo,UNK,Benign,vitiligo,Cutaneous lesion identified as vitiligo.,inflammatory,non-neoplastic,1
+vitiligo/vi_f2_137_a2314e28.jpg,vitiligo,UNK,Benign,vitiligo,Skin lesion: vitiligo.,inflammatory,non-neoplastic,2
+vitiligo/vi_f2_84_faf2bea7.jpg,vitiligo,UNK,Benign,vitiligo,Skin surface showing vitiligo.,inflammatory,non-neoplastic,2
+vitiligo/vi_f3_142_e7d807b1.jpg,vitiligo,UNK,Benign,vitiligo,A benign lesion on the skin.,inflammatory,non-neoplastic,3
+vitiligo/vi_f3_163_f1635b87.jpg,vitiligo,UNK,Benign,vitiligo,vitiligo (benign).,inflammatory,non-neoplastic,3
+vitiligo/vi_f4_11_a2a7f1a1.jpg,vitiligo,UNK,Benign,vitiligo,Skin surface showing vitiligo.,inflammatory,non-neoplastic,4
+vitiligo/vi_f4_85_f114c236.jpg,vitiligo,UNK,Benign,vitiligo,A benign lesion on the skin.,inflammatory,non-neoplastic,4
+vitiligo/vi_f4_99_bcc9120c.jpg,vitiligo,UNK,Benign,vitiligo,vitiligo (benign).,inflammatory,non-neoplastic,4
+vitiligo/vi_f5_118_604d5f16.jpg,vitiligo,UNK,Benign,vitiligo,A close-up view of vitiligo.,inflammatory,non-neoplastic,5
+vitiligo/vi_f5_64_834190d5.jpg,vitiligo,UNK,Benign,vitiligo,Condition: vitiligo.,inflammatory,non-neoplastic,5
+vitiligo/vi_f6_131_9286c12e.jpg,vitiligo,UNK,Benign,vitiligo,Pathology present: vitiligo (benign).,inflammatory,non-neoplastic,6
+xanthomas/xa_f2_29_7377ae98.jpg,xanthomas,UNK,Benign,xanthoma,xanthoma (benign).,inflammatory,non-neoplastic,2
+xanthomas/xa_f2_43_b3400ea8.jpg,xanthomas,UNK,Benign,xanthoma,Condition: xanthoma.,inflammatory,non-neoplastic,2
+xanthomas/xa_f3_47_abb88040.jpg,xanthomas,UNK,Benign,xanthoma,A medical image showing a benign xanthoma.,inflammatory,non-neoplastic,3
+xanthomas/xa_f4_15_9f94f5bf.jpg,xanthomas,UNK,Benign,xanthoma,"An image of xanthoma, a benign skin condition.",inflammatory,non-neoplastic,4
+xeroderma_pigmentosum/xe-pi_f0_9_5b7522be.jpg,xeroderma_pigmentosum,Unknown,Unknown,xeroderma_pigmentosum,Close-up of xeroderma_pigmentosum on skin.,genodermatoses,non-neoplastic,0
+xeroderma_pigmentosum/xe-pi_f2_27_dac0d205.jpg,xeroderma_pigmentosum,Unknown,Unknown,xeroderma_pigmentosum,Skin lesion: xeroderma_pigmentosum.,genodermatoses,non-neoplastic,2
+xeroderma_pigmentosum/xe-pi_f4_54_86dba4c4.jpg,xeroderma_pigmentosum,Unknown,Unknown,xeroderma_pigmentosum,Close-up of xeroderma_pigmentosum on skin.,genodermatoses,non-neoplastic,4
+xeroderma_pigmentosum/xe-pi_f5_30_3a969206.jpg,xeroderma_pigmentosum,Unknown,Unknown,xeroderma_pigmentosum,Skin lesion: xeroderma_pigmentosum.,genodermatoses,non-neoplastic,5
+xeroderma_pigmentosum/xe-pi_f5_57_5e82dddc.jpg,xeroderma_pigmentosum,Unknown,Unknown,xeroderma_pigmentosum,A view of xeroderma_pigmentosum.,genodermatoses,non-neoplastic,5

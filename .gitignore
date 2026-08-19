@@ -5,7 +5,6 @@ saes/
 .env
 .ipynb_checkpoints
 .ruff_cache/
-README.md
 out/
 notebooks
 node_modules/

@@ -1,0 +1,194 @@
+file_name,MEL,NV,BCC,AKIEC,BKL,DF,VASC,label,diag_int,ISIC_label,malignancy,disease_label,CLIP_caption
+nv/ISIC_0034321.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034322.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+bcc/ISIC_0034323.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Pathology present: basal cell carcinoma (malignant).
+nv/ISIC_0034324.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034325.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin lesion: melanocytic nevus.
+bkl/ISIC_0034326.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A close-up view of benign keratosis.
+nv/ISIC_0034328.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+mel/ISIC_0034329.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Skin surface showing melanoma.
+nv/ISIC_0034330.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034331.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+akiec/ISIC_0034332.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,A medical image showing a potentially malignant actinic keratosis.
+bcc/ISIC_0034333.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Pathology present: basal cell carcinoma (malignant).
+df/ISIC_0034334.jpg,0.0,0.0,0.0,0.0,0.0,1.0,0.0,df,3,DF,Benign,dermatofibroma,"An image of dermatofibroma, a benign skin condition."
+nv/ISIC_0034335.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nv/ISIC_0034336.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034337.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A benign lesion on the skin.
+bcc/ISIC_0034338.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Condition: basal cell carcinoma.
+nv/ISIC_0034339.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034340.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034341.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034342.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+mel/ISIC_0034343.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Cutaneous lesion identified as melanoma.
+bcc/ISIC_0034344.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,A close-up view of basal cell carcinoma.
+bkl/ISIC_0034345.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+bcc/ISIC_0034346.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,basal cell carcinoma (malignant).
+nv/ISIC_0034347.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+nv/ISIC_0034348.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+nv/ISIC_0034349.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034350.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Texture and color details of melanocytic nevus.
+nv/ISIC_0034351.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034352.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+mel/ISIC_0034354.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Diagnosed melanoma.
+nv/ISIC_0034355.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Texture and color details of melanocytic nevus.
+nv/ISIC_0034356.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034357.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034359.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+bkl/ISIC_0034360.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,"An image of benign keratosis, a benign skin condition."
+bcc/ISIC_0034361.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,"An image of basal cell carcinoma, a malignant skin condition."
+bkl/ISIC_0034362.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Diagnosed benign keratosis.
+nv/ISIC_0034363.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+nv/ISIC_0034364.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nv/ISIC_0034365.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+bkl/ISIC_0034366.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,"An image of benign keratosis, a benign skin condition."
+nv/ISIC_0034367.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+bkl/ISIC_0034368.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Skin lesion: benign keratosis.
+nv/ISIC_0034369.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034370.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+bkl/ISIC_0034371.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A close-up view of benign keratosis.
+nv/ISIC_0034372.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034374.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+bkl/ISIC_0034375.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A benign lesion on the skin.
+mel/ISIC_0034376.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Skin lesion: melanoma.
+nv/ISIC_0034377.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034378.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034379.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin lesion: melanocytic nevus.
+nv/ISIC_0034380.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+mel/ISIC_0034381.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,melanoma.
+mel/ISIC_0034382.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Condition: melanoma.
+bcc/ISIC_0034383.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Cutaneous lesion identified as basal cell carcinoma.
+nv/ISIC_0034385.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+mel/ISIC_0034386.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Cutaneous lesion identified as melanoma.
+bkl/ISIC_0034387.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Diagnosed benign keratosis.
+nv/ISIC_0034389.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+bkl/ISIC_0034390.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A close-up view of benign keratosis.
+nv/ISIC_0034391.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034392.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A benign lesion on the skin.
+nv/ISIC_0034393.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Texture and color details of melanocytic nevus.
+mel/ISIC_0034394.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Skin lesion: melanoma.
+nv/ISIC_0034395.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+akiec/ISIC_0034396.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,"An image of actinic keratosis, a potentially malignant skin condition."
+nv/ISIC_0034397.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Texture and color details of melanocytic nevus.
+mel/ISIC_0034398.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,A close-up view of melanoma.
+nv/ISIC_0034399.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034400.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034401.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+akiec/ISIC_0034402.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,actinic keratosis (potentially malignant).
+nv/ISIC_0034403.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+bcc/ISIC_0034404.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Cutaneous lesion identified as basal cell carcinoma.
+bcc/ISIC_0034405.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,A close-up view of basal cell carcinoma.
+bcc/ISIC_0034406.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,A malignant lesion on the skin.
+nv/ISIC_0034407.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034408.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A benign lesion on the skin.
+bcc/ISIC_0034409.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Texture and color details of basal cell carcinoma.
+akiec/ISIC_0034410.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,Condition: actinic keratosis.
+bkl/ISIC_0034411.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+nv/ISIC_0034412.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+bkl/ISIC_0034413.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Pathology present: benign keratosis (benign).
+nv/ISIC_0034414.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034415.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+bcc/ISIC_0034416.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,Pathology present: basal cell carcinoma (malignant).
+nv/ISIC_0034417.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034418.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034419.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034420.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+akiec/ISIC_0034421.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,Diagnosed actinic keratosis.
+akiec/ISIC_0034422.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,Texture and color details of actinic keratosis.
+nv/ISIC_0034423.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034424.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034425.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034426.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+akiec/ISIC_0034427.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,A close-up view of actinic keratosis.
+nv/ISIC_0034428.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+nv/ISIC_0034429.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+nv/ISIC_0034430.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus.
+nv/ISIC_0034431.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034433.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034434.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034435.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+akiec/ISIC_0034436.jpg,0.0,0.0,0.0,1.0,0.0,0.0,0.0,akiec,0,AK,Potentially Malignant,actinic keratosis,Cutaneous lesion identified as actinic keratosis.
+nv/ISIC_0034437.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A benign lesion on the skin.
+mel/ISIC_0034438.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.
+nv/ISIC_0034439.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034440.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034441.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034442.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nv/ISIC_0034443.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034444.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+nv/ISIC_0034445.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+mel/ISIC_0034446.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.
+nv/ISIC_0034447.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034448.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Diagnosed melanocytic nevus.
+nv/ISIC_0034449.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+nv/ISIC_0034450.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+bkl/ISIC_0034451.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,benign keratosis.
+nv/ISIC_0034452.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+bkl/ISIC_0034453.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Skin surface showing benign keratosis.
+nv/ISIC_0034454.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+vasc/ISIC_0034455.jpg,0.0,0.0,0.0,0.0,0.0,0.0,1.0,vasc,6,VASC,Benign,vascular lesion,A close-up view of vascular lesion.
+nv/ISIC_0034456.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+mel/ISIC_0034457.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,melanoma.
+nv/ISIC_0034458.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+mel/ISIC_0034459.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,melanoma (malignant).
+bkl/ISIC_0034460.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A benign lesion on the skin.
+nv/ISIC_0034461.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034463.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034464.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034465.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nv/ISIC_0034466.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus.
+nv/ISIC_0034467.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+nv/ISIC_0034468.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+nv/ISIC_0034469.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+bkl/ISIC_0034470.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Pathology present: benign keratosis (benign).
+vasc/ISIC_0034471.jpg,0.0,0.0,0.0,0.0,0.0,0.0,1.0,vasc,6,VASC,Benign,vascular lesion,vascular lesion (benign).
+mel/ISIC_0034472.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,"An image of melanoma, a malignant skin condition."
+nv/ISIC_0034474.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin lesion: melanocytic nevus.
+nv/ISIC_0034475.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034476.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+mel/ISIC_0034477.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Visual presentation of melanoma.
+bcc/ISIC_0034478.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,basal cell carcinoma.
+nv/ISIC_0034480.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Diagnosed melanocytic nevus.
+nv/ISIC_0034481.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Diagnosed melanocytic nevus.
+mel/ISIC_0034482.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,A close-up view of melanoma.
+nv/ISIC_0034483.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034484.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+bkl/ISIC_0034485.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,A medical image showing a benign benign keratosis.
+bcc/ISIC_0034486.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,basal cell carcinoma.
+mel/ISIC_0034487.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,melanoma.
+nv/ISIC_0034488.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034489.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+bkl/ISIC_0034490.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Skin surface showing benign keratosis.
+nv/ISIC_0034491.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin surface showing melanocytic nevus.
+mel/ISIC_0034492.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,"An image of melanoma, a malignant skin condition."
+bkl/ISIC_0034493.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Diagnosed benign keratosis.
+mel/ISIC_0034494.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Pathology present: melanoma (malignant).
+nv/ISIC_0034495.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Visual presentation of melanocytic nevus.
+nv/ISIC_0034496.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Diagnosed melanocytic nevus.
+mel/ISIC_0034497.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,A medical image showing a malignant melanoma.
+nv/ISIC_0034498.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nv/ISIC_0034499.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+bkl/ISIC_0034500.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,benign keratosis (benign).
+nv/ISIC_0034501.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,"An image of melanocytic nevus, a benign skin condition."
+nv/ISIC_0034502.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Diagnosed melanocytic nevus.
+nv/ISIC_0034503.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+mel/ISIC_0034504.jpg,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mel,4,MEL,Malignant,melanoma,Texture and color details of melanoma.
+bkl/ISIC_0034505.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Skin lesion: benign keratosis.
+nv/ISIC_0034506.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus.
+nv/ISIC_0034507.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A close-up view of melanocytic nevus.
+vasc/ISIC_0034508.jpg,0.0,0.0,0.0,0.0,0.0,0.0,1.0,vasc,6,VASC,Benign,vascular lesion,"An image of vascular lesion, a benign skin condition."
+nv/ISIC_0034509.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus.
+nv/ISIC_0034510.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Skin lesion: melanocytic nevus.
+nv/ISIC_0034511.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Cutaneous lesion identified as melanocytic nevus.
+nv/ISIC_0034512.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Texture and color details of melanocytic nevus.
+nv/ISIC_0034513.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034514.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034515.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Pathology present: melanocytic nevus (benign).
+nv/ISIC_0034516.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,melanocytic nevus (benign).
+nv/ISIC_0034517.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+nv/ISIC_0034518.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Condition: melanocytic nevus.
+nv/ISIC_0034519.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Texture and color details of melanocytic nevus.
+nv/ISIC_0034520.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,A medical image showing a benign melanocytic nevus.
+bkl/ISIC_0034521.jpg,0.0,0.0,0.0,0.0,1.0,0.0,0.0,bkl,2,BKL,Benign,benign keratosis,Skin lesion: benign keratosis.
+nv/ISIC_0034522.jpg,0.0,1.0,0.0,0.0,0.0,0.0,0.0,nv,5,NV,Benign,melanocytic nevus,Diagnosed melanocytic nevus.
+bcc/ISIC_0034523.jpg,0.0,0.0,1.0,0.0,0.0,0.0,0.0,bcc,1,BCC,Malignant,basal cell carcinoma,basal cell carcinoma.
